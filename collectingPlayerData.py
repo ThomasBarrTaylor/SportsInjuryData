@@ -18,7 +18,7 @@ team = []
 playerLeavingInjury = []
 playerOnInjury = []
 injury = []
-
+injuryDataset = []
 number = 0
 playerFirstName = []
 playerLastName = []
@@ -95,6 +95,7 @@ playerFirstName = [item.replace("'","") for item in playerFirstName]
 date = [item.replace("'","") for item in date]
 date = [item.replace('[','') for item in date]
 injury = [item.replace("'","") for item in injury]
+injury = [item.replace("]","") for item in injury]
 team = [item.replace("'","") for item in team]
 name = -1
 for data in playerFirstName:
@@ -123,6 +124,13 @@ for data in playerFirstName:
                 years = [el.text.strip() for el in row.find_all('th')]
                 player = [el.text.strip() for el in row.find_all('td')]
                 rows.append(years + player)
+    injuryURL =  "https://www.prosportstransactions.com/hockey/Search/SearchResults.php?Player=" + playerFirstName[name] + "+" + playerLastName[name] + "&Team=&BeginDate=&EndDate=&ILChkBx=yes&submit=Search"
+    response =requests.get(injuryURL.format())
+    soup=BeautifulSoup(response.content, 'html.parser')
+    table = soup.find('table')
+    for i, row in enumerate(table.find_all('tr')):
+        if i != 0:
+            injuryDataset.append([el.text.strip() for el in row.find_all('td')])
     if (len(rows)>0) and len(rows[0])==30:
         for e in rows:
             cols.append([playerFirstName[name], playerLastName[name], date[name], team[name], injury[name], e[0],e[1],e[2],e[3],e[4],e[5],e[6],e[7],e[8],e[9],e[10],e[11],e[12],e[13],e[14],e[15],
@@ -143,4 +151,5 @@ df = pd.DataFrame(cols,columns=["Player First Name","Player Last Name","Date of 
                   "Time on Minutes","Average Time on Ice","Faceoff Wins","Faceoff Losses","Faceoff Percentage","Blocks","Hits","Takeaways","Giveaways","Awards"])
 df.to_csv("playerData.csv")
 file1.close()
+print(injuryDataset)
 print("finished")

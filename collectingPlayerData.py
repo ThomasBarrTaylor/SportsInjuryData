@@ -227,6 +227,7 @@ def injury_calc(first_name,last_name,date):
         season[i] = season[i].replace("-","")
         #print(str(date.strip()) + str(season[i].strip()))
         if totalFirstName[i] == first_name and totalLastName[i] == last_name and season[i].strip() == date.strip() and daysCalculated[i] != 0:
+            injuryData.remove(0)
             injuryData.append(daysCalculated[i])
     for element in injuryData:
         if new_string == "0":

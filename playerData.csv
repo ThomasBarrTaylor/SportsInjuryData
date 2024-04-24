@@ -1,421 +1,303 @@
-,Player First Name,Player Last Name,Date of Injury,Team When Injured,Injury Description,Season,Age,Team,League,Games Played,Goals,Assists,Points,+/-,Penalties in Minutes,Even Strength Goals,Power Play Goals,Short Handed Goals,Game-Winning Goals,Even Strength Assists,Power Play Assists,Short-Handed Assists,Shots On Goals,Shooting Percentage,Total Shoot Assists,Time on Minutes,Average Time on Ice,Faceoff Wins,Faceoff Losses,Faceoff Percentage,Blocks,Hits,Takeaways,Giveaways,Awards
-0,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",2017-18,22,NYR,NHL,19,1,4,5,-12,0,1,0,0,0,3,1,0,28,3.6,57,229,12:03,5,7,41.7,6,22,2,7,
-1,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",2018-19,23,NYR,NHL,27,1,2,3,-7,14,0,1,0,0,1,1,0,40,2.5,70,274,10:09,7,6,53.8,11,41,7,9,
-2,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",2020-21,25,ANA,NHL,5,0,0,0,-3,0,0,0,0,0,0,0,0,7,0.0,12,64,12:43,2,3,40.0,1,9,2,1,
-3,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",2021-22,26,ANA,NHL,31,5,5,10,-8,6,3,2,0,0,2,3,0,50,10.0,86,388,12:31,12,11,52.2,17,40,6,10,
-4,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",2022-23,27,BOS,NHL,1,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,1,10,9:50,0,1,0.0,0,3,0,0,
-5,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",2023-24,28,MIN,NHL,19,3,1,4,-6,6,3,0,0,0,1,0,0,26,11.5,40,190,10:01,23,17,57.5,11,21,4,4,
-6,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",2 yrs,,NYR,NHL,46,2,6,8,-19,14,1,1,0,0,4,2,0,68,2.9,127,503,10:56,12,13,48.0,17,63,9,16,
-7,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",2 yrs,,ANA,NHL,36,5,5,10,-11,6,3,2,0,0,2,3,0,57,8.8,98,452,12:33,14,14,50.0,18,49,8,11,
-8,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",1 yr,,BOS,NHL,1,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,1,10,9:50,0,1,0.0,0,3,0,0,
-9,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",1 yr,,MIN,NHL,19,3,1,4,-6,6,3,0,0,0,1,0,0,26,11.5,40,190,10:01,23,17,57.5,11,21,4,4,
-10,Vinni,Lettieri,2023-02-01, Bruins," placed on IR with lower body injury]
-",Career,,6 yrs,NHL,102,10,12,22,-37,26,7,3,0,0,7,5,0,152,6.6,266,1155,11:19,49,45,52.1,46,136,21,31,
-11,Artem,Zub,2023-02-01, Senators," activated from IR]
-",2020-21,25,OTT,NHL,47,3,11,14,4,26,3,0,0,1,11,0,0,39,7.7,85,864,18:23,0,0,,70,89,8,36,Calder-17
-12,Artem,Zub,2023-02-01, Senators," activated from IR]
-",2021-22,26,OTT,NHL,81,6,16,22,1,60,6,0,0,0,16,0,0,92,6.5,194,1704,21:02,0,0,,124,155,14,60,
-13,Artem,Zub,2023-02-01, Senators," activated from IR]
-",2022-23,27,OTT,NHL,53,3,7,10,2,39,3,0,0,0,7,0,0,41,7.3,109,1073,20:15,0,0,,67,131,8,31,
-14,Artem,Zub,2023-02-01, Senators," activated from IR]
-",2023-24,28,OTT,NHL,31,3,11,14,3,14,3,0,0,0,11,0,0,43,7.0,93,641,20:41,0,0,,51,49,6,16,
-15,Artem,Zub,2023-02-01, Senators," activated from IR]
-",Career,,4 yrs,NHL,212,15,45,60,10,139,15,0,0,1,45,0,0,215,7.0,481,4283,20:12,0,0,,312,424,36,143,
-16,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2012-13,22,TBL,NHL,14,3,3,6,3,4,3,0,0,0,3,0,0,11,27.3,28,183,13:04,72,49,59.5,4,18,2,4,
-17,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2013-14,23,TBL,NHL,82,24,26,50,23,26,14,5,5,4,20,5,1,181,13.3,313,1540,18:47,614,661,48.2,37,55,23,41,"AR-1,Calder-3,Selke-19"
-18,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2014-15,24,TBL,NHL,77,29,43,72,33,24,21,8,0,6,34,9,0,203,14.3,333,1327,17:14,508,569,47.2,35,63,24,30,"AS-9,Byng-12,Selke-8"
-19,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2015-16,25,TBL,NHL,69,14,24,38,4,20,11,3,0,7,14,10,0,167,8.4,292,1183,17:08,479,507,48.6,25,46,19,31,Selke-43
-20,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2016-17,26,TBL,NHL,66,19,26,45,-5,28,13,6,0,3,15,11,0,130,14.6,250,1242,18:49,583,539,52.0,30,46,26,32,
-21,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2017-18,27,TBL,NHL,81,21,29,50,3,24,15,4,2,3,20,9,0,186,11.3,311,1376,17:00,360,359,50.1,47,48,39,23,
-22,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2018-19,28,TBL,NHL,80,29,18,47,15,28,27,1,1,4,11,7,0,163,17.8,268,1276,15:57,230,243,48.6,32,50,13,32,
-23,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2019-20,29,TBL,NHL,65,14,17,31,9,16,13,1,0,2,11,6,0,113,12.4,190,945,14:33,173,180,49.0,22,62,14,20,
-24,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2020-21,30,TBL,NHL,55,8,14,22,-1,16,6,2,0,1,13,1,0,77,10.4,123,752,13:40,170,140,54.8,15,63,4,7,
-25,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2021-22,31,CHI,NHL,26,3,4,7,-8,12,3,0,0,0,2,2,0,30,10.0,52,337,12:59,31,20,60.8,7,37,5,3,
-26,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2022-23,32,CHI,NHL,56,12,20,32,-21,16,8,4,0,0,15,5,0,125,9.6,216,928,16:34,58,55,51.3,25,49,33,22,
-27,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",2023-24,33,CHI,NHL,35,9,4,13,-15,16,6,3,0,1,2,2,0,58,15.5,104,532,15:13,72,98,42.4,18,15,12,12,
-28,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",9 yrs,,TBL,NHL,589,161,200,361,84,186,123,30,8,30,141,58,1,1231,13.1,2108,9825,16:41,3189,3247,49.5,247,451,164,220,
-29,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",3 yrs,,CHI,NHL,117,24,28,52,-44,44,17,7,0,1,19,9,0,213,11.3,372,1798,15:22,161,173,48.2,50,101,50,37,
-30,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR]
-",Career,,12 yrs,NHL,706,185,228,413,40,230,140,37,8,31,160,67,1,1444,12.8,2480,11622,16:28,3350,3420,49.5,297,552,214,257,
-31,Filip,Zadina,2023-02-05, Red Wings," activated from IR]
-",2018-19,19,DET,NHL,9,1,2,3,-5,0,0,1,0,0,1,1,0,18,5.6,38,138,15:23,3,3,50.0,3,6,5,5,
-32,Filip,Zadina,2023-02-05, Red Wings," activated from IR]
-",2019-20,20,DET,NHL,28,8,7,15,-13,2,4,4,0,1,4,3,0,60,13.3,107,425,15:10,1,0,100.0,10,11,12,17,
-33,Filip,Zadina,2023-02-05, Red Wings," activated from IR]
-",2020-21,21,DET,NHL,49,6,13,19,-4,0,3,3,0,1,10,3,0,97,6.2,169,823,16:48,5,10,33.3,22,22,17,17,Byng-35
-34,Filip,Zadina,2023-02-05, Red Wings," activated from IR]
-",2021-22,22,DET,NHL,74,10,14,24,-24,10,6,4,0,1,10,4,0,154,6.5,284,1049,14:11,5,5,50.0,34,57,24,30,
-35,Filip,Zadina,2023-02-05, Red Wings," activated from IR]
-",2022-23,23,DET,NHL,30,3,4,7,-5,10,3,0,0,2,4,0,0,51,5.9,82,393,13:06,2,4,33.3,15,22,16,14,
-36,Filip,Zadina,2023-02-05, Red Wings," activated from IR]
-",2023-24,24,SJS,NHL,40,5,7,12,-28,8,4,1,0,1,6,1,0,72,6.9,132,533,13:20,13,38,25.5,18,22,19,10,
-37,Filip,Zadina,2023-02-05, Red Wings," activated from IR]
-",5 yrs,,DET,NHL,190,28,40,68,-51,22,16,12,0,5,29,11,0,380,7.4,680,2829,14:53,16,22,42.1,84,118,74,83,
-38,Filip,Zadina,2023-02-05, Red Wings," activated from IR]
-",1 yr,,SJS,NHL,40,5,7,12,-28,8,4,1,0,1,6,1,0,72,6.9,132,533,13:20,13,38,25.5,18,22,19,10,
-39,Filip,Zadina,2023-02-05, Red Wings," activated from IR]
-",Career,,6 yrs,NHL,230,33,47,80,-79,30,20,13,0,6,35,12,0,452,7.3,812,3362,14:37,29,60,32.6,102,140,93,93,
-40,Nikolai,Knyzhov,2023-02-05, Sharks," activated from IR]
-",2019-20,21,SJS,NHL,3,0,0,0,-1,2,0,0,0,0,0,0,0,0,,3,32,10:49,0,0,,4,4,1,2,
-41,Nikolai,Knyzhov,2023-02-05, Sharks," activated from IR]
-",2020-21,22,SJS,NHL,56,2,8,10,-10,39,2,0,0,1,8,0,0,51,3.9,97,938,16:45,0,0,,54,84,18,13,
-42,Nikolai,Knyzhov,2023-02-05, Sharks," activated from IR]
-",2022-23,24,SJS,NHL,12,1,0,1,-13,8,1,0,0,0,0,0,0,10,10.0,19,194,16:09,0,0,,16,11,3,9,
-43,Nikolai,Knyzhov,2023-02-05, Sharks," activated from IR]
-",2023-24,25,SJS,NHL,10,0,1,1,-6,6,0,0,0,0,1,0,0,6,0.0,19,176,17:39,0,0,,17,9,3,2,
-44,Nikolai,Knyzhov,2023-02-05, Sharks," activated from IR]
-",Career,,4 yrs,NHL,81,3,9,12,-30,55,3,0,0,1,9,0,0,67,4.5,138,1340,16:33,0,0,,91,108,25,26,
-45,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",2018-19,20,BOS,NHL,2,0,0,0,-1,0,0,0,0,0,0,0,0,2,0.0,4,18,9:06,0,0,,0,0,0,1,
-46,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",2019-20,21,BOS,NHL,5,0,0,0,2,0,0,0,0,0,0,0,0,2,0.0,9,84,16:51,0,0,,3,8,1,3,
-47,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",2020-21,22,BOS,NHL,9,0,2,2,-3,2,0,0,0,0,2,0,0,15,0.0,26,170,18:55,0,0,,19,3,1,4,
-48,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",2021-22,23,TOT,NHL,29,0,6,6,-5,10,0,0,0,0,5,1,0,27,0.0,55,560,19:19,0,0,,28,27,7,8,
-49,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",2021-22,23,BOS,NHL,15,0,4,4,0,4,0,0,0,0,4,0,0,15,0.0,32,289,19:17,0,0,,12,10,5,5,
-50,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",2021-22,23,ANA,NHL,14,0,2,2,-5,6,0,0,0,0,1,1,0,12,0.0,23,271,19:21,0,0,,16,17,2,3,
-51,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",2022-23,24,ANA,NHL,23,0,2,2,-16,0,0,0,0,0,2,0,0,27,0.0,58,379,16:27,0,0,,28,18,7,10,
-52,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",2023-24,25,ANA,NHL,36,0,7,7,5,10,0,0,0,0,7,0,0,37,0.0,81,593,16:28,0,0,,33,15,8,20,
-53,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",4 yrs,,BOS,NHL,31,0,6,6,-2,6,0,0,0,0,6,0,0,34,0.0,71,562,18:08,0,0,,34,21,7,13,
-54,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",3 yrs,,ANA,NHL,73,0,11,11,-16,16,0,0,0,0,10,1,0,76,0.0,162,1242,17:01,0,0,,77,50,17,33,
-55,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)]
-",Career,,6 yrs,NHL,104,0,17,17,-18,22,0,0,0,0,16,1,0,110,0.0,233,1804,17:21,0,0,,111,71,24,46,
-56,Bowen,Byram,2023-02-06, Avalanche," activated from IR]
-",2020-21,19,COL,NHL,19,0,2,2,1,23,0,0,0,0,2,0,0,21,0.0,43,333,17:31,0,0,,13,33,1,5,
-57,Bowen,Byram,2023-02-06, Avalanche," activated from IR]
-",2021-22,20,COL,NHL,30,5,12,17,7,12,4,1,0,2,12,0,0,49,10.2,102,564,18:48,0,0,,26,53,14,11,
-58,Bowen,Byram,2023-02-06, Avalanche," activated from IR]
-",2022-23,21,COL,NHL,42,10,14,24,7,38,7,2,1,1,10,4,0,65,15.4,140,919,21:53,0,0,,54,82,13,20,
-59,Bowen,Byram,2023-02-06, Avalanche," activated from IR]
-",2023-24,22,COL,NHL,39,6,6,12,-5,32,6,0,0,0,6,0,0,49,12.2,124,793,20:20,0,0,,54,43,8,21,
-60,Bowen,Byram,2023-02-06, Avalanche," activated from IR]
-",Career,,4 yrs,NHL,130,21,34,55,10,105,17,3,1,3,30,4,0,184,11.4,409,2609,20:04,0,0,,147,211,36,57,
-61,John,Marino,2023-02-06, Devils," activated from IR]
-",2019-20,22,PIT,NHL,56,6,20,26,17,20,5,1,0,0,17,3,0,61,9.8,157,1134,20:15,0,0,,77,72,37,42,Calder-8
-62,John,Marino,2023-02-06, Devils," activated from IR]
-",2020-21,23,PIT,NHL,52,3,10,13,5,8,2,1,0,1,6,3,1,56,5.4,106,1078,20:44,0,0,,50,48,29,21,
-63,John,Marino,2023-02-06, Devils," activated from IR]
-",2021-22,24,PIT,NHL,81,1,24,25,1,23,1,0,0,0,20,2,2,90,1.1,191,1672,20:38,0,0,,88,73,43,35,
-64,John,Marino,2023-02-06, Devils," activated from IR]
-",2022-23,25,NJD,NHL,64,4,14,18,21,20,4,0,0,0,13,0,1,67,6.0,145,1349,21:04,0,0,,81,44,43,38,
-65,John,Marino,2023-02-06, Devils," activated from IR]
-",2023-24,26,NJD,NHL,42,2,12,14,-7,14,2,0,0,0,12,0,0,34,5.9,89,883,21:02,0,0,,50,15,23,11,
-66,John,Marino,2023-02-06, Devils," activated from IR]
-",3 yrs,,PIT,NHL,189,10,54,64,23,51,8,2,0,1,43,8,3,207,4.8,454,3883,20:33,0,0,,215,193,109,98,
-67,John,Marino,2023-02-06, Devils," activated from IR]
-",2 yrs,,NJD,NHL,106,6,26,32,14,34,6,0,0,0,25,0,1,101,5.9,234,2232,21:03,0,0,,131,59,66,49,
-68,John,Marino,2023-02-06, Devils," activated from IR]
-",Career,,5 yrs,NHL,295,16,80,96,37,85,14,2,0,1,68,8,4,308,5.2,688,6115,20:44,0,0,,346,252,175,147,
-69,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",2015-16,20,BUF,NHL,7,1,1,2,2,4,1,0,0,0,1,0,0,9,11.1,15,81,11:31,0,0,,1,8,4,2,
-70,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",2016-17,21,BUF,NHL,10,0,1,1,-1,2,0,0,0,0,1,0,0,6,0.0,13,104,10:25,0,0,,2,17,1,1,
-71,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",2017-18,22,BUF,NHL,5,0,0,0,-1,2,0,0,0,0,0,0,0,1,0.0,6,49,9:42,0,0,,2,7,0,0,
-72,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",2020-21,25,ARI,NHL,5,0,0,0,-3,0,0,0,0,0,0,0,0,7,0.0,9,47,9:28,0,0,,1,6,0,1,
-73,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",2021-22,26,ARI,NHL,11,0,0,0,-3,0,0,0,0,0,0,0,0,3,0.0,17,109,9:53,1,0,100.0,6,16,2,0,
-74,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",2022-23,27,NYI,NHL,49,10,9,19,10,10,10,0,0,1,8,1,0,61,16.4,109,612,12:29,2,8,20.0,22,45,16,12,
-75,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",2023-24,28,NYI,NHL,31,2,4,6,-8,4,2,0,0,0,4,0,0,27,7.4,45,371,11:59,1,1,50.0,19,17,14,6,
-76,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",3 yrs,,BUF,NHL,22,1,2,3,0,8,1,0,0,0,2,0,0,16,6.3,34,233,10:36,0,0,,5,32,5,3,
-77,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",2 yrs,,ARI,NHL,16,0,0,0,-6,0,0,0,0,0,0,0,0,10,0.0,26,156,9:45,1,0,100.0,7,22,2,1,
-78,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",2 yrs,,NYI,NHL,80,12,13,25,2,14,12,0,0,1,12,1,0,88,13.6,154,983,12:17,3,9,25.0,41,62,30,18,
-79,Hudson,Fasching,2023-02-06, Islanders," activated from IR]
-",Career,,7 yrs,NHL,118,13,15,28,-4,22,13,0,0,1,14,1,0,114,11.4,214,1372,11:38,4,9,30.8,53,116,37,22,
-80,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2012-13,20,MTL,NHL,8,0,2,2,5,2,0,0,0,0,2,0,0,5,0.0,13,94,11:43,0,0,,6,14,0,2,
-81,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2013-14,21,MTL,NHL,22,0,2,2,-2,40,0,0,0,0,2,0,0,10,0.0,33,320,14:32,0,0,,27,42,0,12,
-82,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2014-15,22,MTL,NHL,13,0,2,2,-5,19,0,0,0,0,2,0,0,5,0.0,16,157,12:04,0,0,,18,20,1,4,
-83,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2015-16,23,TOT,NHL,10,0,0,0,-5,17,0,0,0,0,0,0,0,3,0.0,,143,14:18,0,0,,11,22,1,1,
-84,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2015-16,23,MTL,NHL,3,0,0,0,-3,5,0,0,0,0,0,0,0,0,,0,39,13:06,0,0,,4,5,0,0,
-85,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2015-16,23,ARI,NHL,7,0,0,0,-2,12,0,0,0,0,0,0,0,3,0.0,10,104,14:49,0,0,,7,17,1,1,
-86,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2019-20,27,NSH,NHL,28,1,4,5,-1,34,1,0,0,0,3,0,1,20,5.0,52,465,16:37,0,0,,36,71,1,18,
-87,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2020-21,28,TOT,NHL,21,0,1,1,-6,11,0,0,0,0,1,0,0,30,0.0,,359,17:06,0,0,,30,56,6,5,
-88,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2020-21,28,NSH,NHL,7,0,0,0,-1,4,0,0,0,0,0,0,0,8,0.0,14,116,16:34,0,0,,11,12,0,2,
-89,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2020-21,28,BOS,NHL,14,0,1,1,-5,7,0,0,0,0,1,0,0,22,0.0,39,243,17:22,0,0,,19,44,6,3,
-90,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2021-22,29,NYR,NHL,7,1,0,1,-5,7,1,0,0,1,0,0,0,5,20.0,15,90,12:51,0,0,,8,17,0,1,
-91,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2022-23,30,CHI,NHL,44,2,6,8,-17,40,2,0,0,1,6,0,0,32,6.3,78,724,16:27,0,0,,68,139,11,20,
-92,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2023-24,31,CHI,NHL,24,0,6,6,-14,31,0,0,0,0,5,0,1,16,0.0,36,377,15:43,0,0,,51,69,2,7,
-93,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",4 yrs,,MTL,NHL,46,0,6,6,-5,66,0,0,0,0,6,0,0,20,0.0,62,610,13:15,0,0,,55,81,1,18,
-94,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2 yrs,,NSH,NHL,35,1,4,5,-2,38,1,0,0,0,3,0,1,28,3.6,66,581,16:36,0,0,,47,83,1,20,
-95,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",2 yrs,,CHI,NHL,68,2,12,14,-31,71,2,0,0,1,11,0,1,48,4.2,114,1101,16:12,0,0,,119,208,13,27,
-96,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",1 yr,,ARI,NHL,7,0,0,0,-2,12,0,0,0,0,0,0,0,3,0.0,10,104,14:49,0,0,,7,17,1,1,
-97,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",1 yr,,BOS,NHL,14,0,1,1,-5,7,0,0,0,0,1,0,0,22,0.0,39,243,17:22,0,0,,19,44,6,3,
-98,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",1 yr,,NYR,NHL,7,1,0,1,-5,7,1,0,0,1,0,0,0,5,20.0,15,90,12:51,0,0,,8,17,0,1,
-99,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR]
-",Career,,9 yrs,NHL,177,4,23,27,-50,201,4,0,0,2,21,0,2,126,3.2,306,2729,15:25,0,0,,255,450,22,70,
-100,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2012-13,22,OTT,NHL,5,0,0,0,-1,0,0,0,0,0,0,0,0,5,0.0,10,43,8:40,17,14,54.8,0,8,0,1,
-101,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2013-14,23,OTT,NHL,20,0,2,2,-3,4,0,0,0,0,2,0,0,31,0.0,51,191,9:34,79,71,52.7,11,32,5,1,
-102,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2015-16,25,CGY,NHL,15,0,1,1,-7,2,0,0,0,0,1,0,0,22,0.0,36,163,10:53,61,50,55.0,11,25,3,1,
-103,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2016-17,26,TOT,NHL,46,0,4,4,-5,24,0,0,0,0,4,0,0,40,0.0,,449,9:46,200,183,52.2,29,27,10,9,
-104,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2016-17,26,BUF,NHL,40,0,3,3,-3,19,0,0,0,0,3,0,0,34,0.0,58,397,9:55,172,159,52.0,25,25,9,8,
-105,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2016-17,26,NSH,NHL,6,0,1,1,-2,5,0,0,0,0,1,0,0,6,0.0,8,52,8:41,28,24,53.8,4,2,1,1,
-106,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2017-18,27,ANA,NHL,66,12,12,24,3,11,9,3,0,0,11,0,1,65,18.5,112,732,11:06,317,280,53.1,39,63,18,13,
-107,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2018-19,28,TOT,NHL,56,4,10,14,-6,14,4,0,0,1,9,0,1,74,5.4,,654,11:41,271,244,52.6,29,92,19,14,
-108,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2018-19,28,PIT,NHL,25,2,3,5,3,6,2,0,0,0,3,0,0,26,7.7,35,226,9:02,76,57,57.1,10,42,5,4,
-109,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2018-19,28,ANA,NHL,31,2,7,9,-9,8,2,0,0,1,6,0,1,48,4.2,83,429,13:50,195,187,51.0,19,50,14,10,
-110,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2019-20,29,TOT,NHL,56,15,10,25,1,30,10,2,3,5,8,0,2,94,16.0,,779,13:55,358,336,51.6,25,54,20,11,
-111,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2019-20,29,ANA,NHL,49,14,6,20,-1,28,9,2,3,4,5,0,1,81,17.3,132,679,13:52,323,306,51.4,20,44,15,11,
-112,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2019-20,29,PHI,NHL,7,1,4,5,2,2,1,0,0,1,3,0,1,13,7.7,20,100,14:16,35,30,53.8,5,10,5,0,
-113,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2020-21,30,ANA,NHL,46,6,9,15,-4,25,5,0,1,1,9,0,0,66,9.1,122,670,14:34,289,277,51.1,40,65,9,12,
-114,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2021-22,31,ANA,NHL,71,15,14,29,-16,27,12,2,1,1,13,0,1,117,12.8,193,1016,14:19,204,216,48.6,49,69,21,17,
-115,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2022-23,32,ANA,NHL,46,5,13,18,-4,26,5,0,0,0,11,2,0,72,6.9,123,683,14:51,272,221,55.2,26,36,18,14,
-116,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",6 yrs,,ANA,NHL,309,54,61,115,-31,125,42,7,5,7,55,2,4,449,12.0,765,4210,13:37,1600,1487,51.8,193,327,95,77,
-117,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",2 yrs,,OTT,NHL,25,0,2,2,-4,4,0,0,0,0,2,0,0,36,0.0,61,235,9:23,96,85,53.0,11,40,5,2,
-118,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",1 yr,,CGY,NHL,15,0,1,1,-7,2,0,0,0,0,1,0,0,22,0.0,36,163,10:53,61,50,55.0,11,25,3,1,
-119,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",1 yr,,BUF,NHL,40,0,3,3,-3,19,0,0,0,0,3,0,0,34,0.0,58,397,9:55,172,159,52.0,25,25,9,8,
-120,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",1 yr,,NSH,NHL,6,0,1,1,-2,5,0,0,0,0,1,0,0,6,0.0,8,52,8:41,28,24,53.8,4,2,1,1,
-121,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",1 yr,,PIT,NHL,25,2,3,5,3,6,2,0,0,0,3,0,0,26,7.7,35,226,9:02,76,57,57.1,10,42,5,4,
-122,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",1 yr,,PHI,NHL,7,1,4,5,2,2,1,0,0,1,3,0,1,13,7.7,20,100,14:16,35,30,53.8,5,10,5,0,
-123,Derek,Grant,2023-02-07, Ducks," activated from IR]
-",Career,,10 yrs,NHL,427,57,75,132,-42,163,45,7,5,8,68,2,5,586,9.7,983,5382,12:36,2068,1892,52.2,259,471,123,93,
-124,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2010-11,21,VAN,NHL,29,0,1,1,0,0,0,0,0,0,0,1,0,15,0.0,38,400,13:47,0,0,,32,10,10,8,
-125,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2011-12,22,VAN,NHL,25,0,2,2,10,2,0,0,0,0,2,0,0,15,0.0,40,418,16:43,0,0,,43,10,5,8,
-126,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2012-13,23,VAN,NHL,38,2,5,7,4,10,2,0,0,1,5,0,0,20,10.0,58,657,17:17,0,0,,61,14,13,14,
-127,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2013-14,24,VAN,NHL,64,6,11,17,12,8,5,0,1,2,11,0,0,65,9.2,130,1327,20:44,0,0,,136,25,17,18,
-128,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2014-15,25,VAN,NHL,70,2,18,20,8,12,2,0,0,1,16,2,0,53,3.8,127,1476,21:05,0,0,,170,23,26,49,Byng-45
-129,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2015-16,26,VAN,NHL,69,4,14,18,-8,8,2,2,0,0,12,1,1,42,9.5,96,1501,21:45,0,0,,166,18,14,39,Byng-21
-130,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2016-17,27,VAN,NHL,53,2,8,10,3,14,2,0,0,1,8,0,0,39,5.1,92,1078,20:21,0,0,,91,19,15,25,
-131,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2017-18,28,VAN,NHL,42,2,9,11,7,8,2,0,0,0,7,0,2,31,6.5,51,831,19:47,0,0,,70,21,15,15,
-132,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2018-19,29,VAN,NHL,55,2,10,12,3,18,2,0,0,0,10,0,0,51,3.9,98,1109,20:10,0,0,,122,29,20,32,
-133,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2019-20,30,VAN,NHL,69,2,18,20,4,41,2,0,0,1,16,1,1,45,4.4,98,1348,19:32,0,0,,159,32,20,45,
-134,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2020-21,31,CGY,NHL,56,2,10,12,15,6,2,0,0,0,10,0,0,66,3.0,122,1217,21:44,0,0,,107,33,23,57,Byng-10
-135,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2021-22,32,CGY,NHL,82,6,22,28,35,22,6,0,0,3,22,0,0,88,6.8,180,1678,20:28,0,0,,158,52,29,57,"AS-16,Norris-15"
-136,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2022-23,33,CGY,NHL,65,1,12,13,7,21,1,0,0,1,11,1,0,75,1.3,163,1308,20:07,0,0,,130,51,24,34,
-137,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",2023-24,34,CGY,NHL,41,1,7,8,8,10,1,0,0,0,7,0,0,33,3.0,62,791,19:17,0,0,,123,16,13,27,
-138,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",10 yrs,,VAN,NHL,514,22,96,118,43,121,19,2,1,6,87,5,4,376,5.9,828,10145,19:44,0,0,,1050,201,155,253,
-139,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",4 yrs,,CGY,NHL,244,10,51,61,65,59,10,0,0,4,50,1,0,262,3.8,527,4993,20:28,0,0,,518,152,89,175,
-140,Christopher,Tanev,2023-02-07, Flames," activated from IR]
-",Career,,14 yrs,NHL,758,32,147,179,108,180,29,2,1,10,137,6,4,638,5.0,1355,15137,19:58,0,0,,1568,353,244,428,
-141,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR]
-",2017-18,21,VEG,NHL,1,0,0,0,3,0,0,0,0,0,0,0,0,0,,1,17,16:42,0,0,,1,0,0,0,
-142,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR]
-",2019-20,23,VEG,NHL,16,0,1,1,3,4,0,0,0,0,1,0,0,9,0.0,29,229,14:19,0,0,,16,10,8,1,
-143,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR]
-",2020-21,24,VEG,NHL,51,2,10,12,9,24,2,0,0,1,10,0,0,54,3.7,127,909,17:49,0,0,,75,85,9,14,Calder-18
-144,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR]
-",2021-22,25,VEG,NHL,59,8,11,19,21,20,7,0,1,1,11,0,0,94,8.5,188,1109,18:48,0,0,,115,98,13,26,
-145,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR]
-",2022-23,26,VEG,NHL,59,5,7,12,10,41,5,0,0,1,7,0,0,64,7.8,139,1010,17:07,0,0,,97,90,24,25,
-146,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR]
-",2023-24,27,VEG,NHL,29,2,3,5,1,20,2,0,0,1,3,0,0,28,7.1,73,536,18:29,0,0,,50,45,9,7,
-147,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR]
-",Career,,6 yrs,NHL,215,17,32,49,47,109,16,0,1,4,32,0,0,249,6.8,557,3809,17:43,0,0,,354,328,63,73,
-148,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2015-16,23,PIT,NHL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,5,5:02,0,0,,1,1,0,0,
-149,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2016-17,24,PIT,NHL,10,3,0,3,3,4,2,0,1,0,0,0,0,11,27.3,24,109,10:52,0,1,0.0,2,28,0,2,
-150,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2017-18,25,TOT,NHL,42,5,6,11,-2,25,5,0,0,0,6,0,0,42,11.9,,502,11:57,25,40,38.5,16,86,7,4,
-151,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2017-18,25,PIT,NHL,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0,6,31,10:22,0,0,,3,9,0,0,
-152,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2017-18,25,ARI,NHL,39,5,6,11,-2,25,5,0,0,0,6,0,0,39,12.8,80,471,12:04,25,40,38.5,13,77,7,4,
-153,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2018-19,26,ARI,NHL,68,12,10,22,1,15,12,0,0,1,9,0,1,92,13.0,164,923,13:34,12,25,32.4,39,161,18,8,
-154,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2019-20,27,EDM,NHL,62,12,9,21,-8,12,10,0,2,3,8,0,1,64,18.8,119,820,13:14,0,2,0.0,44,165,24,11,
-155,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2020-21,28,EDM,NHL,52,7,6,13,2,37,7,0,0,0,6,0,0,62,11.3,103,704,13:33,4,4,50.0,35,192,14,15,
-156,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2021-22,29,EDM,NHL,8,0,1,1,-2,7,0,0,0,0,1,0,0,4,0.0,9,72,9:03,2,2,50.0,2,27,3,1,
-157,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2022-23,30,PIT,NHL,62,6,6,12,6,43,6,0,0,0,6,0,0,71,8.5,112,619,9:59,1,3,25.0,28,195,14,5,
-158,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",4 yrs,,PIT,NHL,76,9,6,15,9,47,8,0,1,0,6,0,0,85,10.6,143,763,10:03,1,4,20.0,34,233,14,7,
-159,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",3 yrs,,EDM,NHL,122,19,16,35,-8,56,17,0,2,3,15,0,1,130,14.6,231,1597,13:05,6,8,42.9,81,384,41,27,
-160,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",2 yrs,,ARI,NHL,107,17,16,33,-1,40,17,0,0,1,15,0,1,131,13.0,244,1393,13:01,37,65,36.3,52,238,25,12,
-161,Josh,Archibald,2023-02-07, Penguins," activated from IR]
-",Career,,8 yrs,NHL,305,45,38,83,0,143,42,0,3,4,36,0,2,346,13.0,618,3754,12:18,44,77,36.4,167,855,80,46,
-162,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2015-16,19,TOR,NHL,9,0,0,0,-3,2,0,0,0,0,0,0,0,14,0.0,23,133,14:47,0,0,,1,10,4,1,
-163,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2016-17,20,TOR,NHL,8,1,0,1,-2,0,1,0,0,0,0,0,0,11,9.1,18,86,10:42,0,0,,2,6,2,4,
-164,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2017-18,21,TOR,NHL,38,7,2,9,-1,4,6,0,1,1,2,0,0,55,12.7,87,427,11:15,1,6,14.3,9,57,12,6,
-165,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2018-19,22,TOR,NHL,78,20,24,44,12,27,17,1,2,3,22,2,0,174,11.5,325,1296,16:37,5,4,55.6,19,92,44,38,
-166,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2019-20,23,TOR,NHL,69,13,23,36,0,22,11,0,2,2,20,3,0,121,10.7,214,1090,15:47,2,13,13.3,17,73,36,29,
-167,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2020-21,24,PIT,NHL,40,11,19,30,15,7,10,1,0,3,16,3,0,68,16.2,112,621,15:32,0,1,0.0,8,41,16,21,
-168,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2021-22,25,PIT,NHL,79,11,21,32,2,16,11,0,0,2,16,5,0,129,8.5,235,1148,14:32,5,7,41.7,19,110,40,30,
-169,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2022-23,26,TOT,NHL,66,15,19,34,-8,18,11,3,1,5,16,3,0,116,12.9,175,903,13:41,30,49,38.0,20,99,17,20,
-170,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2022-23,26,PIT,NHL,43,7,13,20,-8,8,4,3,0,2,10,3,0,69,10.1,100,518,12:02,4,11,26.7,12,76,10,13,
-171,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2022-23,26,STL,NHL,23,8,6,14,0,10,7,0,1,3,6,0,0,47,17.0,75,385,16:45,26,38,40.6,8,23,7,7,
-172,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2023-24,27,STL,NHL,42,4,9,13,-6,6,3,0,1,1,8,0,1,65,6.2,120,638,15:12,12,21,36.4,18,26,19,10,
-173,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",5 yrs,,TOR,NHL,202,41,49,90,6,55,35,1,5,6,44,5,0,375,10.9,667,3031,15:00,8,23,25.8,48,238,98,78,
-174,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",3 yrs,,PIT,NHL,162,29,53,82,9,31,25,4,0,7,42,11,0,266,10.9,447,2287,14:07,9,19,32.1,39,227,66,64,
-175,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",2 yrs,,STL,NHL,65,12,15,27,-6,16,10,0,2,4,14,0,1,112,10.7,195,1024,15:45,38,59,39.2,26,49,26,17,
-176,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR]
-",Career,,9 yrs,NHL,429,82,117,199,9,102,70,5,7,17,100,16,1,753,10.9,1309,6342,14:47,55,101,35.3,113,514,190,159,
-177,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2014-15,19,WSH,NHL,53,9,13,22,12,10,7,2,0,2,12,1,0,65,13.8,142,685,12:55,74,93,44.3,18,22,18,17,
-178,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2015-16,20,WSH,NHL,79,17,21,38,4,12,17,0,0,1,17,4,0,126,13.5,238,1029,13:01,17,20,45.9,24,37,34,30,Byng-70
-179,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2016-17,21,WSH,NHL,64,12,23,35,13,14,10,2,0,1,20,3,0,111,10.8,222,849,13:16,2,5,28.6,25,31,33,33,
-180,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2017-18,22,WSH,NHL,56,12,13,25,3,27,10,2,0,5,11,2,0,84,14.3,170,775,13:50,18,15,54.5,26,40,23,34,
-181,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2018-19,23,WSH,NHL,76,12,13,25,2,14,11,1,0,4,13,0,0,100,12.0,178,846,11:08,7,13,35.0,29,35,28,29,
-182,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2019-20,24,COL,NHL,58,20,25,45,11,22,18,2,0,6,16,9,0,103,19.4,184,882,15:12,5,9,35.7,34,26,27,33,
-183,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2020-21,25,COL,NHL,53,19,25,44,4,10,15,4,0,3,15,10,0,102,18.6,180,800,15:06,2,2,50.0,16,22,16,24,
-184,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2021-22,26,COL,NHL,80,22,39,61,12,18,18,4,0,5,32,7,0,149,14.8,313,1301,16:16,8,12,40.0,34,49,28,39,
-185,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2022-23,27,SEA,NHL,49,13,26,39,-9,14,9,4,0,3,16,10,0,105,12.4,206,811,16:33,0,6,0.0,15,17,31,17,
-186,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2023-24,28,SEA,NHL,13,1,4,5,-1,2,1,0,0,0,2,2,0,18,5.6,41,167,12:52,0,1,0.0,5,2,3,2,
-187,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",5 yrs,,WSH,NHL,328,62,83,145,34,77,55,7,0,13,73,10,0,486,12.8,950,4183,12:45,118,146,44.7,122,165,136,143,
-188,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",3 yrs,,COL,NHL,191,61,89,150,27,50,51,10,0,14,63,26,0,354,17.2,677,2982,15:37,15,23,39.5,84,97,71,96,
-189,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",2 yrs,,SEA,NHL,62,14,30,44,-10,16,10,4,0,3,18,12,0,123,11.4,247,978,15:47,0,7,0.0,20,19,34,19,
-190,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)]
-",Career,,10 yrs,NHL,581,137,202,339,51,143,116,21,0,30,154,48,0,963,14.2,1874,8144,14:01,133,176,43.0,226,281,241,258,
-191,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2012-13,22,EDM,NHL,48,8,19,27,-17,8,4,4,0,3,8,11,0,85,9.4,190,1030,21:27,0,1,0.0,35,15,15,34,"AR-1,Calder-7"
-192,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2013-14,23,EDM,NHL,74,11,22,33,-22,16,10,1,0,3,11,11,0,109,10.1,242,1728,23:21,0,1,0.0,107,30,20,63,
-193,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2014-15,24,EDM,NHL,81,6,25,31,-17,12,6,0,0,1,13,12,0,122,4.9,301,1832,22:37,1,0,100.0,114,41,20,69,Byng-56
-194,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2015-16,25,TOT,NHL,63,4,14,18,-15,16,2,2,0,0,8,6,0,82,4.9,,1162,18:27,0,2,0.0,72,36,21,40,
-195,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2015-16,25,EDM,NHL,45,3,7,10,-22,14,2,1,0,0,2,5,0,59,5.1,134,906,20:08,0,2,0.0,66,29,16,38,
-196,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2015-16,25,PIT,NHL,18,1,7,8,7,2,0,1,0,0,6,1,0,23,4.3,44,256,14:14,0,0,,6,7,5,2,
-197,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2016-17,26,PIT,NHL,78,12,39,51,27,34,9,3,0,1,22,17,0,154,7.8,293,1595,20:27,0,0,,116,67,22,37,"AS-11,Norris-10"
-198,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2017-18,27,PIT,NHL,63,4,23,27,22,14,4,0,0,1,13,10,0,109,3.7,235,1229,19:31,0,0,,93,36,17,27,
-199,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2018-19,28,PIT,NHL,29,2,13,15,0,4,1,1,0,0,8,5,0,47,4.3,99,595,20:30,0,0,,41,25,5,27,
-200,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2019-20,29,PIT,NHL,46,3,9,12,-13,6,3,0,0,0,3,6,0,86,3.5,178,914,19:53,0,0,,50,36,6,18,
-201,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2020-21,30,WSH,NHL,46,3,24,27,12,10,3,0,0,1,16,8,0,67,4.5,130,875,19:01,0,0,,49,28,12,25,
-202,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2021-22,31,WSH,NHL,74,4,19,23,-15,16,2,2,0,1,16,3,0,92,4.3,205,1252,16:55,0,0,,87,40,13,25,
-203,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2022-23,32,SEA,NHL,73,7,27,34,4,40,6,1,0,4,15,12,0,98,7.1,215,1299,17:47,0,0,,72,30,14,24,
-204,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2023-24,33,SEA,NHL,36,4,10,14,-11,20,4,0,0,1,5,5,0,56,7.1,141,573,15:55,0,0,,36,10,6,9,
-205,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",5 yrs,,PIT,NHL,234,22,91,113,43,60,17,5,0,2,52,39,0,419,5.3,849,4589,19:37,0,0,,306,171,55,111,
-206,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",4 yrs,,EDM,NHL,248,28,73,101,-78,50,22,6,0,7,34,39,0,375,7.5,867,5495,22:09,1,4,20.0,322,115,71,204,
-207,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2 yrs,,WSH,NHL,120,7,43,50,-3,26,5,2,0,2,32,11,0,159,4.4,335,2127,17:43,0,0,,136,68,25,50,
-208,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",2 yrs,,SEA,NHL,109,11,37,48,-7,60,10,1,0,5,20,17,0,154,7.1,356,1872,17:10,0,0,,108,40,20,33,
-209,Justin,Schultz,2023-02-09, Kraken," activated from IR]
-",Career,,12 yrs,NHL,711,68,244,312,-45,196,54,14,0,16,138,106,0,1107,6.1,2407,14083,19:48,1,4,20.0,872,394,171,398,
+,Player First Name,Player Last Name,Date of Injury,Team When Injured,Injury Description,Season,Age,Team,League,Games Played,Goals,Assists,Points,+/-,Penalties in Minutes,Even Strength Goals,Power Play Goals,Short Handed Goals,Game-Winning Goals,Even Strength Assists,Power Play Assists,Short-Handed Assists,Shots On Goals,Shooting Percentage,Total Shoot Assists,Time on Minutes,Average Time on Ice,Faceoff Wins,Faceoff Losses,Faceoff Percentage,Blocks,Hits,Takeaways,Giveaways,Awards,Injury Time
+0,Artem,Zub,2023-02-01, Senators," activated from IR
+",2020-21,25,OTT,NHL,47,3,11,14,4,26,3,0,0,1,11,0,0,39,7.7,85,864,18:23,0,0,,70,89,8,36,Calder-17,0
+1,Artem,Zub,2023-02-01, Senators," activated from IR
+",2021-22,26,OTT,NHL,81,6,16,22,1,60,6,0,0,0,16,0,0,92,6.5,194,1704,21:02,0,0,,124,155,14,60,,0
+2,Artem,Zub,2023-02-01, Senators," activated from IR
+",2022-23,27,OTT,NHL,53,3,7,10,2,39,3,0,0,0,7,0,0,41,7.3,109,1073,20:15,0,0,,67,131,8,31,,0
+3,Artem,Zub,2023-02-01, Senators," activated from IR
+",2023-24,28,OTT,NHL,39,3,14,17,5,18,3,0,0,0,14,0,0,45,6.7,104,816,20:55,0,0,,66,67,10,19,,"22,26,14,"
+4,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2012-13,22,TBL,NHL,14,3,3,6,3,4,3,0,0,0,3,0,0,11,27.3,28,183,13:04,72,49,59.5,4,18,2,4,,0
+5,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2013-14,23,TBL,NHL,82,24,26,50,23,26,14,5,5,4,20,5,1,181,13.3,313,1540,18:47,614,661,48.2,37,55,23,41,"AR-1,Calder-3,Selke-19",0
+6,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2014-15,24,TBL,NHL,77,29,43,72,33,24,21,8,0,6,34,9,0,203,14.3,333,1327,17:14,508,569,47.2,35,63,24,30,"AS-9,Byng-12,Selke-8",0
+7,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2015-16,25,TBL,NHL,69,14,24,38,4,20,11,3,0,7,14,10,0,167,8.4,292,1183,17:08,479,507,48.6,25,46,19,31,Selke-43,"16,"
+8,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2016-17,26,TBL,NHL,66,19,26,45,-5,28,13,6,0,3,15,11,0,130,14.6,250,1242,18:49,583,539,52.0,30,46,26,32,,0
+9,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2017-18,27,TBL,NHL,81,21,29,50,3,24,15,4,2,3,20,9,0,186,11.3,311,1376,17:00,360,359,50.1,47,48,39,23,,0
+10,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2018-19,28,TBL,NHL,80,29,18,47,15,28,27,1,1,4,11,7,0,163,17.8,268,1276,15:57,230,243,48.6,32,50,13,32,,0
+11,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2019-20,29,TBL,NHL,65,14,17,31,9,16,13,1,0,2,11,6,0,113,12.4,190,945,14:33,173,180,49.0,22,62,14,20,,0
+12,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2020-21,30,TBL,NHL,55,8,14,22,-1,16,6,2,0,1,13,1,0,77,10.4,123,752,13:40,170,140,54.8,15,63,4,7,,0
+13,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2021-22,31,CHI,NHL,26,3,4,7,-8,12,3,0,0,0,2,2,0,30,10.0,52,337,12:59,31,20,60.8,7,37,5,3,,"7,106,10,"
+14,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2022-23,32,CHI,NHL,56,12,20,32,-21,16,8,4,0,0,15,5,0,125,9.6,216,928,16:34,58,55,51.3,25,49,33,22,,0
+15,Tyler,Johnson,2023-02-05, Blackhawks," activated from IR
+",2023-24,33,CHI,NHL,36,9,4,13,-17,16,6,3,0,1,2,2,0,58,15.5,105,549,15:15,74,99,42.8,18,16,12,13,,"47,13,35,"
+16,Filip,Zadina,2023-02-05, Red Wings," activated from IR
+",2018-19,19,DET,NHL,9,1,2,3,-5,0,0,1,0,0,1,1,0,18,5.6,38,138,15:23,3,3,50.0,3,6,5,5,,0
+17,Filip,Zadina,2023-02-05, Red Wings," activated from IR
+",2019-20,20,DET,NHL,28,8,7,15,-13,2,4,4,0,1,4,3,0,60,13.3,107,425,15:10,1,0,100.0,10,11,12,17,,0
+18,Filip,Zadina,2023-02-05, Red Wings," activated from IR
+",2020-21,21,DET,NHL,49,6,13,19,-4,0,3,3,0,1,10,3,0,97,6.2,169,823,16:48,5,10,33.3,22,22,17,17,Byng-35,"6,"
+19,Filip,Zadina,2023-02-05, Red Wings," activated from IR
+",2021-22,22,DET,NHL,74,10,14,24,-24,10,6,4,0,1,10,4,0,154,6.5,284,1049,14:11,5,5,50.0,34,57,24,30,,"9,"
+20,Filip,Zadina,2023-02-05, Red Wings," activated from IR
+",2022-23,23,DET,NHL,30,3,4,7,-5,10,3,0,0,2,4,0,0,51,5.9,82,393,13:06,2,4,33.3,15,22,16,14,,0
+21,Filip,Zadina,2023-02-05, Red Wings," activated from IR
+",2023-24,24,SJS,NHL,46,5,8,13,-26,8,4,1,0,1,7,1,0,81,6.2,146,588,12:47,14,43,24.6,19,28,20,12,,"92,8,"
+22,Nikolai,Knyzhov,2023-02-05, Sharks," activated from IR
+",2019-20,21,SJS,NHL,3,0,0,0,-1,2,0,0,0,0,0,0,0,0,,3,32,10:49,0,0,,4,4,1,2,,0
+23,Nikolai,Knyzhov,2023-02-05, Sharks," activated from IR
+",2020-21,22,SJS,NHL,56,2,8,10,-10,39,2,0,0,1,8,0,0,51,3.9,97,938,16:45,0,0,,54,84,18,13,,0
+24,Nikolai,Knyzhov,2023-02-05, Sharks," activated from IR
+",2022-23,24,SJS,NHL,12,1,0,1,-13,8,1,0,0,0,0,0,0,10,10.0,19,194,16:09,0,0,,16,11,3,9,,0
+25,Nikolai,Knyzhov,2023-02-05, Sharks," activated from IR
+",2023-24,25,SJS,NHL,10,0,1,1,-6,6,0,0,0,0,1,0,0,6,0.0,19,176,17:39,0,0,,17,9,3,2,,"136,"
+26,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)
+",2018-19,20,BOS,NHL,2,0,0,0,-1,0,0,0,0,0,0,0,0,2,0.0,4,18,9:06,0,0,,0,0,0,1,,"53,"
+27,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)
+",2019-20,21,BOS,NHL,5,0,0,0,2,0,0,0,0,0,0,0,0,2,0.0,9,84,16:51,0,0,,3,8,1,3,,0
+28,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)
+",2020-21,22,BOS,NHL,9,0,2,2,-3,2,0,0,0,0,2,0,0,15,0.0,26,170,18:55,0,0,,19,3,1,4,,0
+29,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)
+",2021-22,23,TOT,NHL,29,0,6,6,-5,10,0,0,0,0,5,1,0,27,0.0,55,560,19:19,0,0,,28,27,7,8,,"9,33,"
+30,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)
+",2021-22,23,BOS,NHL,15,0,4,4,0,4,0,0,0,0,4,0,0,15,0.0,32,289,19:17,0,0,,12,10,5,5,,"9,33,"
+31,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)
+",2021-22,23,ANA,NHL,14,0,2,2,-5,6,0,0,0,0,1,1,0,12,0.0,23,271,19:21,0,0,,16,17,2,3,,"9,33,"
+32,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)
+",2022-23,24,ANA,NHL,23,0,2,2,-16,0,0,0,0,0,2,0,0,27,0.0,58,379,16:27,0,0,,28,18,7,10,,0
+33,Urho,Vaakanainen,2023-02-06, Ducks," placed on IR with undisclosed (out for season)
+",2023-24,25,ANA,NHL,42,1,8,9,6,14,1,0,0,0,8,0,0,43,2.3,97,707,16:49,0,0,,47,22,8,20,,"49,"
+34,Bowen,Byram,2023-02-06, Avalanche," activated from IR
+",2020-21,19,COL,NHL,19,0,2,2,1,23,0,0,0,0,2,0,0,21,0.0,43,333,17:31,0,0,,13,33,1,5,,"12,10,33,"
+35,Bowen,Byram,2023-02-06, Avalanche," activated from IR
+",2021-22,20,COL,NHL,30,5,12,17,7,12,4,1,0,2,12,0,0,49,10.2,102,564,18:48,0,0,,26,53,14,11,,"20,"
+36,Bowen,Byram,2023-02-06, Avalanche," activated from IR
+",2022-23,21,COL,NHL,42,10,14,24,7,38,7,2,1,1,10,4,0,65,15.4,140,919,21:53,0,0,,54,82,13,20,,0
+37,Bowen,Byram,2023-02-06, Avalanche," activated from IR
+",2023-24,22,COL,NHL,43,6,7,13,-4,34,6,0,0,0,7,0,0,52,11.5,132,866,20:09,0,0,,58,45,8,21,,"63,17,"
+38,John,Marino,2023-02-06, Devils," activated from IR
+",2019-20,22,PIT,NHL,56,6,20,26,17,20,5,1,0,0,17,3,0,61,9.8,157,1134,20:15,0,0,,77,72,37,42,Calder-8,"13,"
+39,John,Marino,2023-02-06, Devils," activated from IR
+",2020-21,23,PIT,NHL,52,3,10,13,5,8,2,1,0,1,6,3,1,56,5.4,106,1078,20:44,0,0,,50,48,29,21,,"7,"
+40,John,Marino,2023-02-06, Devils," activated from IR
+",2021-22,24,PIT,NHL,81,1,24,25,1,23,1,0,0,0,20,2,2,90,1.1,191,1672,20:38,0,0,,88,73,43,35,,0
+41,John,Marino,2023-02-06, Devils," activated from IR
+",2022-23,25,NJD,NHL,64,4,14,18,21,20,4,0,0,0,13,0,1,67,6.0,145,1349,21:04,0,0,,81,44,43,38,,0
+42,John,Marino,2023-02-06, Devils," activated from IR
+",2023-24,26,NJD,NHL,48,4,12,16,-9,16,4,0,0,1,12,0,0,41,9.8,103,1015,21:09,0,0,,64,18,28,15,,"40,"
+43,Hudson,Fasching,2023-02-06, Islanders," activated from IR
+",2015-16,20,BUF,NHL,7,1,1,2,2,4,1,0,0,0,1,0,0,9,11.1,15,81,11:31,0,0,,1,8,4,2,,0
+44,Hudson,Fasching,2023-02-06, Islanders," activated from IR
+",2016-17,21,BUF,NHL,10,0,1,1,-1,2,0,0,0,0,1,0,0,6,0.0,13,104,10:25,0,0,,2,17,1,1,,0
+45,Hudson,Fasching,2023-02-06, Islanders," activated from IR
+",2017-18,22,BUF,NHL,5,0,0,0,-1,2,0,0,0,0,0,0,0,1,0.0,6,49,9:42,0,0,,2,7,0,0,,0
+46,Hudson,Fasching,2023-02-06, Islanders," activated from IR
+",2020-21,25,ARI,NHL,5,0,0,0,-3,0,0,0,0,0,0,0,0,7,0.0,9,47,9:28,0,0,,1,6,0,1,,0
+47,Hudson,Fasching,2023-02-06, Islanders," activated from IR
+",2021-22,26,ARI,NHL,11,0,0,0,-3,0,0,0,0,0,0,0,0,3,0.0,17,109,9:53,1,0,100.0,6,16,2,0,,0
+48,Hudson,Fasching,2023-02-06, Islanders," activated from IR
+",2022-23,27,NYI,NHL,49,10,9,19,10,10,10,0,0,1,8,1,0,61,16.4,109,612,12:29,2,8,20.0,22,45,16,12,,0
+49,Hudson,Fasching,2023-02-06, Islanders," activated from IR
+",2023-24,28,NYI,NHL,35,3,5,8,-8,6,3,0,0,0,5,0,0,30,10.0,49,416,11:54,1,1,50.0,21,26,15,9,,"14,"
+50,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2012-13,20,MTL,NHL,8,0,2,2,5,2,0,0,0,0,2,0,0,5,0.0,13,94,11:43,0,0,,6,14,0,2,,0
+51,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2013-14,21,MTL,NHL,22,0,2,2,-2,40,0,0,0,0,2,0,0,10,0.0,33,320,14:32,0,0,,27,42,0,12,,0
+52,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2014-15,22,MTL,NHL,13,0,2,2,-5,19,0,0,0,0,2,0,0,5,0.0,16,157,12:04,0,0,,18,20,1,4,,0
+53,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2015-16,23,TOT,NHL,10,0,0,0,-5,17,0,0,0,0,0,0,0,3,0.0,,143,14:18,0,0,,11,22,1,1,,0
+54,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2015-16,23,MTL,NHL,3,0,0,0,-3,5,0,0,0,0,0,0,0,0,,0,39,13:06,0,0,,4,5,0,0,,0
+55,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2015-16,23,ARI,NHL,7,0,0,0,-2,12,0,0,0,0,0,0,0,3,0.0,10,104,14:49,0,0,,7,17,1,1,,0
+56,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2019-20,27,NSH,NHL,28,1,4,5,-1,34,1,0,0,0,3,0,1,20,5.0,52,465,16:37,0,0,,36,71,1,18,,0
+57,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2020-21,28,TOT,NHL,21,0,1,1,-6,11,0,0,0,0,1,0,0,30,0.0,,359,17:06,0,0,,30,56,6,5,,"2,"
+58,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2020-21,28,NSH,NHL,7,0,0,0,-1,4,0,0,0,0,0,0,0,8,0.0,14,116,16:34,0,0,,11,12,0,2,,"2,"
+59,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2020-21,28,BOS,NHL,14,0,1,1,-5,7,0,0,0,0,1,0,0,22,0.0,39,243,17:22,0,0,,19,44,6,3,,"2,"
+60,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2021-22,29,NYR,NHL,7,1,0,1,-5,7,1,0,0,1,0,0,0,5,20.0,15,90,12:51,0,0,,8,17,0,1,,"7,"
+61,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2022-23,30,CHI,NHL,44,2,6,8,-17,40,2,0,0,1,6,0,0,32,6.3,78,724,16:27,0,0,,68,139,11,20,,0
+62,Jarred,Tinordi,2023-02-07, Blackhawks," activated from IR
+",2023-24,31,CHI,NHL,30,0,6,6,-19,40,0,0,0,0,5,0,1,21,0.0,44,472,15:44,0,0,,62,93,3,10,,"12,50,12,21,11,"
+63,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2012-13,22,OTT,NHL,5,0,0,0,-1,0,0,0,0,0,0,0,0,5,0.0,10,43,8:40,17,14,54.8,0,8,0,1,,0
+64,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2013-14,23,OTT,NHL,20,0,2,2,-3,4,0,0,0,0,2,0,0,31,0.0,51,191,9:34,79,71,52.7,11,32,5,1,,0
+65,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2015-16,25,CGY,NHL,15,0,1,1,-7,2,0,0,0,0,1,0,0,22,0.0,36,163,10:53,61,50,55.0,11,25,3,1,,0
+66,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2016-17,26,TOT,NHL,46,0,4,4,-5,24,0,0,0,0,4,0,0,40,0.0,,449,9:46,200,183,52.2,29,27,10,9,,"7,"
+67,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2016-17,26,BUF,NHL,40,0,3,3,-3,19,0,0,0,0,3,0,0,34,0.0,58,397,9:55,172,159,52.0,25,25,9,8,,"7,"
+68,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2016-17,26,NSH,NHL,6,0,1,1,-2,5,0,0,0,0,1,0,0,6,0.0,8,52,8:41,28,24,53.8,4,2,1,1,,"7,"
+69,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2017-18,27,ANA,NHL,66,12,12,24,3,11,9,3,0,0,11,0,1,65,18.5,112,732,11:06,317,280,53.1,39,63,18,13,,0
+70,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2018-19,28,TOT,NHL,56,4,10,14,-6,14,4,0,0,1,9,0,1,74,5.4,,654,11:41,271,244,52.6,29,92,19,14,,0
+71,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2018-19,28,PIT,NHL,25,2,3,5,3,6,2,0,0,0,3,0,0,26,7.7,35,226,9:02,76,57,57.1,10,42,5,4,,0
+72,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2018-19,28,ANA,NHL,31,2,7,9,-9,8,2,0,0,1,6,0,1,48,4.2,83,429,13:50,195,187,51.0,19,50,14,10,,0
+73,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2019-20,29,TOT,NHL,56,15,10,25,1,30,10,2,3,5,8,0,2,94,16.0,,779,13:55,358,336,51.6,25,54,20,11,,"26,"
+74,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2019-20,29,ANA,NHL,49,14,6,20,-1,28,9,2,3,4,5,0,1,81,17.3,132,679,13:52,323,306,51.4,20,44,15,11,,"26,"
+75,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2019-20,29,PHI,NHL,7,1,4,5,2,2,1,0,0,1,3,0,1,13,7.7,20,100,14:16,35,30,53.8,5,10,5,0,,"26,"
+76,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2020-21,30,ANA,NHL,46,6,9,15,-4,25,5,0,1,1,9,0,0,66,9.1,122,670,14:34,289,277,51.1,40,65,9,12,,0
+77,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2021-22,31,ANA,NHL,71,15,14,29,-16,27,12,2,1,1,13,0,1,117,12.8,193,1016,14:19,204,216,48.6,49,69,21,17,,"7,"
+78,Derek,Grant,2023-02-07, Ducks," activated from IR
+",2022-23,32,ANA,NHL,46,5,13,18,-4,26,5,0,0,0,11,2,0,72,6.9,123,683,14:51,272,221,55.2,26,36,18,14,,0
+79,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2010-11,21,VAN,NHL,29,0,1,1,0,0,0,0,0,0,0,1,0,15,0.0,38,400,13:47,0,0,,32,10,10,8,,0
+80,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2011-12,22,VAN,NHL,25,0,2,2,10,2,0,0,0,0,2,0,0,15,0.0,40,418,16:43,0,0,,43,10,5,8,,0
+81,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2012-13,23,VAN,NHL,38,2,5,7,4,10,2,0,0,1,5,0,0,20,10.0,58,657,17:17,0,0,,61,14,13,14,,0
+82,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2013-14,24,VAN,NHL,64,6,11,17,12,8,5,0,1,2,11,0,0,65,9.2,130,1327,20:44,0,0,,136,25,17,18,,"30,"
+83,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2014-15,25,VAN,NHL,70,2,18,20,8,12,2,0,0,1,16,2,0,53,3.8,127,1476,21:05,0,0,,170,23,26,49,Byng-45,"16,"
+84,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2015-16,26,VAN,NHL,69,4,14,18,-8,8,2,2,0,0,12,1,1,42,9.5,96,1501,21:45,0,0,,166,18,14,39,Byng-21,"4,"
+85,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2016-17,27,VAN,NHL,53,2,8,10,3,14,2,0,0,1,8,0,0,39,5.1,92,1078,20:21,0,0,,91,19,15,25,,"5,43,6,"
+86,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2017-18,28,VAN,NHL,42,2,9,11,7,8,2,0,0,0,7,0,2,31,6.5,51,831,19:47,0,0,,70,21,15,15,,"15,17,31,"
+87,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2018-19,29,VAN,NHL,55,2,10,12,3,18,2,0,0,0,10,0,0,51,3.9,98,1109,20:10,0,0,,122,29,20,32,,"6,27,"
+88,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2019-20,30,VAN,NHL,69,2,18,20,4,41,2,0,0,1,16,1,1,45,4.4,98,1348,19:32,0,0,,159,32,20,45,,0
+89,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2020-21,31,CGY,NHL,56,2,10,12,15,6,2,0,0,0,10,0,0,66,3.0,122,1217,21:44,0,0,,107,33,23,57,Byng-10,0
+90,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2021-22,32,CGY,NHL,82,6,22,28,35,22,6,0,0,3,22,0,0,88,6.8,180,1678,20:28,0,0,,158,52,29,57,"AS-16,Norris-15",0
+91,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2022-23,33,CGY,NHL,65,1,12,13,7,21,1,0,0,1,11,1,0,75,1.3,163,1308,20:07,0,0,,130,51,24,34,,0
+92,Christopher,Tanev,2023-02-07, Flames," activated from IR
+",2023-24,34,CGY,NHL,47,1,8,9,9,10,1,0,0,0,8,0,0,38,2.6,75,926,19:42,0,0,,142,20,16,29,,0
+93,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR
+",2017-18,21,VEG,NHL,1,0,0,0,3,0,0,0,0,0,0,0,0,0,,1,17,16:42,0,0,,1,0,0,0,,0
+94,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR
+",2019-20,23,VEG,NHL,16,0,1,1,3,4,0,0,0,0,1,0,0,9,0.0,29,229,14:19,0,0,,16,10,8,1,,"21,"
+95,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR
+",2020-21,24,VEG,NHL,51,2,10,12,9,24,2,0,0,1,10,0,0,54,3.7,127,909,17:49,0,0,,75,85,9,14,Calder-18,0
+96,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR
+",2021-22,25,VEG,NHL,59,8,11,19,21,20,7,0,1,1,11,0,0,94,8.5,188,1109,18:48,0,0,,115,98,13,26,,"25,17,"
+97,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR
+",2022-23,26,VEG,NHL,59,5,7,12,10,41,5,0,0,1,7,0,0,64,7.8,139,1010,17:07,0,0,,97,90,24,25,,0
+98,Zach,Whitecloud,2023-02-07, Golden Knights," activated from IR
+",2023-24,27,VEG,NHL,36,2,3,5,0,22,2,0,0,1,3,0,0,31,6.5,80,662,18:23,0,0,,58,73,9,11,,"57,33,"
+99,Josh,Archibald,2023-02-07, Penguins," activated from IR
+",2015-16,23,PIT,NHL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,5,5:02,0,0,,1,1,0,0,,0
+100,Josh,Archibald,2023-02-07, Penguins," activated from IR
+",2016-17,24,PIT,NHL,10,3,0,3,3,4,2,0,1,0,0,0,0,11,27.3,24,109,10:52,0,1,0.0,2,28,0,2,,0
+101,Josh,Archibald,2023-02-07, Penguins," activated from IR
+",2017-18,25,TOT,NHL,42,5,6,11,-2,25,5,0,0,0,6,0,0,42,11.9,,502,11:57,25,40,38.5,16,86,7,4,,0
+102,Josh,Archibald,2023-02-07, Penguins," activated from IR
+",2017-18,25,PIT,NHL,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0,6,31,10:22,0,0,,3,9,0,0,,0
+103,Josh,Archibald,2023-02-07, Penguins," activated from IR
+",2017-18,25,ARI,NHL,39,5,6,11,-2,25,5,0,0,0,6,0,0,39,12.8,80,471,12:04,25,40,38.5,13,77,7,4,,0
+104,Josh,Archibald,2023-02-07, Penguins," activated from IR
+",2018-19,26,ARI,NHL,68,12,10,22,1,15,12,0,0,1,9,0,1,92,13.0,164,923,13:34,12,25,32.4,39,161,18,8,,"15,"
+105,Josh,Archibald,2023-02-07, Penguins," activated from IR
+",2019-20,27,EDM,NHL,62,12,9,21,-8,12,10,0,2,3,8,0,1,64,18.8,119,820,13:14,0,2,0.0,44,165,24,11,,"4,14,"
+106,Josh,Archibald,2023-02-07, Penguins," activated from IR
+",2020-21,28,EDM,NHL,52,7,6,13,2,37,7,0,0,0,6,0,0,62,11.3,103,704,13:33,4,4,50.0,35,192,14,15,,0
+107,Josh,Archibald,2023-02-07, Penguins," activated from IR
+",2021-22,29,EDM,NHL,8,0,1,1,-2,7,0,0,0,0,1,0,0,4,0.0,9,72,9:03,2,2,50.0,2,27,3,1,,"152,"
+108,Josh,Archibald,2023-02-07, Penguins," activated from IR
+",2022-23,30,PIT,NHL,62,6,6,12,6,43,6,0,0,0,6,0,0,71,8.5,112,619,9:59,1,3,25.0,28,195,14,5,,0
+109,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2015-16,19,TOR,NHL,9,0,0,0,-3,2,0,0,0,0,0,0,0,14,0.0,23,133,14:47,0,0,,1,10,4,1,,0
+110,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2016-17,20,TOR,NHL,8,1,0,1,-2,0,1,0,0,0,0,0,0,11,9.1,18,86,10:42,0,0,,2,6,2,4,,0
+111,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2017-18,21,TOR,NHL,38,7,2,9,-1,4,6,0,1,1,2,0,0,55,12.7,87,427,11:15,1,6,14.3,9,57,12,6,,0
+112,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2018-19,22,TOR,NHL,78,20,24,44,12,27,17,1,2,3,22,2,0,174,11.5,325,1296,16:37,5,4,55.6,19,92,44,38,,0
+113,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2019-20,23,TOR,NHL,69,13,23,36,0,22,11,0,2,2,20,3,0,121,10.7,214,1090,15:47,2,13,13.3,17,73,36,29,,0
+114,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2020-21,24,PIT,NHL,40,11,19,30,15,7,10,1,0,3,16,3,0,68,16.2,112,621,15:32,0,1,0.0,8,41,16,21,,"26,"
+115,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2021-22,25,PIT,NHL,79,11,21,32,2,16,11,0,0,2,16,5,0,129,8.5,235,1148,14:32,5,7,41.7,19,110,40,30,,0
+116,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2022-23,26,TOT,NHL,66,15,19,34,-8,18,11,3,1,5,16,3,0,116,12.9,175,903,13:41,30,49,38.0,20,99,17,20,,0
+117,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2022-23,26,PIT,NHL,43,7,13,20,-8,8,4,3,0,2,10,3,0,69,10.1,100,518,12:02,4,11,26.7,12,76,10,13,,0
+118,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2022-23,26,STL,NHL,23,8,6,14,0,10,7,0,1,3,6,0,0,47,17.0,75,385,16:45,26,38,40.6,8,23,7,7,,0
+119,Kasperi,Kapanen,2023-02-07, Penguins," activated from IR
+",2023-24,27,STL,NHL,42,4,9,13,-6,6,3,0,1,1,8,0,1,65,6.2,120,638,15:12,12,21,36.4,18,28,19,10,,"14,"
+120,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)
+",2014-15,19,WSH,NHL,53,9,13,22,12,10,7,2,0,2,12,1,0,65,13.8,142,685,12:55,74,93,44.3,18,22,18,17,,0
+121,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)
+",2015-16,20,WSH,NHL,79,17,21,38,4,12,17,0,0,1,17,4,0,126,13.5,238,1029,13:01,17,20,45.9,24,37,34,30,Byng-70,0
+122,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)
+",2016-17,21,WSH,NHL,64,12,23,35,13,14,10,2,0,1,20,3,0,111,10.8,222,849,13:16,2,5,28.6,25,31,33,33,,"22,"
+123,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)
+",2017-18,22,WSH,NHL,56,12,13,25,3,27,10,2,0,5,11,2,0,84,14.3,170,775,13:50,18,15,54.5,26,40,23,34,,"44,"
+124,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)
+",2018-19,23,WSH,NHL,76,12,13,25,2,14,11,1,0,4,13,0,0,100,12.0,178,846,11:08,7,13,35.0,29,35,28,29,,0
+125,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)
+",2019-20,24,COL,NHL,58,20,25,45,11,22,18,2,0,6,16,9,0,103,19.4,184,882,15:12,5,9,35.7,34,26,27,33,,0
+126,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)
+",2020-21,25,COL,NHL,53,19,25,44,4,10,15,4,0,3,15,10,0,102,18.6,180,800,15:06,2,2,50.0,16,22,16,24,,0
+127,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)
+",2021-22,26,COL,NHL,80,22,39,61,12,18,18,4,0,5,32,7,0,149,14.8,313,1301,16:16,8,12,40.0,34,49,28,39,,0
+128,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)
+",2022-23,27,SEA,NHL,49,13,26,39,-9,14,9,4,0,3,16,10,0,105,12.4,206,811,16:33,0,6,0.0,15,17,31,17,,0
+129,Andre,Burakovsky,2023-02-09, Kraken," placed on IR with lower body injury (out for season)
+",2023-24,28,SEA,NHL,19,1,5,6,-3,4,1,0,0,0,3,2,0,26,3.8,64,251,13:14,2,2,50.0,5,4,5,3,,"36,21,"
+130,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2012-13,22,EDM,NHL,48,8,19,27,-17,8,4,4,0,3,8,11,0,85,9.4,190,1030,21:27,0,1,0.0,35,15,15,34,"AR-1,Calder-7",0
+131,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2013-14,23,EDM,NHL,74,11,22,33,-22,16,10,1,0,3,11,11,0,109,10.1,242,1728,23:21,0,1,0.0,107,30,20,63,,"12,"
+132,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2014-15,24,EDM,NHL,81,6,25,31,-17,12,6,0,0,1,13,12,0,122,4.9,301,1832,22:37,1,0,100.0,114,41,20,69,Byng-56,0
+133,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2015-16,25,TOT,NHL,63,4,14,18,-15,16,2,2,0,0,8,6,0,82,4.9,,1162,18:27,0,2,0.0,72,36,21,40,,"30,"
+134,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2015-16,25,EDM,NHL,45,3,7,10,-22,14,2,1,0,0,2,5,0,59,5.1,134,906,20:08,0,2,0.0,66,29,16,38,,"30,"
+135,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2015-16,25,PIT,NHL,18,1,7,8,7,2,0,1,0,0,6,1,0,23,4.3,44,256,14:14,0,0,,6,7,5,2,,"30,"
+136,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2016-17,26,PIT,NHL,78,12,39,51,27,34,9,3,0,1,22,17,0,154,7.8,293,1595,20:27,0,0,,116,67,22,37,"AS-11,Norris-10",0
+137,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2017-18,27,PIT,NHL,63,4,23,27,22,14,4,0,0,1,13,10,0,109,3.7,235,1229,19:31,0,0,,93,36,17,27,,"13,27,"
+138,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2018-19,28,PIT,NHL,29,2,13,15,0,4,1,1,0,0,8,5,0,47,4.3,99,595,20:30,0,0,,41,25,5,27,,"125,"
+139,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2019-20,29,PIT,NHL,46,3,9,12,-13,6,3,0,0,0,3,6,0,86,3.5,178,914,19:53,0,0,,50,36,6,18,,"9,22,"
+140,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2020-21,30,WSH,NHL,46,3,24,27,12,10,3,0,0,1,16,8,0,67,4.5,130,875,19:01,0,0,,49,28,12,25,,0
+141,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2021-22,31,WSH,NHL,74,4,19,23,-15,16,2,2,0,1,16,3,0,92,4.3,205,1252,16:55,0,0,,87,40,13,25,,"4,"
+142,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2022-23,32,SEA,NHL,73,7,27,34,4,40,6,1,0,4,15,12,0,98,7.1,215,1299,17:47,0,0,,72,30,14,24,,0
+143,Justin,Schultz,2023-02-09, Kraken," activated from IR
+",2023-24,33,SEA,NHL,42,4,12,16,-11,22,4,0,0,1,7,5,0,65,6.2,159,671,15:59,0,0,,42,13,9,10,,"13,"
+144,Troy,Terry,2023-02-10, Ducks," placed on IR with upper body injury
+",2017-18,20,ANA,NHL,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0,3,20,10:13,0,0,,2,0,0,0,,0
+145,Troy,Terry,2023-02-10, Ducks," placed on IR with upper body injury
+",2018-19,21,ANA,NHL,32,4,9,13,8,2,2,2,0,0,5,4,0,25,16.0,59,446,13:57,1,4,20.0,12,4,14,16,,0
+146,Troy,Terry,2023-02-10, Ducks," placed on IR with upper body injury
+",2019-20,22,ANA,NHL,47,4,11,15,-5,6,4,0,0,0,9,2,0,73,5.5,140,682,14:31,3,5,37.5,9,3,31,19,,"40,"
+147,Troy,Terry,2023-02-10, Ducks," placed on IR with upper body injury
+",2020-21,23,ANA,NHL,48,7,13,20,-1,18,7,0,0,0,13,0,0,69,10.1,129,706,14:42,2,2,50.0,13,5,19,23,,0
+148,Troy,Terry,2023-02-10, Ducks," placed on IR with upper body injury
+",2021-22,24,ANA,NHL,75,37,30,67,-11,26,29,8,0,7,23,7,0,192,19.3,327,1368,18:14,1,8,11.1,27,6,35,46,,"8,"
+149,Troy,Terry,2023-02-10, Ducks," placed on IR with upper body injury
+",2022-23,25,ANA,NHL,70,23,38,61,-8,22,18,5,0,3,31,7,0,188,12.2,352,1356,19:22,2,0,100.0,23,12,43,27,,0
+150,Troy,Terry,2023-02-10, Ducks," placed on IR with upper body injury
+",2023-24,26,ANA,NHL,47,15,22,37,-2,20,12,3,0,4,15,7,0,118,12.7,232,865,18:25,4,4,50.0,15,7,29,34,,"13,4,"

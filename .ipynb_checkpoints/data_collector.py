@@ -17,6 +17,7 @@ START_DATE="2017-11-04"
 END_DATE="2017-11-08"
 page=0
 rows=[]
+final_rows=[]
 totalFile = []
 HTML_PARSER = "html.parser"
 #/////////////////////////////////

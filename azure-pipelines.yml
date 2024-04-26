@@ -9,7 +9,7 @@ trigger:
 pool: Self-Hosted-Pool
 
 steps:
-- script: jupyter notebook Untitled-checkpoint/.ipynb_checkpoints/.ipynb 
+- script: jupyter notebook .ipynb_checkpoints/Untitled-checkpoint.ipynb
   displayName: 'Run the data collector'
 
 - script: |

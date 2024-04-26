@@ -1,0 +1,623 @@
+﻿,Player First Name,Player Last Name,Position,Season,Age,Team,League,Games Played,Goals,Assists,Points,+/-,Penalties in Minutes,Even Strength Goals,Power Play Goals,Short Handed Goals,Game-Winning Goals,Even Strength Assists,Power Play Assists,Short-Handed Assists,Shots On Goals,Shooting Percentage,Total Shoot Assists,Time on Minutes,Average Time on Ice,Faceoff Wins,Faceoff Losses,Faceoff Percentage,Blocks,Hits,Takeaways,Giveaways,Awards,Injury Time,Total Time Out This Year,Injury Description
+0,Alex,Formenton,LW,2018-19,19,OTT,NHL,9,1,0,1,-2,6,1,0,0,0,0,0,0,16,6.3,25,105,11:40,1,2,33.3,7,11,4,5,,11,11,' placed on IR with concussion'
+1,Cody,Ceci,D,2015-16,22,OTT,NHL,75,10,16,26,9,18,10,0,0,2,14,2,0,116,8.6,232,1448,19:18,0,0,,130,70,15,41,,17,17,' placed on IR with upper body injury'
+2,Cody,Ceci,D,2017-18,24,OTT,NHL,82,5,14,19,-27,12,5,0,0,1,9,5,0,143,3.5,315,1914,23:20,0,0,,171,163,18,40,,7,7,' placed on IR with foot injury'
+3,Ryan,Dzingel,C,2018-19,26,TOT,NHL,78,26,30,56,-9,29,21,5,0,5,24,6,0,159,16.4,,1312,16:49,39,56,41.1,38,54,25,39,,12,12,' placed on IR with upper body injury'
+4,Ryan,Dzingel,C,2019-20,27,CAR,NHL,64,8,21,29,3,30,4,4,0,1,16,5,0,98,8.2,178,906,14:09,9,20,31.0,25,36,15,19,,28,28,' placed on IR with ankle injury'
+5,Ryan,Dzingel,C,2020-21,28,TOT,NHL,40,8,5,13,-5,21,6,2,0,0,4,1,0,48,16.7,,508,12:42,3,9,25.0,10,44,8,9,,14,14,' placed on IR with hand injury'
+6,Jay,Beagle,RW,2012-13,27,WSH,NHL,48,2,6,8,-1,14,2,0,0,1,6,0,0,56,3.6,97,581,12:06,249,195,56.1,23,55,18,12,,28,28,' placed on IR with left shoulder injury'
+7,Jay,Beagle,RW,2016-17,31,WSH,NHL,81,13,17,30,20,22,12,0,1,4,15,0,2,100,13.0,158,1104,13:38,624,483,56.4,44,55,11,26,Selke-24,11,11,' placed on IR with eye injury'
+8,Jay,Beagle,RW,2018-19,33,VAN,NHL,57,3,10,13,-8,18,2,0,1,0,10,0,0,45,6.7,71,778,13:39,426,332,56.2,33,102,13,10,,"6, 19",25,"' placed on IR with lower body injury', ' placed on IR with ankle injury (surgery)'"
+9,Jay,Beagle,RW,2021-22,36,ARI,NHL,33,1,1,2,-20,27,1,0,0,0,1,0,0,24,4.2,40,455,13:47,265,199,57.1,16,50,9,7,,"22, 26",48,"' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+10,Casey,Cizikas,C,2011-12,20,NYI,NHL,15,0,4,4,1,6,0,0,0,0,4,0,0,12,0.0,24,159,10:36,47,68,40.9,9,26,1,1,,57,57,' placed on IR with head injury'
+11,Casey,Cizikas,C,2014-15,23,NYI,NHL,70,9,9,18,-2,24,7,0,2,2,8,1,0,90,10.0,159,876,12:31,446,409,52.2,50,144,42,22,,16,16,' placed on IR with upper body injury'
+12,Casey,Cizikas,C,2015-16,24,NYI,NHL,80,8,21,29,4,31,7,0,1,4,20,0,2,84,9.5,150,1015,12:41,469,490,48.9,62,158,58,23,Selke-43,59,59,' placed on IR with upper body injury'
+13,Casey,Cizikas,C,2016-17,25,NYI,NHL,59,8,17,25,9,30,8,0,0,1,16,1,0,82,9.8,127,821,13:54,420,426,49.6,58,144,36,24,,28,28,' placed on IR with upper body injury'
+14,Casey,Cizikas,C,2017-18,26,NYI,NHL,64,7,10,17,-12,23,6,0,1,0,10,0,0,74,9.5,123,846,13:13,473,418,53.1,53,128,33,23,,6,6,' placed on IR with lower body injury'
+15,Casey,Cizikas,C,2018-19,27,NYI,NHL,73,20,13,33,22,36,18,0,2,3,12,0,1,111,18.0,170,1024,14:01,497,516,49.1,68,129,44,34,Selke-21,"52, 4",56,"' placed on IR with fractured forearm', ' placed on IR with upper body injury'"
+16,Casey,Cizikas,C,2019-20,28,NYI,NHL,48,10,4,14,12,41,7,0,3,1,2,0,2,67,14.9,114,686,14:18,368,320,53.5,39,133,38,28,,10,10,' placed on IR with lower body injury'
+17,Casey,Cizikas,C,2020-21,29,NYI,NHL,56,7,7,14,-2,27,7,0,0,3,7,0,0,72,9.7,112,775,13:50,340,299,53.2,25,112,12,16,,116,116,' placed on IR with undisclosed injury (out for season)'
+18,Casey,Cizikas,C,2021-22,30,NYI,NHL,74,10,6,16,-3,48,9,0,1,3,6,0,0,91,11.0,147,1017,13:45,534,427,55.6,43,138,33,32,,2,2,' placed on IR with upper body injury'
+19,Justin,Schultz,D,2013-14,23,EDM,NHL,74,11,22,33,-22,16,10,1,0,3,11,11,0,109,10.1,242,1728,23:21,0,1,0.0,107,30,20,63,,5,5,' placed on IR with sprained knee'
+20,Justin,Schultz,D,2014-15,24,EDM,NHL,81,6,25,31,-17,12,6,0,0,1,13,12,0,122,4.9,301,1832,22:37,1,0,100.0,114,41,20,69,Byng-56,"6, 3",9,"' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+21,Justin,Schultz,D,2021-22,31,WSH,NHL,74,4,19,23,-15,16,2,2,0,1,16,3,0,92,4.3,205,1252,16:55,0,0,,87,40,13,25,,"14, 82",96,"' placed on IR with lower body injury', ' placed on IR with lower body injury / core muscle injury'"
+22,Justin,Schultz,D,2023-24,33,SEA,NHL,64,6,17,23,-21,22,6,0,0,2,9,8,0,88,6.8,237,1046,16:21,0,0,,63,24,15,11,,36,36,' placed on IR with upper body injury'
+23,Antoine,Roussel,LW,2016-17,27,DAL,NHL,60,12,15,27,1,115,12,0,0,3,12,3,0,82,14.6,162,931,15:31,7,9,43.8,45,69,16,37,,"23, 14",37,"' placed on IR with hand injury', ' placed on IR with lower body injury'"
+24,Antoine,Roussel,LW,2017-18,28,DAL,NHL,73,5,12,17,1,126,5,0,0,0,12,0,0,85,5.9,171,908,12:26,22,16,57.9,42,104,16,23,,"4, 11",15,"' placed on IR with lower body injury', ' placed on IR with hand injury'"
+25,Antoine,Roussel,LW,2018-19,29,VAN,NHL,65,9,22,31,5,118,9,0,0,1,22,0,0,84,10.7,154,894,13:46,17,17,50.0,50,87,20,20,,15,15,' placed on IR with vertigo'
+26,Andrew,Ladd,LW,2011-12,26,WPG,NHL,82,28,22,50,-8,64,24,4,0,6,14,8,0,265,10.6,431,1604,19:34,32,27,54.2,25,76,40,43,,26,26,' placed on IR with knee injury'
+27,Andrew,Ladd,LW,2018-19,33,NYI,NHL,26,3,8,11,3,16,3,0,0,0,7,0,1,34,8.8,55,360,13:51,2,3,40.0,8,37,9,14,,"4, 13, 8",25,"' placed on IR with lower body injury', ' placed on IR with lower body injury', ' placed on IR with upper body injury'"
+28,Andrew,Ladd,LW,2019-20,34,NYI,NHL,4,1,0,1,2,4,1,0,0,0,0,0,0,5,20.0,7,48,11:58,0,0,,0,23,0,1,,"10, 165, 11",186,"' placed on IR with lower body injury', ' placed on IR with lacerated leg', ' placed on IR with lower body injury'"
+29,Andrew,Ladd,LW,2021-22,36,ARI,NHL,51,7,5,12,-20,47,4,3,0,0,4,1,0,57,12.3,107,720,14:07,7,3,70.0,33,68,17,26,,11,11,' placed on IR with lower body injury'
+30,Carter,Rowney,RW,2017-18,28,PIT,NHL,44,2,3,5,-13,4,1,0,1,0,3,0,0,21,9.5,43,411,9:21,164,146,52.9,24,74,5,6,,"13, 27",40,"' placed on IR with concussion', ' placed on IR with lower body injury'"
+31,Carter,Rowney,RW,2018-19,29,ANA,NHL,62,7,13,20,0,12,6,0,1,0,13,0,0,53,13.2,89,778,12:33,171,176,49.3,35,178,22,26,,"6, 38",44,"' placed on IR with concussion', ' placed on IR with left ankle/leg injury'"
+32,Ryan,Getzlaf,C,2013-14,28,ANA,NHL,77,31,56,87,28,31,26,5,0,7,38,18,0,204,15.2,373,1639,21:17,692,719,49.0,87,110,53,76,"AS-2,Hart-2,Selke-10",18,18,' placed on IR with upper body injury'
+33,Ryan,Getzlaf,C,2018-19,33,ANA,NHL,67,14,34,48,-19,58,13,1,0,2,24,10,0,133,10.5,271,1304,19:28,551,463,54.3,74,150,60,79,,"125, 36, 13, 32",206,"' placed on IR with fractured lower left leg', ' placed on IR with ankle injury', ' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+34,Ryan,Getzlaf,C,2019-20,34,ANA,NHL,69,13,29,42,-16,58,10,3,0,5,23,6,0,143,9.1,271,1292,18:44,530,504,51.3,69,125,53,76,,"9, 22",31,"' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+35,Ryan,Getzlaf,C,2021-22,36,ANA,NHL,56,3,34,37,-14,29,1,2,0,1,25,9,0,104,2.9,192,1062,18:57,546,479,53.3,56,89,35,67,,4,4,' placed on IR with upper body injury'
+36,J.T.,Compher,LW,2018-19,23,COL,NHL,66,16,16,32,-8,31,9,4,3,3,11,5,0,118,13.6,197,1153,17:29,301,311,49.2,59,33,23,23,,37,37,' placed on IR with upper body injury'
+37,J.T.,Compher,LW,2020-21,25,COL,NHL,48,10,8,18,10,19,9,1,0,2,7,1,0,47,21.3,88,682,14:13,216,255,45.9,38,32,16,10,,22,22,' placed on IR with upper body injury'
+38,Josh,Archibald,RW,2018-19,26,ARI,NHL,68,12,10,22,1,15,12,0,0,1,9,0,1,92,13.0,164,923,13:34,12,25,32.4,39,161,18,8,,11,11,' placed on IR with concussion'
+39,Josh,Archibald,RW,2019-20,27,EDM,NHL,62,12,9,21,-8,12,10,0,2,3,8,0,1,64,18.8,119,820,13:14,0,2,0.0,44,165,24,11,,63,63,' placed on IR with knee injury'
+40,Josh,Archibald,RW,2021-22,29,EDM,NHL,8,0,1,1,-2,7,0,0,0,0,1,0,0,4,0.0,9,72,9:03,2,2,50.0,2,27,3,1,,"37, 15",52,"' placed on IR with lower body injury', ' placed on IR with upper body injury'"
+41,Zach,Bogosian,D,2012-13,22,WPG,NHL,33,5,9,14,-5,29,5,0,0,0,6,3,0,85,5.9,172,763,23:07,0,0,,50,79,12,28,,10,10,' placed on IR with shoulder injury'
+42,Zach,Bogosian,D,2014-15,24,TOT,NHL,62,3,17,20,-6,78,3,0,0,0,15,2,0,125,2.4,,1469,23:41,0,0,,90,189,14,38,,"58, 22",80,"' placed on IR with surgery to repair hernia', ' placed on IR with lower body injury'"
+43,Zach,Bogosian,D,2017-18,27,BUF,NHL,18,0,1,1,-9,20,0,0,0,0,1,0,0,29,0.0,48,345,19:09,0,0,,23,22,3,9,,17,17,' placed on IR with upper body injury'
+44,Zach,Bogosian,D,2018-19,28,BUF,NHL,65,3,16,19,-5,52,2,0,1,0,15,1,0,93,3.2,181,1406,21:38,0,0,,116,83,17,46,,"103, 78, 94",275,"' placed on IR with right leg injury', ' placed on IR with torn ACL in knee (out for season)', ' placed on IR with left eye injury'"
+45,Zach,Bogosian,D,2019-20,29,TOT,NHL,27,1,6,7,0,22,1,0,0,0,5,0,1,29,3.4,,449,16:38,0,0,,27,30,4,11,,45,45,' placed on IR with knee injury'
+46,Max,McCormick,LW,2018-19,26,OTT,NHL,14,1,0,1,-6,4,1,0,0,0,0,0,0,12,8.3,25,105,7:30,0,1,0.0,6,21,1,3,,30,30,' placed on IR with hand injury'
+47,Max,McCormick,LW,2021-22,29,SEA,NHL,10,0,0,0,1,10,0,0,0,0,0,0,0,8,0.0,15,81,8:06,2,2,50.0,3,11,2,1,,34,34,' placed on IR with lower body injury'
+48,Brady,Tkachuk,LW,2018-19,19,OTT,NHL,71,22,23,45,-10,75,18,4,0,3,17,6,0,214,10.3,335,1138,16:01,73,76,49.0,26,174,22,39,"AR-1,Calder-5",14,14,' placed on IR with facial injury'
+49,Brady,Tkachuk,LW,2019-20,20,OTT,NHL,71,21,23,44,-14,106,19,2,0,3,17,6,0,259,8.1,431,1344,18:56,144,168,46.2,43,303,35,40,,16,16,' placed on IR with knee injury'
+50,Sven,Andrighetto,RW,2017-18,24,COL,NHL,50,8,14,22,-15,10,5,3,0,2,8,6,0,111,7.2,198,724,14:29,7,15,31.8,18,38,22,15,,"31, 20",51,"' placed on IR with hand injury', ' placed on IR with upper body injury'"
+51,Trevor,Daley,D,2010-11,27,DAL,NHL,82,8,19,27,7,34,6,2,0,1,16,3,0,131,6.1,293,1844,22:29,0,0,,124,32,34,42,,42,42,' placed on IR with nasal sinus fractures'
+52,Trevor,Daley,D,2017-18,34,DET,NHL,77,9,7,16,-5,36,8,0,1,4,5,0,2,103,8.7,197,1594,20:42,0,0,,125,24,11,50,,116,116,' placed on IR with thumb injury (out for season)'
+53,Trevor,Daley,D,2018-19,35,DET,NHL,44,2,6,8,-3,12,1,0,1,1,6,0,0,47,4.3,83,817,18:34,0,0,,53,14,10,43,,44,44,' placed on IR with upper body injury'
+54,Elias,Pettersson,C,2018-19,20,VAN,NHL,71,28,38,66,3,12,18,10,0,7,26,12,0,144,19.4,266,1294,18:14,257,370,41.0,51,42,41,52,"AR-1,Byng-24,Calder-1",17,17,' placed on IR with upper body injury'
+55,Ryan,Callahan,RW,2016-17,31,TBL,NHL,18,2,2,4,-4,23,2,0,0,1,2,0,0,22,9.1,42,255,14:09,5,4,55.6,13,48,7,10,,"7, 21",28,"' placed on IR with hand injury', ' placed on IR with fractured right index finger'"
+56,Ryan,Callahan,RW,2017-18,32,TBL,NHL,67,5,13,18,-4,29,3,1,1,0,11,1,1,104,4.8,179,893,13:19,27,39,40.9,40,138,26,16,,"22, 17",39,"' placed on IR with fractured finger', ' placed on IR with hand injury'"
+57,Ryan,Callahan,RW,2018-19,33,TBL,NHL,52,7,10,17,7,14,6,1,0,3,9,0,1,76,9.2,111,579,11:08,6,15,28.6,25,89,22,8,,15,15,' placed on IR with upper body injury'
+58,Ben,Lovejoy,D,2014-15,30,TOT,NHL,60,2,12,14,-4,25,2,0,0,0,10,0,2,86,2.3,,1166,19:26,0,0,,105,170,15,22,,10,10,' placed on IR with concussion'
+59,Ben,Lovejoy,D,2015-16,31,PIT,NHL,66,4,6,10,9,30,4,0,0,0,5,0,1,90,4.4,172,1245,18:52,0,0,,104,154,20,18,,13,13,' placed on IR with sprained MCL in knee'
+60,Matt,Benning,D,2018-19,24,EDM,NHL,70,5,12,17,11,33,5,0,0,0,10,1,1,94,5.3,181,1046,14:57,0,0,,59,109,10,49,,"14, 105, 3",122,"' placed on injured/non-roster list with upper body injury', ' placed on IR with dislocated collarbone', ' placed on IR with concussion'"
+61,Matt,Benning,D,2019-20,25,EDM,NHL,43,1,7,8,8,15,1,0,0,0,7,0,0,38,2.6,81,569,13:14,0,0,,34,78,12,19,,36,36,' placed on IR with concussion'
+62,Matt,Benning,D,2022-23,28,SJS,NHL,77,1,23,24,-18,26,1,0,0,0,21,1,1,58,1.7,156,1523,19:47,0,0,,125,102,18,43,,41,41,' placed on IR with lower body injury'
+63,Nicolas,Deslauriers,LW,2021-22,30,TOT,NHL,81,8,5,13,-11,113,7,0,1,1,5,0,0,90,8.9,158,921,11:22,1,3,25.0,49,263,7,14,,258,258,' placed on IR with concussion (out for season)'
+64,Brian,Lashoff,D,2018-19,28,DET,NHL,4,0,1,1,-1,2,0,0,0,0,1,0,0,2,0.0,2,55,13:40,0,0,,4,3,0,0,,5,5,' placed on IR with lower body injury'
+65,Steven,Santini,D,2020-21,25,STL,NHL,3,0,1,1,1,0,0,0,0,0,1,0,0,9,0.0,13,42,14:00,0,0,,2,12,1,2,,"20, 42",62,"' placed on IR with shoulder injury', ' placed on IR with lower body injury'"
+66,Fredrik,Claesson,D,2021-22,29,TBL,NHL,9,0,0,0,-3,0,0,0,0,0,0,0,0,4,0.0,11,89,9:52,0,0,,6,12,1,3,,46,46,' placed on IR with lower body injury'
+67,Danny,DeKeyser,D,2014-15,24,DET,NHL,80,2,29,31,11,42,2,0,0,1,23,6,0,89,2.2,217,1674,20:56,0,0,,88,74,14,38,,"2, 127",129,"' placed on IR with upper body injury', ' placed on IR with upper body injury (out for season)'"
+68,Danny,DeKeyser,D,2015-16,25,DET,NHL,78,8,12,20,2,44,8,0,0,3,12,0,0,72,11.1,145,1701,21:48,0,0,,107,88,17,38,,8,8,' placed on IR with lower body injury'
+69,Danny,DeKeyser,D,2018-19,28,DET,NHL,52,5,15,20,2,39,5,0,0,3,15,0,0,59,8.5,132,1142,21:58,0,0,,94,79,14,30,,"10, 22",32,"' placed on IR with lower body injury', ' placed on IR with leg injury'"
+70,Danny,DeKeyser,D,2020-21,30,DET,NHL,47,4,8,12,3,18,4,0,0,0,8,0,0,43,9.3,92,851,18:06,0,0,,81,44,1,20,,21,21,' placed on IR with upper body injury'
+71,Danny,DeKeyser,D,2021-22,31,DET,NHL,59,0,11,11,-8,26,0,0,0,0,11,0,0,57,0.0,119,1092,18:30,0,0,,102,49,7,21,,1,1,' placed on non-roster list with non-injury related matter'
+72,Jonathan,Ericsson,D,2015-16,31,DET,NHL,71,3,12,15,2,56,3,0,0,0,12,0,0,68,4.4,154,1316,18:32,0,0,,48,121,14,61,,11,11,' placed on IR with lower body injury (CBC)'
+73,Jonathan,Ericsson,D,2016-17,32,DET,NHL,51,1,8,9,-2,63,1,0,0,0,8,0,0,43,2.3,95,980,19:13,0,0,,36,86,9,27,,8,8,' placed on IR with lower body injury'
+74,Jonathan,Ericsson,D,2017-18,33,DET,NHL,81,3,10,13,-7,47,3,0,0,0,9,0,1,86,3.5,153,1564,19:19,1,0,100.0,84,133,13,70,,"49, 11, 2",62,"' placed on IR with leg injury', ' placed on IR with hamstring injury', ' placed on IR with lower body injury'"
+75,Jonathan,Ericsson,D,2018-19,34,DET,NHL,52,3,2,5,-10,35,3,0,0,1,2,0,0,48,6.3,106,895,17:13,0,0,,56,98,9,40,,"15, 17",32,"' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+76,Ty,Rattie,RW,2017-18,24,EDM,NHL,14,5,4,9,1,2,5,0,0,1,4,0,0,32,15.6,50,217,15:28,0,0,,4,11,2,4,,90,90,' placed on IR with back injury (out for season)'
+77,Jakob,Silfverberg,LW,2012-13,22,OTT,NHL,48,10,9,19,9,12,7,2,1,2,8,1,0,134,7.5,229,779,16:14,5,8,38.5,13,38,20,23,Calder-15,1,1,' placed on IR with upper body injury'
+78,Jakob,Silfverberg,LW,2013-14,23,ANA,NHL,52,10,13,23,2,12,7,1,2,1,13,0,0,119,8.4,187,742,14:16,1,11,8.3,20,31,17,9,,31,31,' placed on IR with sprained left ankle'
+79,Jakob,Silfverberg,LW,2018-19,28,ANA,NHL,73,24,19,43,-9,28,19,3,2,4,10,8,1,163,14.7,288,1248,17:06,19,32,37.3,43,38,27,27,,"66, 170",236,"' placed on IR with back injury', ' placed on IR with upper body injury (out for season)'"
+80,Jakob,Silfverberg,LW,2019-20,29,ANA,NHL,66,21,18,39,0,14,15,4,2,1,15,3,0,155,13.5,270,1167,17:41,8,33,19.5,41,28,40,32,,332,332,' placed on IR with back injury (out for season)'
+81,Seth,Jones,D,2014-15,20,NSH,NHL,82,8,19,27,3,20,5,2,1,0,10,9,0,123,6.5,264,1630,19:53,0,0,,90,72,41,46,,15,15,' placed on IR with concussion'
+82,Seth,Jones,D,2018-19,24,CBJ,NHL,75,9,37,46,1,28,9,0,0,4,24,10,3,184,4.9,377,1937,25:49,0,0,,133,106,59,69,"AS-9,Norris-9","43, 9, 3",55,"' placed on IR with fractured foot', ' placed on IR with concussion', ' placed on IR with upper body injury'"
+83,Seth,Jones,D,2019-20,25,CBJ,NHL,56,6,24,30,10,20,4,2,0,0,16,7,1,126,4.8,244,1416,25:17,0,0,,123,62,29,37,"AS-12,Norris-14","8, 35",43,"' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+84,Drew,Stafford,RW,2018-19,33,NJD,NHL,57,5,8,13,-7,18,4,1,0,0,7,1,0,77,6.5,136,699,12:16,16,23,41.0,19,50,15,17,,"12, 9",21,"' placed on IR with sprained right knee', ' placed on IR with lower body injury'"
+85,Michael,Raffl,LW,2019-20,31,PHI,NHL,58,8,12,20,-2,14,7,0,1,2,11,1,0,66,12.1,93,717,12:22,99,98,50.3,25,73,19,23,,6,6,' placed on IR with upper body injury'
+86,Michael,Raffl,LW,2021-22,33,DAL,NHL,76,7,9,16,-19,16,6,0,1,2,7,0,2,94,7.4,151,1105,14:32,14,12,53.8,34,141,36,36,Selke-27,"1, 35",36,"' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+87,Alex,Galchenyuk,C,2016-17,22,MTL,NHL,61,17,27,44,-5,24,11,6,0,6,18,9,0,104,16.3,198,972,15:56,274,368,42.7,32,36,17,34,,15,15,' placed on IR with appendectomy'
+88,Alex,Galchenyuk,C,2017-18,23,MTL,NHL,82,19,32,51,-31,22,10,9,0,2,17,15,0,213,8.9,382,1331,16:14,49,60,45.0,37,33,29,56,,162,162,' placed on IR with upper body injury (out for season)'
+89,Alex,Galchenyuk,C,2018-19,24,ARI,NHL,72,19,22,41,-19,34,10,9,0,4,10,12,0,159,11.9,288,1133,15:44,188,223,45.7,34,62,28,40,,21,21,' placed on IR with lower body injury'
+90,Robby,Fabbri,C,2018-19,23,STL,NHL,32,2,4,6,-4,6,2,0,0,1,4,0,0,43,4.7,83,405,12:39,4,10,28.6,8,30,5,4,,"16, 70, 16, 46",148,"' placed on IR with concussion', ' placed on IR with concussion', ' placed on IR with upper body injury', ' placed on IR with lower body injury'"
+91,Robby,Fabbri,C,2019-20,24,TOT,NHL,61,15,17,32,-33,20,9,6,0,3,14,3,0,111,13.5,,985,16:09,27,40,40.3,14,75,13,39,,330,330,' placed on IR with ACL injury in knee (out for season)'
+92,Robby,Fabbri,C,2021-22,26,DET,NHL,56,17,13,30,-23,35,11,6,0,1,11,2,0,123,13.8,211,970,17:20,54,55,49.5,19,86,13,21,,43,43,' placed on IR with lower body injury'
+93,Alex,Tuch,RW,2018-19,22,VEG,NHL,74,20,32,52,13,8,17,3,0,6,29,3,0,180,11.1,327,1238,16:44,43,69,38.4,40,92,69,51,Byng-17,"8, 67",75,"' placed on IR with head injury / concussion', ' placed on IR with back injury'"
+94,Alex,Tuch,RW,2019-20,23,VEG,NHL,42,8,9,17,-10,8,5,3,0,2,5,4,0,98,8.2,169,614,14:37,8,20,28.6,20,58,27,27,,"9, 24",33,"' placed on IR with groin injury', ' placed on IR with groin injury'"
+95,Alex,Tuch,RW,2020-21,24,VEG,NHL,55,18,15,33,16,28,16,2,0,3,13,2,0,142,12.7,242,925,16:50,12,20,37.5,36,52,39,18,,9,9,' placed on IR with upper body injury'
+96,Robert,Bortuzzo,D,2013-14,24,PIT,NHL,54,0,10,10,-3,74,0,0,0,0,9,0,1,50,0.0,103,836,15:29,0,1,0.0,73,137,6,11,,"12, 23",35,"' placed on IR with fractured thumb', ' placed on IR with sprained MCL in left knee'"
+97,Robert,Bortuzzo,D,2014-15,25,TOT,NHL,51,3,5,8,-9,93,3,0,0,0,5,0,0,56,5.4,,771,15:07,1,0,100.0,61,157,3,9,,"12, 60",72,"' placed on IR with concussion', ' placed on IR with torn triceps'"
+98,Robert,Bortuzzo,D,2016-17,27,STL,NHL,38,1,3,4,11,15,1,0,0,0,3,0,0,45,2.2,87,535,14:05,0,0,,50,77,4,13,,"19, 35, 145",199,"' placed on IR with hip injury', ' placed on IR with lower body injury', ' placed on IR with hip injury (out for season)'"
+99,Robert,Bortuzzo,D,2017-18,28,STL,NHL,72,4,9,13,11,41,4,0,0,1,9,0,0,76,5.3,164,1066,14:48,0,0,,108,121,5,17,,20,20,' placed on IR with upper body injury'
+100,Robert,Bortuzzo,D,2018-19,29,STL,NHL,59,2,8,10,9,47,2,0,0,0,7,0,1,75,2.7,127,913,15:28,0,0,,72,95,11,20,,16,16,' placed on IR with shoulder injury'
+101,Robert,Bortuzzo,D,2020-21,31,STL,NHL,40,1,4,5,-3,47,1,0,0,1,4,0,0,31,3.2,70,567,14:10,0,0,,49,85,7,17,,13,13,' placed on IR with right hip injury'
+102,Robert,Bortuzzo,D,2021-22,32,STL,NHL,73,1,5,6,-4,36,1,0,0,0,5,0,0,47,2.1,87,1003,13:44,0,0,,98,135,8,20,,99,99,' placed on IR with concussion (out for season)'
+103,Alexander,Edler,D,2008-09,22,VAN,NHL,80,10,27,37,11,54,5,5,0,1,11,16,0,145,6.9,336,1690,21:08,1,0,100.0,93,101,29,65,,34,34,' placed on IR with left high ankle sprain'
+104,Alexander,Edler,D,2015-16,29,VAN,NHL,52,6,14,20,-8,46,3,3,0,0,8,6,0,111,5.4,248,1272,24:27,0,0,,106,84,15,40,,19,19,' placed on IR with upper body injury'
+105,Alexander,Edler,D,2018-19,32,VAN,NHL,56,10,24,34,3,54,6,4,0,2,10,13,1,128,7.8,254,1376,24:34,0,0,,166,127,13,38,,"11, 11, 3",25,"' placed on IR with lower body injury', ' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+106,Alexander,Edler,D,2019-20,33,VAN,NHL,59,5,28,33,13,62,4,1,0,1,22,6,0,118,4.2,259,1334,22:37,0,0,,162,108,9,43,,"13, 21",34,"' placed on IR with lower body injury', ' placed on IR with groin injury'"
+107,Alexander,Edler,D,2020-21,34,VAN,NHL,52,0,8,8,-8,58,0,0,0,0,8,0,0,99,0.0,177,1087,20:54,0,0,,118,80,13,26,,6,6,' placed on IR with upper body injury'
+108,Sven,Baertschi,LW,2011-12,19,CGY,NHL,5,3,0,3,2,4,3,0,0,0,0,0,0,10,30.0,14,56,11:08,0,0,,0,5,3,0,,7,7,' placed on IR with concussion'
+109,Sven,Baertschi,LW,2014-15,22,TOT,NHL,18,2,4,6,-3,10,2,0,0,0,4,0,0,15,13.3,,174,9:41,0,0,,7,8,7,5,,45,45,' placed on IR with sprained knee'
+110,Sven,Baertschi,LW,2015-16,23,VAN,NHL,69,15,13,28,-14,14,13,2,0,1,8,5,0,108,13.9,188,929,13:27,0,1,0.0,36,30,26,22,,10,10,' placed on IR with lower body injury'
+111,Sven,Baertschi,LW,2019-20,27,VAN,NHL,6,0,2,2,-2,4,0,0,0,0,0,2,0,7,0.0,15,71,11:49,0,0,,0,5,1,1,,"9, 57",66,"' placed on IR with concussion', ' placed on IR with head injury'"
+112,Sven,Baertschi,LW,2021-22,29,VEG,NHL,1,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,1,14,13:54,0,0,,0,0,0,0,,8,8,' placed on IR with upper body injury'
+113,Dan,Hamhuis,D,2015-16,33,VAN,NHL,58,3,10,13,-2,28,2,1,0,1,8,2,0,72,4.2,164,1242,21:25,0,0,,72,64,24,47,Byng-38,29,29,' placed on IR with lower body injury'
+114,Dan,Hamhuis,D,2016-17,34,DAL,NHL,79,1,15,16,-7,23,0,1,0,0,13,0,2,83,1.2,201,1529,19:22,0,0,,100,93,19,37,,30,30,' placed on IR with knee injury'
+115,Dan,Hamhuis,D,2017-18,35,DAL,NHL,80,3,21,24,-6,33,3,0,0,1,19,2,0,66,4.5,161,1615,20:11,0,1,0.0,113,82,13,30,,"25, 4",29,"' placed on IR with shoulder injury', ' placed on IR with lower body injury'"
+116,Dan,Hamhuis,D,2018-19,36,NSH,NHL,57,0,5,5,-2,28,0,0,0,0,5,0,0,39,0.0,82,915,16:03,0,0,,61,38,12,40,,"17, 66",83,"' placed on IR with facial surgery', ' placed on IR with sprained MCL in knee'"
+117,Oskar,Sundqvist,C,2015-16,21,PIT,NHL,18,1,3,4,0,4,0,0,1,1,3,0,0,13,7.7,21,186,10:19,64,75,46.0,5,18,6,1,,2,2,' placed on IR with sprained MCL in knee'
+118,Kalle,Kossila,LW,2017-18,24,ANA,NHL,10,1,1,2,-4,0,1,0,0,0,1,0,0,9,11.1,13,91,9:05,26,27,49.1,4,7,4,3,,9,9,' placed on IR with lower body injury'
+119,Travis,Hamonic,D,2014-15,24,NYI,NHL,71,5,28,33,15,85,4,1,0,0,21,7,0,132,3.8,306,1547,21:47,0,0,,131,213,27,56,,22,22,' placed on IR with concussion'
+120,Travis,Hamonic,D,2017-18,27,CGY,NHL,74,1,10,11,-9,79,1,0,0,0,10,0,0,107,0.9,261,1532,20:42,0,1,0.0,124,83,28,46,,"17, 9",26,"' placed on IR with groin injury', ' placed on IR with lower body injury'"
+121,Travis,Hamonic,D,2018-19,28,CGY,NHL,69,7,12,19,21,33,6,0,1,1,10,0,2,128,5.5,286,1440,20:52,0,1,0.0,167,44,37,62,,"17, 33, 17, 31",98,"' placed on IR with hip injury', ' placed on IR with strained abdominal', ' placed on IR with hand injury', ' placed on IR with upper body injury'"
+122,Travis,Hamonic,D,2019-20,29,CGY,NHL,50,3,9,12,-3,27,3,0,0,0,9,0,0,83,3.6,168,1060,21:12,0,0,,110,39,21,36,,38,38,' placed on IR with surgery on right wrist to repair laceration'
+123,Travis,Hamonic,D,2020-21,30,VAN,NHL,38,3,7,10,-3,39,3,0,0,0,7,0,0,79,3.8,151,736,19:22,0,1,0.0,81,48,10,19,,5,5,' placed on IR with lower body injury'
+124,Travis,Hamonic,D,2021-22,31,TOT,NHL,43,4,6,10,6,14,4,0,0,0,6,0,0,82,4.9,171,810,18:51,0,0,,93,73,6,31,,"250, 129",379,"' placed on IR with torn pectoral muscle (out for season)', ' placed on IR with facial laceration'"
+125,Travis,Hamonic,D,2022-23,32,OTT,NHL,75,6,15,21,-5,71,6,0,0,1,11,1,3,136,4.4,277,1392,18:34,0,0,,143,109,22,64,,22,22,' placed on IR with upper body injury'
+126,Matt,Beleskey,LW,2018-19,30,NYR,NHL,4,1,0,1,1,5,1,0,0,0,0,0,0,3,33.3,6,29,7:22,1,0,100.0,1,7,0,2,,17,17,' placed on IR with heart ailment'
+127,Max,Comtois,LW,2018-19,20,ANA,NHL,10,2,5,7,3,7,2,0,0,1,5,0,0,9,22.2,19,146,14:35,3,8,27.3,3,27,2,4,,"21, 35, 69",125,"' placed on IR with upper body injury', ' placed on IR with shoulder injury', ' placed on IR with back injury'"
+128,Max,Comtois,LW,2022-23,24,ANA,NHL,64,9,10,19,-20,76,9,0,0,0,8,2,0,89,10.1,140,884,13:49,23,21,52.3,27,81,11,36,,3,3,' placed on IR with lower body injury'
+129,Victor,Hedman,D,2013-14,23,TBL,NHL,75,13,42,55,5,53,10,3,0,2,25,11,6,170,7.6,342,1683,22:26,0,0,,101,86,34,44,"AS-9,Norris-9",31,31,' placed on IR with separated left shoulder'
+130,Victor,Hedman,D,2015-16,25,TBL,NHL,78,10,37,47,21,46,9,1,0,0,26,10,1,180,5.6,407,1799,23:04,0,0,,132,62,48,62,"AS-8,Norris-7",13,13,' placed on IR with foot injury'
+131,Victor,Hedman,D,2019-20,29,TBL,NHL,66,11,44,55,27,31,7,4,0,3,26,18,0,155,7.1,306,1588,24:04,0,0,,98,73,47,40,"AS-2,Norris-3,Smythe-1",49,49,' placed on IR with back injury'
+132,Derek,MacKenzie,C,2017-18,36,FLA,NHL,75,3,11,14,-9,31,2,0,1,0,8,0,3,86,3.5,120,848,11:18,315,290,52.1,45,124,24,14,,"2, 116",118,"' placed on IR with ankle injury', ' placed on IR with fractured arm'"
+133,Derek,MacKenzie,C,2018-19,37,FLA,NHL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,3,2:43,2,1,66.7,0,0,0,0,,"14, 39",53,"' placed on IR with hand injury', ' placed on IR with left hand injury'"
+134,Zack,Smith,C,2013-14,25,OTT,NHL,82,13,9,22,-9,111,12,0,1,4,7,1,1,154,8.4,250,1274,15:32,680,611,52.7,28,175,45,39,,"25, 24",49,"' placed on IR with partially dislocated left shoulder', ' placed on IR with fractured rib'"
+135,Zack,Smith,C,2015-16,27,OTT,NHL,81,25,11,36,16,80,16,4,5,4,9,1,1,121,20.7,220,1247,15:24,380,349,52.1,26,175,33,26,Selke-43,2,2,' placed on IR with lower body injury'
+136,Zack,Smith,C,2017-18,29,OTT,NHL,68,5,14,19,-32,54,5,0,0,1,10,3,1,124,4.0,228,1137,16:43,297,323,47.9,29,90,27,29,,139,139,' placed on IR with torn meniscus in left knee (out for season)'
+137,Zack,Smith,C,2018-19,30,OTT,NHL,70,9,19,28,-6,81,8,0,1,1,17,0,2,101,8.9,174,1145,16:21,403,417,49.1,27,136,42,47,,20,20,' placed on IR with separated shoulder'
+138,Dustin,Brown,RW,2016-17,32,LAK,NHL,80,14,22,36,-4,22,9,4,1,1,20,2,0,175,8.0,326,1280,16:00,2,3,40.0,31,190,25,27,,121,121,' placed on IR with surgery on wrist (out for season)'
+139,Dustin,Brown,RW,2017-18,33,LAK,NHL,81,28,33,61,31,58,18,9,1,6,27,6,0,222,12.6,368,1607,19:50,17,29,37.0,33,189,40,55,"AS-10,Selke-15",4,4,' placed on IR with upper body injury'
+140,Dustin,Brown,RW,2018-19,34,LAK,NHL,72,22,29,51,-17,24,12,9,1,3,25,3,1,180,12.2,296,1469,20:24,1,16,5.9,29,150,31,44,,"17, 70, 28",115,"' placed on IR with upper body injury', ' placed on IR with knee injury', ' placed on IR with ankle injury'"
+141,Charlie,McAvoy,D,2018-19,21,BOS,NHL,54,7,21,28,14,45,6,1,0,3,19,1,1,79,8.9,156,1197,22:10,0,0,,91,92,30,54,,13,13,' placed on IR with mid-body injury'
+142,Charlie,McAvoy,D,2019-20,22,BOS,NHL,67,5,27,32,24,41,4,1,0,1,25,1,1,101,5.0,220,1552,23:10,0,0,,131,131,37,68,"AS-11,Norris-10","36, 5",41,"' placed on IR with nose injury', ' placed on IR with upper body injury'"
+143,Charlie,McAvoy,D,2020-21,23,BOS,NHL,51,5,25,30,22,38,4,1,0,0,17,7,1,92,5.4,189,1224,24:00,0,0,,80,65,20,44,"AS-6,Norris-5",7,7,' placed on IR with upper body injury'
+144,Charlie,McAvoy,D,2021-22,24,BOS,NHL,78,10,46,56,31,66,5,4,1,5,29,17,0,166,6.0,295,1922,24:38,0,0,,130,155,29,65,"AS-2,Norris-4",24,24,' placed on IR with upper body injury'
+145,Auston,Matthews,C,2018-19,21,TOR,NHL,68,37,36,73,-9,12,25,12,0,5,28,8,0,251,14.7,447,1262,18:33,475,436,52.1,60,28,57,67,Byng-8,6,6,' placed on IR with fractured finger'
+146,Auston,Matthews,C,2023-24,26,TOR,NHL,75,64,36,100,33,16,48,16,0,8,24,11,1,331,19.3,624,1573,20:59,663,564,54.0,87,83,79,52,,27,27,' placed on IR with upper body injury'
+147,Connor,Carrick,D,2018-19,24,TOT,NHL,34,2,9,11,-13,19,2,0,0,1,8,1,0,42,4.8,,571,16:48,0,0,,37,25,15,17,,7,7,' placed on IR with lower body injury'
+148,Connor,Carrick,D,2020-21,26,NJD,NHL,11,1,1,2,-2,5,1,0,0,0,1,0,0,8,12.5,21,205,18:40,0,0,,24,11,1,8,,76,76,' placed on IR with torn labrum in right hip (out for season)'
+149,Urho,Vaakanainen,D,2018-19,20,BOS,NHL,2,0,0,0,-1,0,0,0,0,0,0,0,0,2,0.0,4,18,9:06,0,0,,0,0,0,1,,27,27,' placed on IR with wrist injury'
+150,Urho,Vaakanainen,D,2021-22,23,TOT,NHL,29,0,6,6,-5,10,0,0,0,0,5,1,0,27,0.0,55,560,19:19,0,0,,28,27,7,8,,109,109,' placed on IR with blood clot in right leg (out for season)'
+151,Torey,Krug,D,2017-18,26,BOS,NHL,76,14,45,59,0,36,8,5,1,4,26,19,0,197,7.1,416,1551,20:24,0,0,,73,79,35,71,AS-17,10,10,' placed on IR with shoulder injury'
+152,Torey,Krug,D,2018-19,27,BOS,NHL,64,6,47,53,-2,33,4,2,0,2,19,28,0,151,4.0,318,1363,21:18,0,0,,60,53,20,52,,"21, 55",76,"' placed on IR with knee injury', ' placed on IR with hand injury'"
+153,Torey,Krug,D,2019-20,28,BOS,NHL,61,9,40,49,-4,33,7,2,0,4,14,26,0,144,6.3,273,1250,20:29,0,0,,48,36,22,48,"AS-19,Norris-19","129, 17",146,"' placed on IR with surgery on right ankle to repair fracture', ' placed on IR with shoulder injury'"
+154,Torey,Krug,D,2021-22,30,STL,NHL,64,9,34,43,23,48,5,3,1,1,18,16,0,119,7.6,245,1316,20:34,0,0,,70,53,16,32,,278,278,' placed on IR with shoulder injury (out for season)'
+155,Joe,Thornton,C,2011-12,32,SJS,NHL,82,18,59,77,17,31,14,4,0,2,39,19,1,156,11.5,259,1678,20:28,557,436,56.1,26,42,96,95,Selke-31,8,8,' placed on IR with upper body injury'
+156,Joe,Thornton,C,2018-19,39,SJS,NHL,73,16,35,51,8,20,13,3,0,4,23,12,0,90,17.8,149,1135,15:33,356,319,52.7,14,17,43,42,Byng-35,22,22,' placed on IR with lower body injury'
+157,Christopher,Tanev,D,2012-13,23,VAN,NHL,38,2,5,7,4,10,2,0,0,1,5,0,0,20,10.0,58,657,17:17,0,0,,61,14,13,14,,"12, 16",28,"' placed on IR', ' placed on IR with upper body injury'"
+158,Christopher,Tanev,D,2013-14,24,VAN,NHL,64,6,11,17,12,8,5,0,1,2,11,0,0,65,9.2,130,1327,20:44,0,0,,136,25,17,18,,"6, 4",10,"' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+159,Christopher,Tanev,D,2014-15,25,VAN,NHL,70,2,18,20,8,12,2,0,0,1,16,2,0,53,3.8,127,1476,21:05,0,0,,170,23,26,49,Byng-45,30,30,' placed on IR with lower body injury'
+160,Christopher,Tanev,D,2016-17,27,VAN,NHL,53,2,8,10,3,14,2,0,0,1,8,0,0,39,5.1,92,1078,20:21,0,0,,91,19,15,25,,"22, 14",36,"' placed on IR with upper body injury', ' placed on IR with lower body injury'"
+161,Christopher,Tanev,D,2017-18,28,VAN,NHL,42,2,9,11,7,8,2,0,0,0,7,0,2,31,6.5,51,831,19:47,0,0,,70,21,15,15,,"8, 20",28,"' placed on IR with infection in hand', ' placed on IR with lower body injury'"
+162,Christopher,Tanev,D,2018-19,29,VAN,NHL,55,2,10,12,3,18,2,0,0,0,10,0,0,51,3.9,98,1109,20:10,0,0,,122,29,20,32,,"11, 7",18,"' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+163,Carl,Gunnarsson,D,2013-14,27,TOR,NHL,80,3,14,17,12,34,3,0,0,1,13,1,0,48,6.3,101,1553,19:25,0,0,,176,166,29,65,,50,50,' placed on IR with fractured hand'
+164,Carl,Gunnarsson,D,2014-15,28,STL,NHL,61,2,10,12,10,2,2,0,0,0,9,1,0,54,3.7,113,1102,18:04,0,0,,114,42,11,13,Byng-56,6,6,' placed on IR with lower body injury'
+165,Carl,Gunnarsson,D,2016-17,30,STL,NHL,56,0,6,6,-5,4,0,0,0,0,6,0,0,32,0.0,72,761,13:36,0,0,,68,42,2,8,Byng-53,"9, 102",111,"' placed on IR with abdominal injury', ' placed on IR with lower body injury (out for season)'"
+166,Carl,Gunnarsson,D,2018-19,32,STL,NHL,25,3,4,7,8,6,3,0,0,1,3,0,1,21,14.3,48,398,15:56,0,0,,35,11,6,7,,35,35,' placed on IR with lower body injury'
+167,Carl,Gunnarsson,D,2019-20,33,STL,NHL,36,2,5,7,8,16,2,0,0,0,4,0,1,31,6.5,51,568,15:47,0,0,,51,27,3,14,,"25, 18, 22",65,"' placed on IR with fractured finger', ' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+168,Nikita,Soshnikov,RW,2016-17,23,TOR,NHL,56,5,4,9,1,16,5,0,0,0,3,1,0,70,7.1,133,608,10:51,2,15,11.8,28,101,20,15,,37,37,' placed on IR with lower body injury'
+169,Tyson,Jost,C,2016-17,18,COL,NHL,6,1,0,1,-5,0,1,0,0,0,0,0,0,9,11.1,15,94,15:41,28,42,40.0,3,3,3,1,,"1, 14",15,"' placed on IR with knee injury', ' placed on IR with lower body injury'"
+170,Nick,Ritchie,LW,2018-19,23,ANA,NHL,60,9,22,31,6,82,7,2,0,2,15,7,0,96,9.4,177,900,15:00,4,8,33.3,31,123,20,34,,"22, 24",46,"' placed on IR with lower body injury', ' placed on IR with groin injury'"
+171,Nick,Ritchie,LW,2019-20,24,TOT,NHL,48,9,12,21,1,97,7,2,0,2,11,1,0,78,11.5,,680,14:10,1,7,12.5,17,102,11,20,,20,20,' placed on IR with lower body injury'
+172,Derick,Brassard,C,2018-19,31,TOT,NHL,70,14,9,23,-19,39,12,2,0,0,6,3,0,110,12.7,,1050,15:00,283,305,48.1,15,102,35,28,,2,2,' placed on IR with arm injury'
+173,Derick,Brassard,C,2018-19,31,PIT,NHL,40,9,6,15,-6,29,9,0,0,0,4,2,0,62,14.5,101,597,14:56,200,221,47.5,12,69,24,17,,2,2,' placed on IR with arm injury'
+174,Derick,Brassard,C,2018-19,31,FLA,NHL,10,1,3,4,-6,2,1,0,0,0,2,1,0,16,6.3,36,153,15:17,14,17,45.2,0,13,4,4,,2,2,' placed on IR with arm injury'
+175,Derick,Brassard,C,2018-19,31,COL,NHL,20,4,0,4,-7,8,2,2,0,0,0,0,0,32,12.5,53,300,15:00,69,67,50.7,3,20,7,7,,2,2,' placed on IR with arm injury'
+176,Derick,Brassard,C,2019-20,32,NYI,NHL,66,10,22,32,-2,16,7,3,0,1,15,7,0,110,9.1,182,904,13:42,197,160,55.2,24,115,26,40,,30,30,' placed on IR with concussion'
+177,Derick,Brassard,C,2021-22,34,TOT,NHL,46,8,11,19,4,16,7,1,0,1,10,1,0,62,12.9,91,594,12:55,169,161,51.2,6,82,10,10,,"32, 40",72,"' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+178,Thomas,Vanek,LW,2015-16,32,MIN,NHL,74,18,23,41,-10,22,12,6,0,5,15,8,0,146,12.3,248,1155,15:37,12,26,31.6,17,18,22,51,,13,13,' placed on IR with concussion'
+179,Thomas,Vanek,LW,2017-18,34,TOT,NHL,80,24,32,56,-3,36,20,4,0,1,21,11,0,168,14.3,,1127,14:05,6,18,25.0,18,36,28,35,,5,5,' placed on IR with upper body injury'
+180,Stefan,Noesen,RW,2017-18,24,NJD,NHL,72,13,14,27,12,36,13,0,0,4,14,0,0,127,10.2,193,957,13:17,20,35,36.4,41,112,33,15,,248,248,' placed on IR with torn ACL in knee (out for season)'
+181,Stefan,Noesen,RW,2018-19,25,NJD,NHL,41,3,5,8,-19,28,3,0,0,0,5,0,0,64,4.7,102,522,12:44,23,33,41.1,21,95,17,9,,"22, 57",79,"' placed on IR with groin injury', ' placed on IR with left thigh injury (surgery)'"
+182,Patrick,Eaves,RW,2007-08,23,TOT,NHL,37,5,10,15,-2,10,3,2,0,1,8,2,0,81,6.2,,473,12:46,1,2,33.3,12,42,18,11,,34,34,' placed on IR with appendicitis'
+183,Patrick,Eaves,RW,2008-09,24,CAR,NHL,74,6,8,14,7,31,4,1,1,1,8,0,0,115,5.2,185,833,11:15,5,7,41.7,33,134,27,16,,62,62,' placed on IR with fractured right forearm (left arm per CBC)'
+184,Patrick,Eaves,RW,2011-12,27,DET,NHL,10,0,1,1,0,2,0,0,0,0,1,0,0,24,0.0,34,110,11:03,2,3,40.0,7,21,2,1,,5,5,' placed on IR with upper body injury'
+185,Patrick,Eaves,RW,2012-13,28,DET,NHL,34,2,6,8,-1,4,2,0,0,1,5,1,0,42,4.8,75,360,10:35,7,4,63.6,11,40,7,4,,9,9,' placed on IR with foot injury'
+186,Patrick,Eaves,RW,2018-19,34,ANA,NHL,7,0,0,0,-4,4,0,0,0,0,0,0,0,6,0.0,12,97,13:53,0,0,,1,14,1,3,,27,27,' placed on IR with shoulder injury'
+187,Brandon,Dubinsky,C,2016-17,30,CBJ,NHL,80,12,29,41,16,91,10,1,1,5,26,3,0,115,10.4,204,1432,17:54,770,718,51.7,60,248,38,32,Selke-21,"51, 6",57,"' placed on IR with sprained left knee', ' placed on IR with lower body injury'"
+188,Brandon,Dubinsky,C,2017-18,31,CBJ,NHL,62,6,10,16,-2,33,5,0,1,0,8,1,1,89,6.7,151,951,15:21,521,431,54.7,47,145,25,12,,"36, 139",175,"' placed on IR with lower body injury', ' placed on IR with knee injury'"
+189,Brandon,Dubinsky,C,2018-19,32,CBJ,NHL,61,6,8,14,-16,36,6,0,0,0,7,0,1,63,9.5,96,754,12:21,427,321,57.1,28,147,16,7,,"22, 151, 65, 33",271,"' placed on IR with groin injury', ' placed on IR with lower body injury (out for season)', ' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+190,Josh,Manson,D,2016-17,25,ANA,NHL,82,5,12,17,14,82,4,0,1,1,11,0,1,88,5.7,181,1527,18:38,0,0,,79,227,23,57,,11,11,' placed on IR with lower body injury'
+191,Josh,Manson,D,2017-18,26,ANA,NHL,80,7,30,37,34,62,7,0,0,2,29,0,1,117,6.0,223,1628,20:21,0,1,0.0,99,180,48,60,Norris-17,32,32,' placed on IR with concussion'
+192,Josh,Manson,D,2019-20,28,ANA,NHL,50,1,8,9,-10,37,1,0,0,0,7,0,1,64,1.6,138,1032,20:38,0,0,,65,113,21,41,,"33, 145",178,"' placed on IR with upper body injury', ' placed on IR with left leg injury'"
+193,Josh,Manson,D,2022-23,31,COL,NHL,27,2,8,10,13,42,2,0,0,2,8,0,0,41,4.9,71,478,17:41,0,0,,41,64,20,13,,18,18,' placed on IR with lower body injury'
+194,Viktor,Arvidsson,LW,2014-15,21,NSH,NHL,6,0,0,0,0,0,0,0,0,0,0,0,0,9,0.0,18,62,10:15,0,0,,5,3,3,3,,12,12,' placed on IR with upper body injury (date 12-18 per CBC)'
+195,Viktor,Arvidsson,LW,2018-19,25,NSH,NHL,58,34,14,48,12,26,29,3,2,7,12,1,1,195,17.4,336,1110,19:09,2,15,11.8,23,18,41,37,,"74, 13",87,"' placed on IR with neck injury', ' placed on IR with lower body injury'"
+196,Viktor,Arvidsson,LW,2022-23,29,LAK,NHL,77,26,33,59,-4,24,15,10,1,2,18,15,0,228,11.4,418,1316,17:06,27,40,40.3,48,25,19,35,,16,16,' placed on IR with lower body injury'
+197,Viktor,Arvidsson,LW,2023-24,30,LAK,NHL,13,2,7,9,3,10,2,0,0,0,4,3,0,41,4.9,65,211,16:14,3,6,33.3,13,5,8,4,,8,8,' placed on IR with lower body injury'
+198,Adam,McQuaid,D,2010-11,24,BOS,NHL,67,3,12,15,30,96,3,0,0,0,12,0,0,46,6.5,123,996,14:52,0,0,,131,102,5,15,,95,95,' placed on IR with fractured vertebrae in neck (out for season)'
+199,Adam,McQuaid,D,2016-17,30,BOS,NHL,77,2,8,10,4,71,2,0,0,1,7,0,1,64,3.1,136,1405,18:15,0,0,,144,157,10,24,,"15, 36",51,"' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+200,Adam,McQuaid,D,2017-18,31,BOS,NHL,38,1,3,4,-1,62,1,0,0,1,3,0,0,39,2.6,75,597,15:42,0,0,,56,80,7,13,,9,9,' placed on IR with lower body injury'
+201,Adam,McQuaid,D,2018-19,32,TOT,NHL,50,3,4,7,2,42,3,0,0,1,3,0,1,28,10.7,,789,15:47,0,0,,88,122,11,19,,5,5,' placed on IR with lower body injury'
+202,Travis,Boyd,C,2018-19,25,WSH,NHL,53,5,15,20,6,6,5,0,0,1,13,2,0,35,14.3,77,521,9:50,76,134,36.2,21,13,14,15,,36,36,' placed on IR with lower body injury'
+203,Travis,Boyd,C,2020-21,27,TOT,NHL,39,5,5,10,-5,2,4,1,0,0,5,0,0,23,21.7,,418,10:44,75,85,46.9,15,18,8,6,,171,171,' placed on IR with upper body injury / concussion (out for season)'
+204,Travis,Boyd,C,2022-23,29,ARI,NHL,82,15,19,34,-32,26,13,2,0,3,11,8,0,94,16.0,168,1355,16:32,502,654,43.4,59,39,35,34,,"13, 17",30,"' placed on IR with upper body injury', ' placed on IR with lower body injury'"
+205,Paul,Byron,LW,2014-15,25,CGY,NHL,57,6,13,19,-2,8,5,1,0,0,11,0,2,62,9.7,114,825,14:28,34,62,35.4,24,101,46,23,,"33, 118",151,"' placed on IR with shoulder injury', ' placed on IR with shoulder injury (out for season)'"
+206,Paul,Byron,LW,2015-16,26,MTL,NHL,62,11,7,18,-9,11,8,0,3,2,5,0,2,50,22.0,90,853,13:46,3,2,60.0,25,112,23,15,Byng-38,10,10,' placed on IR with upper body injury (CBC)'
+207,Paul,Byron,LW,2016-17,27,MTL,NHL,81,22,21,43,21,29,21,0,1,6,17,4,0,96,22.9,158,1220,15:04,10,5,66.7,34,119,40,22,Selke-40,44,44,' placed on IR with left hand injury'
+208,Paul,Byron,LW,2021-22,32,MTL,NHL,27,4,3,7,-8,2,4,0,0,2,3,0,0,33,12.1,43,340,12:36,33,36,47.8,7,66,9,15,,"34, 28",62,"' placed on IR with fractured foot', ' placed on IR with surgery on wrist'"
+209,Brock,Boeser,RW,2017-18,20,VAN,NHL,62,29,26,55,-5,16,19,10,0,4,13,13,0,179,16.2,341,1085,17:30,10,29,25.6,24,29,26,28,"AR-1,Calder-2",9,9,' placed on IR with upper body injury'
+210,Cristoval,Nieves,C,2018-19,25,NYR,NHL,43,4,6,10,-4,8,4,0,0,1,6,0,0,34,11.8,53,415,9:39,88,139,38.8,18,33,12,20,,69,69,' placed on IR with upper body injury'
+211,Joel,Armia,RW,2016-17,23,WPG,NHL,57,10,9,19,-8,20,6,0,4,1,7,2,0,111,9.0,195,863,15:08,3,4,42.9,30,68,42,19,,"31, 17",48,"' placed on IR with fractured finger', ' placed on IR with upper body injury'"
+212,Joel,Armia,RW,2017-18,24,WPG,NHL,79,12,17,29,3,22,11,0,1,2,12,4,1,128,9.4,220,996,12:36,7,8,46.7,39,86,48,16,,23,23,' placed on IR with sprained knee'
+213,Joel,Armia,RW,2018-19,25,MTL,NHL,57,13,10,23,0,14,10,2,1,2,6,4,0,134,9.7,223,900,15:48,5,24,17.2,21,113,46,32,,"30, 23, 17",70,"' placed on IR with sprained MCL in knee', ' placed on IR with concussion', ' placed on IR with ankle injury'"
+214,Joel,Armia,RW,2019-20,26,MTL,NHL,58,16,14,30,2,28,10,3,3,2,12,1,1,155,10.3,265,999,17:14,4,7,36.4,25,146,47,27,,33,33,' placed on IR with lower body injury'
+215,Brooks,Orpik,D,2012-13,32,PIT,NHL,46,0,8,8,17,32,0,0,0,0,8,0,0,32,0.0,72,1025,22:17,0,0,,114,119,5,19,Norris-18,12,12,' placed on IR'
+216,Brooks,Orpik,D,2017-18,37,WSH,NHL,81,0,10,10,-9,68,0,0,0,0,10,0,0,54,0.0,133,1569,19:22,0,0,,168,218,17,44,,20,20,' placed on IR with concussion'
+217,Alexander,Radulov,RW,2016-17,30,MTL,NHL,76,18,36,54,10,62,12,6,0,2,26,10,0,147,12.2,282,1390,18:17,6,6,50.0,41,76,42,52,,19,19,' placed on IR with concussion'
+218,Alexander,Radulov,RW,2017-18,31,DAL,NHL,82,27,45,72,4,72,20,7,0,4,29,16,0,217,12.4,388,1650,20:08,6,4,60.0,64,77,46,50,,8,8,' placed on IR with bruised ankle'
+219,John,Klingberg,D,2017-18,25,DAL,NHL,82,8,59,67,10,26,7,1,0,3,37,22,0,204,3.9,455,1974,24:04,0,0,,109,44,31,93,"AS-6,Byng-46,Norris-6","28, 66",94,"' placed on IR with fractured jaw', ' placed on IR with concussion'"
+220,John,Klingberg,D,2018-19,26,DAL,NHL,64,10,35,45,6,12,5,5,0,5,20,15,0,153,6.5,345,1570,24:32,0,0,,77,42,26,79,"AS-19,Byng-21",65,65,' placed on IR with concussion'
+221,Jesper,Bratt,W,2018-19,20,NJD,NHL,51,8,25,33,-8,6,7,1,0,1,18,7,0,91,8.8,140,774,15:10,4,3,57.1,22,36,17,24,,"44, 22",66,"' placed on IR with concussion', ' placed on IR with upper body injury'"
+222,David,Schlemko,D,2014-15,27,TOT,NHL,44,1,3,4,1,12,1,0,0,0,1,2,0,45,2.2,,675,15:20,0,0,,85,45,6,19,,55,55,' placed on IR with lower body injury'
+223,David,Schlemko,D,2015-16,28,NJD,NHL,67,6,13,19,-22,16,5,1,0,3,2,11,0,104,5.8,182,1249,18:39,0,0,,88,47,16,29,,"4, 53",57,"' placed on IR with lower body injury (CBC)', ' placed on IR with facial fractures (CBC)'"
+224,Brian,Boyle,C,2018-19,34,TOT,NHL,73,18,6,24,-14,38,10,7,1,4,3,2,1,123,14.6,,981,13:26,170,163,51.1,50,145,22,17,,33,33,' placed on IR with lower body injury'
+225,Dmitry,Kulikov,D,2009-10,19,FLA,NHL,68,3,13,16,-5,32,2,1,0,0,4,9,0,87,3.4,182,1220,17:56,0,0,,90,79,10,24,,12,12,' placed on IR with groin injury'
+226,Dmitry,Kulikov,D,2012-13,22,FLA,NHL,34,3,7,10,-5,22,1,2,0,2,3,4,0,52,5.8,112,713,20:59,0,0,,49,84,9,23,,106,106,' placed on IR with upper body injury (out for season)'
+227,Dmitry,Kulikov,D,2015-16,25,FLA,NHL,74,1,16,17,8,51,1,0,0,1,10,6,0,99,1.0,189,1557,21:02,0,0,,121,122,31,54,,27,27,' placed on IR with lower body injury'
+228,Dmitry,Kulikov,D,2016-17,26,BUF,NHL,47,2,3,5,-26,26,1,1,0,0,1,2,0,42,4.8,114,1029,21:54,0,0,,72,60,18,32,,11,11,' placed on IR with lower body injury'
+229,Dmitry,Kulikov,D,2018-19,28,WPG,NHL,57,0,6,6,4,47,0,0,0,0,6,0,0,40,0.0,96,893,15:40,0,0,,71,88,19,37,,"23, 21",44,"' placed on IR with upper body injury', ' placed on IR with shoulder injury'"
+230,Dmitry,Kulikov,D,2019-20,29,WPG,NHL,51,2,8,10,-4,32,2,0,0,1,8,0,0,54,3.7,141,1021,20:01,0,0,,77,104,16,55,,"14, 18",32,"' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+231,Dmitry,Kulikov,D,2020-21,30,TOT,NHL,48,0,4,4,-3,28,0,0,0,0,4,0,0,51,0.0,,920,19:10,0,0,,49,93,8,31,,109,109,' placed on IR with torn ACL in left knee (out for season)'
+232,Dmitry,Kulikov,D,2021-22,31,MIN,NHL,80,7,17,24,23,39,7,0,0,2,17,0,0,74,9.5,168,1456,18:12,0,0,,103,100,16,31,,35,35,' placed on IR recovering from torn ACL in left knee'
+233,Cam,Fowler,D,2010-11,19,ANA,NHL,76,10,30,40,-25,20,4,6,0,3,13,17,0,123,8.1,255,1682,22:08,0,0,,93,45,23,41,Calder-8,36,36,' placed on IR with lacerated left leg'
+234,Cam,Fowler,D,2011-12,20,ANA,NHL,82,5,24,29,-28,18,3,2,0,0,15,9,0,123,4.1,266,1907,23:16,1,0,100.0,93,43,23,40,,6,6,' placed on IR with fractured nose'
+235,Cam,Fowler,D,2018-19,27,ANA,NHL,59,5,18,23,-14,20,4,1,0,2,12,5,1,88,5.7,207,1379,23:22,0,0,,91,32,24,43,,"40, 13",53,"' placed on IR with hip injury', ' placed on IR with upper body injury'"
+236,Cam,Fowler,D,2019-20,28,ANA,NHL,59,9,20,29,0,20,7,2,0,2,14,6,0,117,7.7,203,1297,21:59,0,0,,58,25,21,31,,295,295,' placed on IR with lower body injury (out for season)'
+237,Pavel,Buchnevich,LW,2016-17,21,NYR,NHL,41,8,12,20,6,13,7,1,0,0,10,2,0,55,14.5,110,544,13:16,1,6,14.3,8,17,11,22,,8,8,' placed on IR with fractured thumb'
+238,Pavel,Buchnevich,LW,2018-19,23,NYR,NHL,64,21,17,38,-10,13,14,7,0,1,12,5,0,119,17.6,212,971,15:10,7,18,28.0,20,60,29,43,,"7, 19",26,"' placed on IR with upper body injury', ' placed on IR with ankle injury'"
+239,Ondrej,Kase,RW,2017-18,22,ANA,NHL,66,20,18,38,18,14,19,1,0,5,16,2,0,146,13.7,239,919,13:55,5,21,19.2,26,28,29,31,,"9, 7",16,"' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+240,Ondrej,Kase,RW,2018-19,23,ANA,NHL,30,11,9,20,0,2,10,1,0,2,6,3,0,94,11.7,164,470,15:39,9,18,33.3,11,17,15,18,,20,20,' placed on IR with facial fracture'
+241,Ondrej,Kase,RW,2020-21,25,BOS,NHL,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0.0,9,26,8:30,0,0,,1,1,1,1,,"35, 8",43,"' placed on IR with upper body injury', ' placed on IR with sprained MCL in right knee'"
+242,Brandon,Davidson,D,2014-15,23,EDM,NHL,12,1,0,1,-5,0,1,0,0,0,0,0,0,7,14.3,20,182,15:08,0,0,,22,18,0,4,,31,31,' placed on IR with bruised hand'
+243,Marcus,Kruger,C,2013-14,23,CHI,NHL,81,8,20,28,6,36,8,0,0,2,19,0,1,96,8.3,154,1124,13:52,438,335,56.7,70,22,27,18,,39,39,' placed on IR with upper body injury'
+244,Marcus,Kruger,C,2014-15,24,CHI,NHL,81,7,10,17,-5,32,7,0,0,1,10,0,0,126,5.6,191,1060,13:05,357,313,53.3,50,29,30,9,,23,23,' placed on IR with upper body injury'
+245,Marcus,Kruger,C,2016-17,26,CHI,NHL,70,5,12,17,7,34,5,0,0,0,12,0,0,83,6.0,125,981,14:01,357,370,49.1,62,31,24,10,Selke-34,37,37,' placed on IR with right knee injury'
+246,Marcus,Kruger,C,2018-19,28,CHI,NHL,74,4,8,12,-2,30,4,0,0,2,7,0,1,74,5.4,98,771,10:25,188,203,48.1,34,51,17,11,,"32, 26",58,"' placed on IR with shoulder injury', ' placed on IR with concussion'"
+247,Jakob,Chychrun,D,2021-22,23,ARI,NHL,47,7,14,21,-20,47,6,1,0,2,14,0,0,141,5.0,293,1081,23:00,0,0,,66,51,19,37,,68,68,' placed on IR with upper body injury'
+248,Ondrej,Palat,LW,2013-14,22,TBL,NHL,81,23,36,59,32,20,18,3,2,3,26,8,2,165,13.9,287,1461,18:02,5,32,13.5,64,146,47,38,"AR-1,Calder-2,Selke-11",5,5,' placed on IR with lower body injury'
+249,Ondrej,Palat,LW,2014-15,23,TBL,NHL,75,16,47,63,31,24,12,3,1,5,38,8,1,139,11.5,269,1307,17:26,10,25,28.6,50,125,44,44,Selke-9,12,12,' placed on IR with upper body injury'
+250,Ondrej,Palat,LW,2016-17,25,TBL,NHL,75,17,35,52,8,39,12,5,0,3,25,10,0,162,10.5,277,1434,19:07,9,25,26.5,66,141,60,46,,14,14,' placed on IR with lower body injury'
+251,Micheal,Haley,C,2015-16,29,SJS,NHL,16,1,0,1,-2,48,1,0,0,0,0,0,0,10,10.0,15,114,7:06,11,8,57.9,4,39,0,9,,"22, 159",181,"' placed on IR with upper body injury', ' placed on IR with upper body injury (out for season)'"
+252,Micheal,Haley,C,2018-19,32,TOT,NHL,43,2,4,6,-2,75,2,0,0,0,4,0,0,34,5.9,,348,8:05,13,17,43.3,16,76,3,15,,27,27,' placed on IR with lower body injury'
+253,Erik,Haula,LW,2016-17,25,MIN,NHL,72,15,11,26,5,28,14,1,0,4,11,0,0,134,11.2,210,995,13:49,404,346,53.9,38,39,24,18,,66,66,' placed on IR with groin injury'
+254,Erik,Haula,LW,2018-19,27,VEG,NHL,15,2,5,7,1,10,2,0,0,0,4,1,0,26,7.7,64,249,16:35,78,74,51.3,6,11,12,6,,72,72,' placed on IR with viral illness (out for season)'
+255,Erik,Haula,LW,2019-20,28,TOT,NHL,48,12,12,24,1,22,8,4,0,2,8,4,0,92,13.0,,760,15:50,381,323,54.1,15,27,21,29,,5,5,' placed on IR with upper body injury'
+256,Brayden,Schenn,C,2018-19,27,STL,NHL,72,17,37,54,3,40,13,4,0,5,29,8,0,159,10.7,263,1338,18:35,323,357,47.5,31,111,51,42,,28,28,' placed on IR with lower body injury'
+257,Brayden,Schenn,C,2019-20,28,STL,NHL,71,25,33,58,3,44,15,10,0,4,22,11,0,138,18.1,224,1311,18:28,350,364,49.0,21,119,26,39,,4,4,' placed on IR with upper body injury'
+258,Brayden,Schenn,C,2021-22,30,STL,NHL,62,24,34,58,21,33,17,7,0,3,24,10,0,111,21.6,197,1103,17:47,284,295,49.1,17,119,42,28,,"31, 80",111,"' placed on IR with fractured right hand (surgery)', ' placed on IR with upper body injury (out for season)'"
+259,Brandon,Carlo,D,2022-23,26,BOS,NHL,75,3,13,16,44,38,3,0,0,0,11,0,2,94,3.2,174,1412,18:50,0,0,,116,128,28,21,,9,9,' placed on IR with lower body injury'
+260,Alex,Goligoski,D,2011-12,26,DAL,NHL,71,9,21,30,0,16,7,2,0,1,13,7,1,140,6.4,338,1617,22:46,0,0,,93,49,19,46,,28,28,' placed on IR with concussion'
+261,Alex,Goligoski,D,2014-15,29,DAL,NHL,81,4,32,36,0,24,4,0,0,0,22,8,2,122,3.3,282,1929,23:49,0,0,,157,100,30,83,,42,42,' placed on IR with fractured finger'
+262,Alex,Goligoski,D,2017-18,32,ARI,NHL,78,12,23,35,-31,26,9,3,0,3,15,8,0,119,10.1,279,1816,23:17,0,0,,154,114,16,66,,4,4,' placed on IR with upper body injury'
+263,Marc,Methot,D,2017-18,32,DAL,NHL,36,1,2,3,11,31,1,0,0,0,2,0,0,25,4.0,61,644,17:53,0,0,,52,77,1,11,,"15, 23",38,"' placed on IR with shoulder injury', ' placed on IR with concussion'"
+264,Marc,Methot,D,2018-19,33,DAL,NHL,9,0,0,0,-3,6,0,0,0,0,0,0,0,3,0.0,6,152,16:56,0,0,,10,15,0,2,,5,5,' placed on IR with lower body injury'
+265,Jaden,Schwartz,C,2016-17,24,STL,NHL,78,19,36,55,14,18,16,3,0,4,30,6,0,179,10.6,303,1475,18:54,67,73,47.9,43,71,59,29,,10,10,' placed on IR with upper body injury'
+266,Jaden,Schwartz,C,2017-18,25,STL,NHL,62,24,35,59,15,26,17,6,1,3,30,5,0,157,15.3,269,1202,19:24,30,43,41.1,30,52,45,17,,"7, 14, 14",35,"' placed on IR with upper body injury', ' placed on IR with dislocated thumb', ' placed on IR with shoulder injury'"
+267,Jaden,Schwartz,C,2018-19,26,STL,NHL,69,11,25,36,-6,16,9,2,0,1,22,3,0,183,6.0,321,1251,18:08,18,19,48.6,27,61,47,28,,"16, 19",35,"' placed on IR with facial fracture', ' placed on IR with back spasms'"
+268,Jaden,Schwartz,C,2019-20,27,STL,NHL,71,22,35,57,3,18,13,9,0,4,24,11,0,162,13.6,286,1291,18:11,9,11,45.0,28,60,50,29,,8,8,' placed on IR with upper body injury'
+269,Jaden,Schwartz,C,2020-21,28,STL,NHL,40,8,13,21,2,20,7,1,0,1,11,2,0,70,11.4,123,708,17:42,7,6,53.8,26,40,18,15,,7,7,' placed on IR with lower body injury'
+270,Patrick,Maroon,LW,2019-20,31,TBL,NHL,64,9,14,23,4,71,8,1,0,1,12,2,0,80,11.3,124,794,12:25,6,3,66.7,13,104,14,17,,27,27,' placed on IR recovering from surgery on back (out for season)'
+271,Patrick,Maroon,LW,2021-22,33,TBL,NHL,81,11,16,27,20,134,8,3,0,0,13,3,0,102,10.8,156,1004,12:24,15,15,50.0,11,160,16,17,,19,19,' placed on IR with lower body injury'
+272,Michael,Bournival,LW,2017-18,25,TBL,NHL,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0.0,7,47,9:21,0,0,,5,8,1,0,,9,9,' placed on IR with heart arrhythmia'
+273,Jason,Demers,D,2010-11,22,SJS,NHL,75,2,22,24,19,28,2,0,0,0,16,6,0,105,1.9,245,1462,19:30,0,0,,72,87,30,49,,33,33,' placed on IR with sprained left ankle'
+274,Jason,Demers,D,2015-16,27,DAL,NHL,62,7,16,23,16,72,3,3,1,1,14,2,0,94,7.4,231,1294,20:52,0,0,,73,86,28,41,,37,37,' placed on IR with shoulder injury'
+275,Jason,Demers,D,2018-19,30,ARI,NHL,35,2,6,8,9,12,2,0,0,2,5,1,0,39,5.1,81,700,20:00,0,0,,43,50,14,18,,"38, 15, 6",59,"' placed on IR with concussion', ' placed on IR with lower body injury', ' placed on IR with upper body injury'"
+276,Jason,Demers,D,2019-20,31,ARI,NHL,50,0,11,11,5,25,0,0,0,0,10,0,1,53,0.0,106,1025,20:30,0,0,,70,76,15,32,,"3, 21",24,"' placed on IR with lower body injury', ' placed on IR with leg injury'"
+277,Sami,Vatanen,D,2014-15,23,ANA,NHL,67,12,25,37,5,36,4,7,1,1,15,10,0,122,9.8,242,1438,21:28,1,1,50.0,123,75,27,48,,110,110,' placed on IR with foot injury (out for season)'
+278,Sami,Vatanen,D,2015-16,24,ANA,NHL,71,9,29,38,8,20,5,4,0,2,14,15,0,140,6.4,298,1513,21:19,0,0,,105,85,34,54,Byng-46,4,4,' placed on IR with upper body injury'
+279,Sami,Vatanen,D,2017-18,26,TOT,NHL,72,4,28,32,-7,40,3,1,0,0,15,12,1,145,2.8,,1613,22:24,0,0,,105,92,18,52,,25,25,' placed on IR with shoulder injury'
+280,Sami,Vatanen,D,2018-19,27,NJD,NHL,50,4,13,17,-17,22,1,3,0,0,11,2,0,107,3.7,204,1086,21:44,0,0,,77,68,16,36,,14,14,' placed on IR with upper body injury'
+281,Sami,Vatanen,D,2020-21,29,TOT,NHL,39,2,4,6,3,20,2,0,0,0,4,0,0,55,3.6,,664,17:01,0,0,,49,27,8,21,,7,7,' placed on IR with upper body injury'
+282,Darren,Helm,C,2015-16,29,DET,NHL,77,13,13,26,-2,32,13,0,0,3,13,0,0,165,7.9,291,1160,15:04,39,38,50.6,26,115,22,16,,"3, 5",8,"' placed on IR with upper body injury', ' placed on IR with lower body injury'"
+283,Darren,Helm,C,2016-17,30,DET,NHL,50,8,9,17,-6,20,6,2,0,1,6,2,1,98,8.2,166,768,15:22,216,204,51.4,18,71,17,20,,"21, 11",32,"' placed on IR with upper body injury', ' placed on IR with mid-body injury'"
+284,Darren,Helm,C,2018-19,32,DET,NHL,61,7,10,17,-11,20,6,0,1,0,7,0,3,107,6.5,191,889,14:35,16,20,44.4,26,50,33,30,,"30, 55, 53, 10",148,"' placed on IR with shoulder injury', ' placed on IR with foot injury', ' placed on IR with concussion', ' placed on IR with upper body injury'"
+285,Darren,Helm,C,2019-20,33,DET,NHL,68,9,7,16,-6,37,8,0,1,0,6,0,1,102,8.8,154,934,13:44,15,13,53.6,26,88,24,30,,54,54,' placed on IR with fractured finger'
+286,Darren,Helm,C,2021-22,35,COL,NHL,68,7,8,15,-5,14,6,0,1,1,7,0,1,93,7.5,146,717,10:33,103,130,44.2,27,114,25,7,,8,8,' placed on IR with lower body injury'
+287,Darren,Helm,C,2022-23,36,COL,NHL,11,0,0,0,-1,4,0,0,0,0,0,0,0,10,0.0,15,99,9:00,31,43,41.9,3,16,1,1,,17,17,' placed on IR with sprained knee'
+288,Hampus,Lindholm,D,2018-19,25,ANA,NHL,76,6,22,28,-5,44,5,1,0,0,16,5,1,125,4.8,269,1824,24:00,0,0,,133,81,23,85,,7,7,' placed on IR with fractured finger'
+289,Hampus,Lindholm,D,2021-22,28,TOT,NHL,71,5,22,27,10,46,4,1,0,1,17,4,1,142,3.5,275,1598,22:30,0,0,,92,70,35,47,,"9, 33, 46, 30",118,"' placed on IR with facial injury', ' placed on IR with upper body injury', ' placed on IR with lower body injury', ' placed on IR with hand injury'"
+290,Hampus,Lindholm,D,2022-23,29,BOS,NHL,80,10,43,53,49,56,9,1,0,2,27,16,0,158,6.3,300,1855,23:11,0,0,,100,78,31,65,"AS-2,Norris-4",127,127,' placed on IR with undisclosed (out for season)'
+291,Hampus,Lindholm,D,2023-24,30,BOS,NHL,69,3,23,26,19,63,2,1,0,0,19,4,0,96,3.1,215,1609,23:19,0,0,,96,48,24,43,,36,36,' placed on IR with lower body injury'
+292,Vincent,Trocheck,C,2015-16,22,FLA,NHL,76,25,28,53,15,44,20,4,1,4,19,9,0,174,14.4,299,1351,17:46,547,559,49.5,41,125,43,33,,"66, 123",189,"' placed on IR with hernia', ' placed on IR with fractured jaw (out for season)'"
+293,Matt,Cullen,C,2017-18,41,MIN,NHL,79,11,11,22,-1,20,11,0,0,1,10,1,0,104,10.6,168,939,11:54,355,350,50.4,42,14,14,17,,49,49,' placed on IR with upper body injury'
+294,Matt,Cullen,C,2018-19,42,PIT,NHL,71,7,13,20,6,14,5,0,2,2,11,0,2,87,8.0,128,817,11:31,320,320,50.0,31,32,24,19,Byng-45,"65, 121, 16, 9",211,"' placed on IR with shoulder injury', ' placed on IR with sports hernia (out for season)', ' placed on IR with upper body injury', ' placed on IR with fractured toe'"
+295,Zdeno,Chara,D,2006-07,29,BOS,NHL,80,11,32,43,-21,100,2,9,0,3,14,17,1,204,5.4,,2204,27:33,,,,,,,,"AS-23,Norris-20",9,9,' placed on IR with finger injury'
+296,Zdeno,Chara,D,2018-19,41,BOS,NHL,62,5,9,14,22,57,4,1,0,2,7,2,0,99,5.1,199,1307,21:05,0,0,,88,81,28,44,Norris-16,29,29,' placed on IR with left ankle injury'
+297,Zdeno,Chara,D,2019-20,42,BOS,NHL,68,5,9,14,26,60,5,0,0,2,9,0,0,86,5.8,155,1429,21:01,0,0,,101,78,26,52,"AS-23,Norris-19","7, 6",13,"' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+298,Noah,Juulsen,D,2022-23,25,VAN,NHL,12,0,0,0,1,6,0,0,0,0,0,0,0,5,0.0,18,180,14:58,0,0,,16,43,3,2,,28,28,' placed on IR with lower body injury'
+299,Devin,Shore,C,2016-17,22,DAL,NHL,82,13,20,33,-4,14,12,1,0,0,15,5,0,115,11.3,213,1159,14:08,221,249,47.0,71,44,26,25,,25,25,' placed on IR with concussion'
+300,Devin,Shore,C,2017-18,23,DAL,NHL,82,11,21,32,-30,14,8,2,1,1,11,9,1,123,8.9,221,1265,15:26,88,102,46.3,57,71,31,19,,134,134,' placed on IR with MCL injury in right knee (out for season)'
+301,Devin,Shore,C,2018-19,24,TOT,NHL,76,10,19,29,-12,13,6,2,2,4,16,3,0,82,12.2,,1084,14:16,86,123,41.1,64,94,29,22,,"23, 4",27,"' placed on IR with swelling in right knee', ' placed on IR with upper body injury'"
+302,Patrice,Bergeron,C,2011-12,26,BOS,NHL,81,22,42,64,36,20,15,5,2,3,32,9,1,191,11.5,355,1505,18:35,973,668,59.3,67,73,55,25,"AS-7,Byng-13,Hart-18,Selke-1",18,18,' placed on IR with left shoulder injury'
+303,Patrice,Bergeron,C,2014-15,29,BOS,NHL,81,23,32,55,2,44,18,4,1,4,21,10,1,234,9.8,428,1469,18:08,1175,764,60.6,60,57,48,29,"AS-8,Byng-64,Selke-1",16,16,' placed on IR with upper body injury'
+304,Patrice,Bergeron,C,2015-16,30,BOS,NHL,80,32,36,68,12,49,19,12,1,6,21,13,2,282,11.3,455,1587,19:50,1130,848,57.1,56,77,67,34,"AS-9,Byng-23,Selke-2",4,4,' placed on IR with lower body injury'
+305,Patrice,Bergeron,C,2016-17,31,BOS,NHL,79,21,32,53,12,24,13,8,0,7,20,9,3,302,7.0,480,1534,19:25,1086,722,60.1,47,54,65,23,"AS-8,Byng-34,Selke-1",5,5,' placed on IR with lower body injury'
+306,Patrice,Bergeron,C,2018-19,33,BOS,NHL,65,32,47,79,23,30,19,9,4,3,26,18,3,205,15.6,369,1200,18:28,786,603,56.6,60,43,42,27,"AS-5,Byng-29,Hart-15,Selke-3",162,162,' placed on IR with lower body injury (out for season)'
+307,Patrice,Bergeron,C,2021-22,36,BOS,NHL,73,25,40,65,26,32,17,8,0,4,22,15,3,293,8.5,427,1326,18:10,991,609,61.9,45,78,37,21,"AS-7,Byng-30,Selke-1",35,35,' placed on IR with upper body injury'
+308,Patrik,Berglund,C,2011-12,23,STL,NHL,82,19,19,38,4,30,17,0,2,3,15,4,0,188,10.1,374,1473,17:58,567,601,48.5,36,97,39,24,,4,4,' placed on IR with head laceration'
+309,Patrik,Berglund,C,2013-14,25,STL,NHL,78,14,18,32,10,38,12,2,0,2,16,2,0,144,9.7,245,1261,16:10,373,410,47.6,30,88,42,12,,18,18,' placed on IR with left knee injury'
+310,Patrik,Berglund,C,2016-17,28,STL,NHL,82,23,11,34,-7,32,19,4,0,5,7,4,0,153,15.0,275,1311,15:59,584,585,50.0,42,155,43,23,,43,43,' placed on IR with lower body injury'
+311,Victor,Rask,C,2014-15,21,CAR,NHL,80,11,22,33,-14,16,9,2,0,2,13,9,0,172,6.4,296,1307,16:20,468,450,51.0,36,42,46,34,,"14, 39",53,"' placed on IR with sprained MCL in knee', ' placed on IR with lower body injury'"
+312,Victor,Rask,C,2016-17,23,CAR,NHL,82,16,29,45,-10,16,12,4,0,3,22,6,1,186,8.6,310,1418,17:18,457,461,49.8,33,43,41,46,,6,6,' placed on IR with mumps'
+313,Victor,Rask,C,2017-18,24,CAR,NHL,71,14,17,31,0,12,10,4,0,3,10,7,0,126,11.1,231,1092,15:23,393,323,54.9,29,62,48,39,,15,15,' placed on IR with upper body injury'
+314,Michael,Frolik,LW,2016-17,28,CGY,NHL,82,17,27,44,13,58,12,3,2,1,21,5,1,202,8.4,352,1401,17:05,13,16,44.8,48,60,45,38,,16,16,' placed on IR with left knee injury'
+315,Michael,Frolik,LW,2017-18,29,CGY,NHL,70,10,15,25,-19,26,8,0,2,1,15,0,0,167,6.0,281,1185,16:55,33,39,45.8,35,48,43,26,,17,17,' placed on IR with strained groin'
+316,Michael,Stone,D,2017-18,27,CGY,NHL,82,3,7,10,-11,28,3,0,0,0,6,1,0,98,3.1,250,1373,16:45,0,0,,158,106,15,31,,31,31,' placed on IR with leg injury'
+317,Michael,Stone,D,2018-19,28,CGY,NHL,14,0,5,5,0,10,0,0,0,0,5,0,0,12,0.0,49,223,15:56,0,0,,16,27,6,6,,6,6,' placed on IR with hip injury'
+318,Michael,Stone,D,2022-23,32,CGY,NHL,48,6,5,11,2,35,6,0,0,1,3,2,0,92,6.5,208,639,13:19,0,0,,59,54,6,15,,37,37,' placed on IR with lower body injury'
+319,Tobias,Rieder,C,2014-15,22,ARI,NHL,72,13,8,21,-19,14,10,0,3,1,6,2,0,189,6.9,318,1217,16:54,1,4,20.0,37,123,40,11,,28,28,' placed on IR with upper body injury'
+320,Tobias,Rieder,C,2018-19,26,EDM,NHL,67,0,11,11,-8,8,0,0,0,0,9,2,0,92,0.0,161,847,12:39,5,20,20.0,44,69,35,12,,27,27,' placed on IR with ankle injury'
+321,Nick,Lappin,RW,2018-19,26,NJD,NHL,11,0,0,0,-6,0,0,0,0,0,0,0,0,11,0.0,23,151,13:41,5,1,83.3,3,16,3,2,,10,10,' placed on IR with back injury'
+322,Josh,Brown,D,2018-19,25,FLA,NHL,37,1,1,2,-3,28,1,0,0,0,1,0,0,28,3.6,65,492,13:18,0,0,,31,80,12,17,,"30, 39",69,"' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+323,Josh,Brown,D,2019-20,26,FLA,NHL,56,3,5,8,1,39,3,0,0,1,5,0,0,48,6.3,97,751,13:25,0,0,,53,77,10,24,,251,251,' placed on IR with fractured kneecap (out for season)'
+324,Brett,Pesce,D,2018-19,24,CAR,NHL,73,7,22,29,35,24,7,0,0,2,20,0,2,98,7.1,195,1496,20:29,1,0,100.0,131,53,54,30,"AS-15,Norris-18",8,8,' placed on IR with head injury'
+325,Brett,Pesce,D,2019-20,25,CAR,NHL,61,4,14,18,7,27,4,0,0,0,12,0,2,104,3.8,222,1335,21:53,0,0,,91,22,42,39,AS-24,3,3,' placed on IR with neck injury'
+326,Brett,Pesce,D,2020-21,26,CAR,NHL,55,4,21,25,14,20,3,1,0,0,17,4,0,89,4.5,231,1254,22:48,0,0,,82,17,21,26,"AS-16,Norris-16",31,31,' placed on IR with knee injury'
+327,Brett,Pesce,D,2022-23,28,CAR,NHL,82,5,25,30,11,43,4,1,0,2,20,3,2,144,3.5,346,1805,22:01,0,0,,110,37,60,26,,64,64,' placed on IR with lower body injury'
+328,Carl,Hagelin,LW,2017-18,29,PIT,NHL,81,10,21,31,8,28,9,0,1,2,20,0,1,169,5.9,256,1291,15:57,21,28,42.9,36,112,46,25,,2,2,' placed on IR with upper body injury'
+329,Carl,Hagelin,LW,2018-19,30,TOT,NHL,58,5,14,19,7,30,5,0,0,2,14,0,0,99,5.1,,854,14:44,6,21,22.2,20,64,30,19,,"8, 160",168,"' placed on IR with upper body injury', ' placed on IR with upper body injury (out for season)'"
+330,Carl,Hagelin,LW,2019-20,31,WSH,NHL,58,8,17,25,12,16,7,0,1,2,15,0,2,107,7.5,154,831,14:19,13,15,46.4,19,24,24,24,,50,50,' placed on IR with sprained MCL in left knee'
+331,Carl,Hagelin,LW,2020-21,32,WSH,NHL,56,6,10,16,7,19,5,0,1,0,10,0,0,85,7.1,129,790,14:06,3,10,23.1,19,22,21,16,,15,15,' placed on IR with lower body injury'
+332,Kyle,Turris,C,2010-11,21,PHX,NHL,65,11,14,25,0,16,11,0,0,1,13,1,0,116,9.5,186,733,11:16,270,270,50.0,15,30,14,19,,41,41,' placed on IR with broken hand'
+333,Kyle,Turris,C,2018-19,29,NSH,NHL,55,7,16,23,-6,33,3,4,0,1,14,2,0,78,9.0,146,863,15:42,281,272,50.8,15,24,19,26,,16,16,' placed on IR with lower body injury'
+334,Kyle,Turris,C,2021-22,32,EDM,NHL,23,1,3,4,-5,4,1,0,0,0,3,0,0,21,4.8,43,198,8:37,28,22,56.0,6,13,9,5,,"4, 4, 16",24,"' placed on IR with hip injury', ' placed on IR with upper body injury', ' placed on IR with lower body injury'"
+335,Trevor,Lewis,C,2011-12,25,LAK,NHL,72,3,4,7,-3,26,3,0,0,1,4,0,0,103,2.9,183,953,13:14,87,111,43.9,25,114,25,20,,12,12,' placed on IR with right leg injury'
+336,Trevor,Lewis,C,2014-15,28,LAK,NHL,73,9,16,25,8,14,8,0,1,2,16,0,0,143,6.3,219,1030,14:06,66,98,40.2,17,189,16,7,,23,23,' placed on IR with lower body injury'
+337,Trevor,Lewis,C,2016-17,30,LAK,NHL,82,12,12,24,-6,30,11,1,0,3,11,1,0,145,8.3,248,1170,14:16,44,66,40.0,30,174,18,12,Selke-29,13,13,' placed on IR with hip injury'
+338,Trevor,Lewis,C,2017-18,31,LAK,NHL,68,14,12,26,-6,25,11,1,2,3,10,2,0,134,10.4,230,1036,15:14,47,62,43.1,32,125,19,14,,36,36,' placed on IR with lower body injury'
+339,Trevor,Lewis,C,2018-19,32,LAK,NHL,44,3,9,12,-9,9,3,0,0,1,9,0,0,87,3.4,134,617,14:01,57,67,46.0,25,53,12,12,,20,20,' placed on IR with lower body injury'
+340,Trevor,Lewis,C,2021-22,35,CGY,NHL,80,6,10,16,-1,12,5,0,1,1,9,1,0,108,5.6,180,1027,12:50,77,105,42.3,40,176,11,9,,"29, 4",33,"' placed on IR with hip injury', ' placed on IR with hip injury'"
+341,Mark,Borowiecki,D,2018-19,29,OTT,NHL,53,1,4,5,-12,89,1,0,0,0,4,0,0,59,1.7,147,825,15:34,0,0,,93,212,14,26,,"8, 50, 10, 49",117,"' placed on IR with upper body injury', ' placed on IR with lower body injury', ' placed on IR with lower body injury', ' placed on IR with left shoulder injury'"
+342,Mark,Borowiecki,D,2021-22,32,NSH,NHL,57,0,4,4,-9,151,0,0,0,0,4,0,0,45,0.0,91,747,13:07,0,0,,79,196,7,14,,43,43,' placed on IR with sprained MCL in knee'
+343,Shea,Weber,D,2011-12,26,NSH,NHL,78,19,30,49,21,46,7,10,2,1,18,12,0,230,8.3,434,2041,26:10,0,0,,140,177,51,46,"AS-1,Hart-13,Norris-2",194,194,' placed on IR with broken jaw (out for season)'
+344,Shea,Weber,D,2013-14,28,NSH,NHL,79,23,33,56,-2,52,11,12,0,4,19,14,0,195,11.8,401,2125,26:54,0,0,,173,169,35,50,"AS-2,Hart-21,Norris-3",26,26,' placed on IR with sprained MCL in knee'
+345,Shea,Weber,D,2014-15,29,NSH,NHL,78,15,30,45,15,72,9,5,1,2,20,10,0,237,6.3,476,2057,26:22,0,0,,147,166,23,53,"AS-2,Hart-18,Norris-4","55, 16",71,"' placed on IR with fractured ankle', ' placed on IR with concussion'"
+346,Shea,Weber,D,2015-16,30,NSH,NHL,78,20,31,51,-7,27,6,14,0,1,18,12,1,189,10.6,380,1979,25:23,0,0,,160,169,19,39,"AS-10,Byng-29,Messier-1,Norris-10",29,29,' placed on IR with lower body injury'
+347,Shea,Weber,D,2018-19,33,MTL,NHL,58,14,19,33,15,28,9,5,0,3,18,1,0,166,8.4,339,1362,23:29,0,0,,110,129,17,67,,7,7,' placed on IR with lower body injury'
+348,Andrew,Copp,C,2017-18,23,WPG,NHL,82,9,19,28,17,14,7,0,2,0,18,0,1,96,9.4,186,1126,13:44,296,275,51.8,51,99,29,30,,"8, 230",238,"' placed on IR with lower body injury', ' placed on IR with nervous system disorder (out for season)'"
+349,Andrew,Copp,C,2018-19,24,WPG,NHL,69,11,14,25,20,6,10,0,1,2,14,0,0,82,13.4,139,839,12:10,198,160,55.3,34,71,22,27,,30,30,' placed on IR with shoulder injury'
+350,Andrew,Copp,C,2021-22,27,TOT,NHL,72,21,32,53,15,16,16,3,2,5,24,7,1,183,11.5,283,1381,19:11,377,332,53.2,41,45,34,43,Selke-24,"20, 91",111,"' placed on IR with heel injury', ' placed on IR with heel injury'"
+351,Haydn,Fleury,D,2018-19,22,CAR,NHL,20,0,1,1,4,2,0,0,0,0,1,0,0,17,0.0,40,251,12:32,0,0,,21,25,3,6,,81,81,' placed on IR with back spasms'
+352,Haydn,Fleury,D,2022-23,26,TBL,NHL,29,0,1,1,-10,14,0,0,0,0,1,0,0,33,0.0,70,371,12:48,0,0,,30,30,3,6,,27,27,' placed on IR with lower body injury'
+353,Cody,McLeod,LW,2018-19,34,TOT,NHL,38,1,0,1,-13,67,1,0,0,0,0,0,0,22,4.5,,246,6:29,0,1,0.0,10,112,5,1,,"95, 10",105,"' placed on IR with wrist injury', ' placed on IR with upper body injury'"
+354,Alex,Pietrangelo,D,2013-14,24,STL,NHL,81,8,43,51,20,32,6,2,0,1,26,16,1,164,4.9,421,2054,25:22,0,0,,164,24,37,34,"AS-2,Norris-5",6,6,' placed on IR with groin injury'
+355,Alex,Pietrangelo,D,2017-18,28,STL,NHL,78,15,39,54,8,22,12,3,0,5,28,10,1,216,6.9,417,2007,25:44,0,0,,164,48,54,41,"AS-10,Byng-17,Norris-9","14, 64, 5",83,"' placed on IR with hand injury', ' placed on IR with lower body injury', ' placed on IR with upper body injury'"
+356,Alex,Pietrangelo,D,2018-19,29,STL,NHL,71,13,28,41,2,22,10,3,0,2,15,12,1,168,7.7,357,1709,24:05,0,1,0.0,139,62,55,50,AS-19,113,113,' placed on IR with Achilles injury'
+357,Ilya,Kovalchuk,LW,2010-11,27,NJD,NHL,81,31,29,60,-26,28,22,9,0,9,17,12,0,245,12.7,461,1828,22:34,9,22,29.0,12,28,43,104,,13,13,' placed on IR with fractured left leg'
+358,Ilya,Kovalchuk,LW,2018-19,35,LAK,NHL,64,16,18,34,-26,10,12,4,0,1,13,5,0,141,11.3,252,1039,16:14,16,20,44.4,19,28,21,43,,25,25,' placed on IR with knee injury'
+359,Conor,Sheary,LW,2016-17,24,PIT,NHL,61,23,30,53,24,22,21,2,0,6,27,3,0,154,14.9,244,972,15:56,0,0,,23,29,26,25,,44,44,' placed on IR with knee injury'
+360,Conor,Sheary,LW,2017-18,25,PIT,NHL,79,18,12,30,2,10,16,2,0,4,11,1,0,142,12.7,244,1102,13:57,4,7,36.4,31,29,36,37,,"35, 54",89,"' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+361,Marco,Scandella,D,2015-16,25,MIN,NHL,73,5,16,21,6,22,3,2,0,0,14,1,1,126,4.0,297,1511,20:42,0,0,,105,66,23,39,,7,7,' placed on IR with upper body injury'
+362,Marco,Scandella,D,2017-18,27,BUF,NHL,82,5,17,22,-15,37,5,0,0,1,12,4,1,138,3.6,306,1912,23:19,0,0,,114,91,24,41,,48,48,' placed on IR with fractured orbital bone'
+363,Marco,Scandella,D,2018-19,28,BUF,NHL,63,6,7,13,-13,26,6,0,0,1,6,0,1,83,7.2,156,1109,17:37,0,0,,75,53,16,41,,"26, 9, 4",39,"' placed on IR with strained oblique muscle', ' placed on IR with lower body injury', ' placed on IR with hip injury'"
+364,Marco,Scandella,D,2019-20,29,TOT,NHL,62,4,9,13,14,20,4,0,0,0,9,0,0,77,5.2,,1090,17:35,0,0,,60,78,18,49,,332,332,' placed on IR with wrist injury (out for season)'
+365,Marco,Scandella,D,2021-22,31,STL,NHL,70,3,11,14,17,18,3,0,0,0,9,0,2,76,3.9,142,1270,18:08,0,0,,70,106,18,38,,12,12,' placed on IR with lower body injury'
+366,Marco,Scandella,D,2022-23,32,STL,NHL,20,1,1,2,2,6,1,0,0,0,1,0,0,17,5.9,41,357,17:50,0,0,,26,27,7,10,,8,8,' placed on IR with upper body injury'
+367,Dustin,Byfuglien,D,2015-16,30,WPG,NHL,81,19,34,53,4,119,15,3,1,6,19,14,1,247,7.7,498,2041,25:12,0,0,,105,222,73,92,"AS-12,Norris-12",12,12,' placed on IR with upper body injury'
+368,Dustin,Byfuglien,D,2018-19,33,WPG,NHL,42,4,27,31,4,69,3,1,0,1,12,15,0,115,3.5,228,1023,24:22,0,0,,51,77,21,39,,13,13,' placed on IR with concussion'
+369,Filip,Forsberg,C,2015-16,21,NSH,NHL,82,33,31,64,1,47,24,8,1,3,16,15,0,247,13.4,490,1562,19:03,2,7,22.2,41,114,72,52,"AS-6,Byng-56,Selke-10",47,47,' placed on IR with shoulder injury'
+370,Filip,Forsberg,C,2018-19,24,NSH,NHL,64,28,22,50,8,26,19,7,2,4,19,3,0,217,12.9,435,1191,18:37,1,6,14.3,29,100,69,67,,21,21,' placed on IR with upper body injury'
+371,Filip,Forsberg,C,2019-20,25,NSH,NHL,63,21,27,48,-7,29,14,7,0,2,20,7,0,198,10.6,366,1093,17:21,1,2,33.3,27,82,58,45,,47,47,' placed on IR with lower body injury'
+372,Filip,Forsberg,C,2020-21,26,NSH,NHL,39,12,20,32,-9,16,9,3,0,3,10,10,0,129,9.3,213,713,18:17,3,5,37.5,14,47,22,21,,"43, 10",53,"' placed on IR with oblique injury', ' placed on IR with lower body injury'"
+373,Michael,Grabner,RW,2009-10,22,VAN,NHL,20,5,6,11,2,8,3,2,0,1,3,3,0,63,7.9,99,278,13:54,1,1,50.0,1,9,13,3,,36,36,' placed on IR with broken right wrist'
+374,Michael,Grabner,RW,2011-12,24,NYI,NHL,78,20,12,32,-18,12,18,1,1,3,11,1,0,174,11.5,275,1212,15:33,3,2,60.0,30,16,94,45,,80,80,' placed on IR with concussion'
+375,Michael,Grabner,RW,2012-13,25,NYI,NHL,45,16,5,21,4,12,13,2,1,3,4,1,0,108,14.8,167,666,14:48,10,12,45.5,19,16,30,19,,12,12,' placed on IR with upper body injury'
+376,Michael,Grabner,RW,2017-18,30,TOT,NHL,80,27,9,36,11,16,25,0,2,3,7,1,1,167,16.2,,1185,14:49,10,12,45.5,37,68,46,33,,4,4,' placed on IR with lower body injury'
+377,Anthony,Mantha,RW,2015-16,21,DET,NHL,10,2,1,3,-6,2,0,2,0,1,1,0,0,18,11.1,29,117,11:42,0,0,,3,4,4,2,,37,37,' placed on IR with upper body injury'
+378,Anthony,Mantha,RW,2017-18,23,DET,NHL,80,24,24,48,-1,52,15,9,0,2,21,3,0,190,12.6,331,1384,17:18,17,35,32.7,36,91,36,67,,16,16,' placed on IR with fractured hand'
+379,Anthony,Mantha,RW,2018-19,24,DET,NHL,67,25,23,48,-8,30,18,7,0,1,17,6,0,198,12.6,335,1194,17:50,22,28,44.0,23,67,37,60,,"5, 45",50,"' placed on IR with lower body injury', ' placed on IR with fractured thumb'"
+380,Anthony,Mantha,RW,2019-20,25,DET,NHL,43,16,22,38,-7,34,10,6,0,3,19,3,0,137,11.7,236,812,18:54,16,22,42.1,25,49,22,30,,26,26,' placed on IR with lower body injury'
+381,Jake,McCabe,D,2018-19,25,BUF,NHL,59,4,10,14,-4,35,3,0,1,0,10,0,0,64,6.3,137,1118,18:57,0,1,0.0,99,103,20,32,,11,11,' placed on IR with shoulder injury'
+382,Jake,McCabe,D,2019-20,26,BUF,NHL,66,3,10,13,-11,41,2,0,1,1,10,0,0,75,4.0,147,1223,18:32,0,0,,90,91,19,21,,37,37,' placed on IR with sprained left ankle'
+383,Jake,McCabe,D,2021-22,28,CHI,NHL,75,4,18,22,-27,33,4,0,0,0,18,0,0,80,5.0,181,1523,20:18,0,0,,167,166,18,60,,14,14,' placed on IR with lower body injury'
+384,Jake,McCabe,D,2023-24,30,TOR,NHL,69,7,18,25,17,52,6,1,0,2,16,1,1,68,10.3,173,1429,20:43,0,0,,124,210,15,48,,"126, 27",153,"' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+385,Drake,Caggiula,LW,2016-17,22,EDM,NHL,60,7,11,18,3,16,5,2,0,2,7,3,1,93,7.5,172,794,13:14,117,167,41.2,19,97,22,25,,2,2,' placed on IR with concussion'
+386,Bobby,Ryan,LW,2016-17,29,OTT,NHL,62,13,12,25,-3,24,11,2,0,0,9,3,0,111,11.7,228,963,15:32,6,3,66.7,36,109,27,27,,14,14,' placed on IR with upper body injury'
+387,Bobby,Ryan,LW,2017-18,30,OTT,NHL,62,11,22,33,-12,14,10,1,0,1,19,3,0,112,9.8,236,1019,16:27,12,10,54.5,52,97,24,37,,89,89,' placed on IR with fractured fibula in right leg'
+388,Bobby,Ryan,LW,2018-19,31,OTT,NHL,78,15,27,42,-29,35,8,7,0,1,18,9,0,160,9.4,301,1223,15:41,8,18,30.8,49,77,50,48,,41,41,' placed on IR with lower body injury'
+389,Micheal,Ferland,LW,2015-16,23,CGY,NHL,71,4,14,18,-15,45,3,1,0,0,13,1,0,122,3.3,189,896,12:37,7,5,58.3,22,207,37,25,,"15, 7",22,"' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+390,Micheal,Ferland,LW,2018-19,26,CAR,NHL,71,17,23,40,13,58,11,6,0,3,16,7,0,156,10.9,251,1001,14:06,23,50,31.5,19,182,36,48,,34,34,' placed on IR with lower body injury'
+391,Casey,Nelson,D,2016-17,24,BUF,NHL,11,0,0,0,-3,4,0,0,0,0,0,0,0,10,0.0,19,139,12:36,0,0,,5,15,0,1,,41,41,' placed on IR with fractured hand'
+392,Matt,Duchene,C,2015-16,25,COL,NHL,76,30,29,59,-8,24,22,8,0,6,22,7,0,200,15.0,325,1413,18:35,428,311,57.9,37,41,43,31,,23,23,' placed on IR with lower body injury'
+393,Matt,Duchene,C,2016-17,26,COL,NHL,77,18,23,41,-34,12,14,3,1,3,17,6,0,160,11.3,275,1409,18:18,687,411,62.6,41,42,60,46,Byng-60,18,18,' placed on IR with lower body injury'
+394,Matt,Duchene,C,2018-19,28,TOT,NHL,73,31,39,70,-3,8,25,6,0,1,31,8,0,172,18.0,,1375,18:50,676,546,55.3,40,28,50,68,Byng-6,"24, 5",29,"' placed on IR with lower body injury', ' placed on IR with upper body injury'"
+395,Martin,Hanzal,C,2016-17,29,TOT,NHL,71,20,19,39,-17,53,15,5,0,2,15,4,0,169,11.8,,1258,17:43,767,593,56.4,58,145,31,30,,14,14,' placed on IR with lower body injury'
+396,Martin,Hanzal,C,2016-17,29,ARI,NHL,51,16,10,26,-15,43,12,4,0,2,6,4,0,126,12.7,205,948,18:35,596,468,56.0,45,105,23,27,,14,14,' placed on IR with lower body injury'
+397,Martin,Hanzal,C,2016-17,29,MIN,NHL,20,4,9,13,-2,10,3,1,0,0,9,0,0,43,9.3,67,310,15:31,171,125,57.8,13,40,8,3,,14,14,' placed on IR with lower body injury'
+398,Martin,Hanzal,C,2017-18,30,DAL,NHL,38,5,5,10,-14,23,3,2,0,1,4,1,0,62,8.1,115,536,14:07,239,195,55.1,21,66,10,10,,4,4,' placed on IR with lower body injury'
+399,Martin,Hanzal,C,2018-19,31,DAL,NHL,7,1,1,2,-4,4,0,1,0,0,1,0,0,14,7.1,19,90,12:52,45,31,59.2,4,14,2,3,,10,10,' placed on IR with forearm injury'
+400,Vinnie,Hinostroza,C,2018-19,24,ARI,NHL,72,16,23,39,-4,14,13,3,0,3,21,2,0,152,10.5,264,1099,15:16,39,64,37.9,41,69,28,34,,37,37,' placed on IR with concussion'
+401,Mikael,Backlund,C,2014-15,25,CGY,NHL,52,10,17,27,4,14,8,0,2,2,16,1,0,103,9.7,193,923,17:45,432,456,48.6,33,41,58,42,,44,44,' placed on IR with leg injury (date 12-08 per CBC)'
+402,Mikael,Backlund,C,2015-16,26,CGY,NHL,82,21,26,47,10,28,15,3,3,4,19,6,1,155,13.5,274,1347,16:26,539,604,47.2,51,68,57,44,,80,80,' placed on IR with lower body injury (out for season)'
+403,Mikael,Backlund,C,2016-17,27,CGY,NHL,81,22,31,53,9,36,15,7,0,7,19,9,3,197,11.2,338,1426,17:36,711,768,48.1,41,55,57,49,Selke-4,44,44,' placed on IR with lower body injury'
+404,Mikael,Backlund,C,2018-19,29,CGY,NHL,77,21,26,47,34,52,19,1,1,4,24,1,1,205,10.2,340,1378,17:54,511,520,49.6,26,52,78,55,Selke-8,55,55,' placed on IR with knee injury'
+405,Mikael,Backlund,C,2019-20,30,CGY,NHL,70,16,29,45,3,26,10,3,3,3,22,7,0,157,10.2,285,1256,17:57,368,410,47.3,11,44,64,55,Selke-26,19,19,' placed on IR with hand injury'
+406,Artem,Anisimov,C,2010-11,22,NYR,NHL,82,18,26,44,3,20,15,3,0,2,21,5,0,190,9.5,335,1329,16:12,306,382,44.5,45,74,46,16,,31,31,' placed on IR with broken finger'
+407,Artem,Anisimov,C,2011-12,23,NYR,NHL,79,16,20,36,12,34,11,4,1,1,20,0,0,132,12.1,254,1217,15:24,161,184,46.7,46,75,37,14,,17,17,' placed on IR with shoulder injury'
+408,Artem,Anisimov,C,2013-14,25,CBJ,NHL,81,22,17,39,-2,20,17,3,2,5,14,3,0,162,13.6,309,1344,16:36,474,485,49.4,54,31,51,18,,29,29,' placed on IR with lower body injury'
+409,Artem,Anisimov,C,2020-21,32,OTT,NHL,19,2,7,9,1,2,1,1,0,0,7,0,0,30,6.7,56,228,12:02,36,52,40.9,9,9,4,7,,43,43,' placed on IR with fractured left thumb'
+410,Alec,Martinez,D,2010-11,23,LAK,NHL,60,5,11,16,11,18,4,1,0,0,7,4,0,74,6.8,190,917,15:17,0,0,,73,69,4,22,,9,9,' placed on IR with upper body injury'
+411,Alec,Martinez,D,2018-19,31,LAK,NHL,60,4,14,18,-2,8,4,0,0,2,12,2,0,78,5.1,170,1282,21:22,0,0,,135,78,12,70,,"3, 40",43,"' placed on IR with lower body injury', ' placed on IR with surgery on hand'"
+412,Alec,Martinez,D,2019-20,32,TOT,NHL,51,3,13,16,-4,23,3,0,0,0,9,4,0,75,4.0,,1097,21:30,0,0,,117,43,14,32,,6,6,' placed on IR with upper body injury'
+413,Alec,Martinez,D,2020-21,33,VEG,NHL,53,9,23,32,26,12,6,3,0,2,17,6,0,85,10.6,183,1196,22:34,0,0,,168,44,12,26,Byng-52,"31, 109, 40",180,"' placed on IR with lower body injury', ' placed on IR with core muscle injury (out for season)', ' placed on IR with concussion'"
+414,Alec,Martinez,D,2021-22,34,VEG,NHL,26,3,5,8,6,4,3,0,0,0,5,0,0,32,9.4,69,508,19:32,0,0,,68,26,8,19,,31,31,' placed on IR with lower body injury'
+415,Dylan,DeMelo,D,2016-17,23,SJS,NHL,25,1,7,8,2,14,1,0,0,0,7,0,0,32,3.1,70,397,15:54,0,0,,32,36,4,12,,141,141,' placed on IR with fractured fibula in leg'
+416,Dylan,DeMelo,D,2017-18,24,SJS,NHL,63,0,20,20,-1,34,0,0,0,0,17,3,0,67,0.0,140,895,14:12,0,0,,70,75,13,16,,9,9,' placed on IR with upper body injury'
+417,Dylan,DeMelo,D,2019-20,26,TOT,NHL,59,0,10,10,4,37,0,0,0,0,8,0,2,74,0.0,,1188,20:09,0,0,,77,105,9,42,,"9, 7",16,"' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+418,Dylan,DeMelo,D,2023-24,30,WPG,NHL,77,2,27,29,41,36,2,0,0,0,26,1,0,80,2.5,186,1673,21:44,0,0,,124,148,14,58,,203,203,' placed on IR with hip injury (out for season)'
+419,Gabriel,Vilardi,C,2019-20,20,LAK,NHL,10,3,4,7,0,4,2,1,0,0,3,1,0,19,15.8,29,129,12:51,49,43,53.3,4,1,1,0,,6,6,' placed on IR with upper body injury'
+420,Vladislav,Kamenev,LW,2019-20,23,COL,NHL,38,1,7,8,-2,8,1,0,0,1,5,2,0,32,3.1,64,341,8:59,57,50,53.3,16,34,18,7,,16,16,' placed on IR with lower body injury'
+421,Kevin,Shattenkirk,D,2011-12,23,STL,NHL,81,9,34,43,20,60,4,5,0,2,20,13,1,178,5.1,341,1750,21:36,1,3,25.0,103,72,40,42,"AS-17,Norris-18",64,64,' placed on IR with lower body injury'
+422,Kevin,Shattenkirk,D,2012-13,24,STL,NHL,48,5,18,23,2,20,3,2,0,0,11,7,0,84,6.0,189,1022,21:18,0,0,,59,55,22,22,,35,35,' placed on IR with shoulder injury'
+423,Kevin,Shattenkirk,D,2020-21,32,ANA,NHL,55,2,13,15,-8,28,1,1,0,0,9,4,0,93,2.2,187,1166,21:12,0,0,,58,57,14,27,,30,30,' placed on IR with upper body injury'
+424,Rickard,Rakell,RW,2016-17,23,ANA,NHL,71,33,18,51,10,12,28,5,0,10,11,7,0,177,18.6,329,1234,17:23,62,85,42.2,32,81,23,37,Byng-20,4,4,' placed on IR with upper body injury'
+425,Rickard,Rakell,RW,2017-18,24,ANA,NHL,77,34,35,69,6,14,26,8,0,3,25,10,0,230,14.8,406,1495,19:25,105,121,46.5,30,115,32,53,Byng-16,"11, 40",51,"' placed on IR with hand injury', ' placed on IR with hand injury'"
+426,Rickard,Rakell,RW,2020-21,27,ANA,NHL,52,9,19,28,-14,12,9,0,0,1,15,4,0,144,6.3,265,927,17:50,5,10,33.3,16,65,21,23,,51,51,' placed on IR with lower body injury'
+427,Rickard,Rakell,RW,2021-22,28,TOT,NHL,70,20,21,41,0,12,15,5,0,2,16,5,0,184,10.9,342,1259,17:59,36,43,45.6,44,99,28,34,,10,10,' placed on IR with lower body injury'
+428,Jordan,Staal,C,2016-17,28,CAR,NHL,75,16,29,45,-1,38,11,4,1,3,25,4,0,164,9.8,273,1400,18:40,688,477,59.1,29,139,55,42,Selke-9,5,5,' placed on IR with lower body injury'
+429,Jordan,Staal,C,2017-18,29,CAR,NHL,79,19,27,46,-4,26,13,4,2,2,19,8,0,160,11.9,276,1521,19:15,757,581,56.6,32,181,58,44,Selke-25,25,25,' placed on IR with fractured wrist'
+430,Jordan,Staal,C,2018-19,30,CAR,NHL,50,11,17,28,6,26,11,0,0,1,15,2,0,121,9.1,197,914,18:17,571,452,55.8,18,122,40,24,Selke-22,"43, 13, 21",77,"' placed on IR with knee injury', ' placed on IR with upper body injury', ' placed on IR with shoulder injury'"
+431,Jordan,Staal,C,2019-20,31,CAR,NHL,68,8,19,27,3,40,6,2,0,0,18,1,0,125,6.4,202,1190,17:30,699,585,54.4,36,149,30,41,Selke-14,17,17,' placed on IR with hip flexor'
+432,Jordan,Staal,C,2020-21,32,CAR,NHL,53,16,22,38,2,30,9,7,0,4,14,7,1,103,15.5,168,980,18:29,628,455,58.0,24,135,15,21,Selke-8,9,9,' placed on IR with upper body injury'
+433,Oscar,Klefbom,D,2017-18,24,EDM,NHL,66,5,16,21,-12,18,3,1,1,1,11,5,0,203,2.5,399,1508,22:51,0,0,,136,49,27,43,,29,29,' placed on IR with leukemia'
+434,Oscar,Klefbom,D,2018-19,25,EDM,NHL,61,5,23,28,-11,16,4,1,0,2,13,10,0,167,3.0,331,1463,23:59,0,0,,102,44,26,51,,12,12,' placed on IR with upper body injury'
+435,Patric,Hornqvist,RW,2011-12,25,NSH,NHL,76,27,16,43,9,28,19,8,0,3,14,2,0,230,11.7,338,1165,15:20,6,3,66.7,28,62,28,12,,53,53,' placed on IR with surgery on knee'
+436,Patric,Hornqvist,RW,2012-13,26,NSH,NHL,24,4,10,14,-1,14,0,4,0,1,7,3,0,87,4.6,129,389,16:14,1,1,50.0,9,29,7,6,,20,20,' placed on IR with wrist injury'
+437,Patric,Hornqvist,RW,2015-16,29,PIT,NHL,82,22,29,51,15,36,13,9,0,3,23,6,0,257,8.6,392,1382,16:51,5,3,62.5,54,160,28,8,,7,7,' placed on IR with leg injury'
+438,Patric,Hornqvist,RW,2016-17,30,PIT,NHL,70,21,23,44,16,28,11,10,0,6,16,7,0,223,9.4,326,1117,15:57,3,8,27.3,62,227,30,11,,"4, 19",23,"' placed on IR with back injury', ' placed on IR with lower body injury'"
+439,Patric,Hornqvist,RW,2018-19,32,PIT,NHL,69,18,19,37,-3,26,12,6,0,2,13,6,0,197,9.1,302,1068,15:29,9,9,50.0,34,150,25,18,,"26, 18, 8",52,"' placed on IR with upper body injury', ' placed on IR with fibula injury', ' placed on IR'"
+440,Patric,Hornqvist,RW,2019-20,33,PIT,NHL,52,17,15,32,9,36,14,3,0,2,11,4,0,168,10.1,234,828,15:56,2,4,33.3,41,107,12,8,,"36, 8, 8, 3",55,"' placed on IR with upper body injury', ' placed on IR with foot injury', ' placed on IR with infection', ' placed on IR with allergies'"
+441,Kris,Russell,D,2011-12,24,TOT,NHL,55,6,6,12,12,25,6,0,0,1,5,1,0,56,10.7,,936,17:01,0,0,,78,61,16,13,,13,13,' placed on IR with surgery on left hip'
+442,Kris,Russell,D,2012-13,25,STL,NHL,33,1,6,7,6,9,0,1,0,0,5,1,0,41,2.4,78,530,16:03,0,0,,57,26,10,8,,21,21,' placed on IR with upper body injury'
+443,Kris,Russell,D,2015-16,28,TOT,NHL,62,4,15,19,-5,10,2,2,0,1,13,2,0,70,5.7,,1431,23:05,0,1,0.0,210,40,23,47,Byng-28,36,36,' placed on IR with sprained knee'
+444,Kris,Russell,D,2017-18,30,EDM,NHL,78,4,17,21,-7,8,4,0,0,0,15,2,0,90,4.4,193,1487,19:04,0,0,,223,97,20,72,Byng-40,30,30,' placed on IR with lower body injury'
+445,Christian,Djoos,D,2018-19,24,WSH,NHL,45,1,9,10,9,4,1,0,0,0,9,0,0,33,3.0,75,611,13:34,0,0,,28,18,10,22,,55,55,' placed on IR with facial fracture'
+446,Paul,Stastny,C,2013-14,28,COL,NHL,71,25,35,60,9,22,21,4,0,4,23,11,1,150,16.7,240,1306,18:24,655,555,54.1,46,54,35,20,Selke-16,21,21,' placed on IR with upper body injury'
+447,Paul,Stastny,C,2016-17,31,STL,NHL,66,18,22,40,4,36,13,5,0,5,14,8,0,112,16.1,172,1263,19:08,786,624,55.7,35,51,24,9,,"5, 47",52,"' placed on IR with back spasms', ' placed on IR with back spasms'"
+448,Paul,Stastny,C,2017-18,32,TOT,NHL,82,16,37,53,1,18,13,3,0,3,30,6,1,159,10.1,,1501,18:18,832,683,54.9,38,43,43,19,,"7, 85",92,"' placed on IR with concussion', ' placed on IR with surgery on hip'"
+449,Paul,Stastny,C,2018-19,33,VEG,NHL,50,13,29,42,14,30,11,1,1,2,25,3,1,103,12.6,161,905,18:06,463,384,54.7,15,35,36,18,,"32, 8, 19",59,"' placed on IR with fractured thumb', ' placed on IR with hip injury', ' placed on IR with lower body injury'"
+450,Matt,Hunwick,D,2016-17,31,TOR,NHL,72,1,18,19,8,18,1,0,0,0,18,0,0,73,1.4,174,1294,17:59,0,0,,90,91,26,44,,67,67,' placed on IR with lower body injury'
+451,Matt,Hunwick,D,2017-18,32,PIT,NHL,42,4,6,10,-4,21,3,0,1,1,6,0,0,52,7.7,105,735,17:31,0,0,,53,51,14,20,,"10, 23",33,"' placed on IR with head injury', ' placed on IR with concussion'"
+452,Andrew,Mangiapane,LW,2018-19,22,CGY,NHL,44,8,5,13,11,12,8,0,0,1,5,0,0,65,12.3,97,464,10:33,6,3,66.7,17,43,16,11,,6,6,' placed on IR with concussion'
+453,Mathieu,Joseph,RW,2018-19,21,TBL,NHL,70,13,13,26,5,26,13,0,0,1,11,0,2,95,13.7,162,795,11:22,10,24,29.4,14,129,28,24,,"41, 144, 15",200,"' placed on IR with concussion', ' placed on IR with upper body injury (out for season)', ' placed on IR with concussion'"
+454,Lawrence,Pilut,D,2018-19,23,BUF,NHL,33,1,5,6,-8,20,1,0,0,0,5,0,0,37,2.7,71,575,17:25,0,0,,33,20,7,14,,7,7,' placed on IR with upper body injury'
+455,Max,Pacioretty,LW,2011-12,23,MTL,NHL,79,33,32,65,2,56,29,4,0,5,23,9,0,286,11.5,468,1443,18:16,1,4,20.0,39,104,33,36,Masterton-1,12,12,' placed on IR with upper body injury'
+456,Max,Pacioretty,LW,2012-13,24,MTL,NHL,44,15,24,39,8,28,11,4,0,0,16,8,0,163,9.2,277,726,16:31,2,5,28.6,16,59,24,12,,8,8,' placed on IR with lacerated right thigh'
+457,Max,Pacioretty,LW,2019-20,31,VEG,NHL,71,32,34,66,18,44,24,8,0,5,23,11,0,307,10.4,549,1272,17:55,51,45,53.1,35,90,32,55,"AS-6,Byng-42",23,23,' placed on IR with upper body injury'
+458,Max,Pacioretty,LW,2020-21,32,VEG,NHL,48,24,27,51,20,14,18,6,0,6,21,6,0,174,13.8,285,861,17:56,20,23,46.5,29,33,15,17,"AS-11,Byng-52",112,112,' placed on IR with upper body injury'
+459,Max,Pacioretty,LW,2021-22,33,VEG,NHL,39,19,18,37,8,33,15,4,0,4,10,8,0,148,12.8,262,678,17:23,2,7,22.2,21,30,15,23,,"3, 3, 33",39,"' placed on IR with upper body injury', ' placed on IR with upper body injury', ' placed on IR with concussion'"
+460,Max,Pacioretty,LW,2022-23,34,CAR,NHL,5,3,0,3,0,2,2,1,0,0,0,0,0,16,18.8,34,68,13:39,0,0,,1,4,1,2,,217,217,' placed on IR with concussion (out for season)'
+461,Thomas,Hickey,D,2013-14,24,NYI,NHL,82,4,18,22,5,34,4,0,0,0,16,1,1,96,4.2,226,1547,18:52,0,0,,132,72,34,57,,21,21,' placed on IR with left ankle injury'
+462,Thomas,Hickey,D,2015-16,26,NYI,NHL,62,6,12,18,9,30,6,0,0,2,11,0,0,55,10.9,151,1079,17:24,0,0,,90,65,18,41,,"4, 7",11,"' placed on IR with rib injury', ' placed on IR with upper body injury'"
+463,Colton,Sissons,C,2016-17,23,NSH,NHL,58,8,2,10,11,12,7,0,1,1,2,0,0,42,19.0,73,645,11:07,192,192,50.0,24,104,12,11,,61,61,' placed on IR with lower / upper body injury'
+464,Colin,Wilson,C,2017-18,28,COL,NHL,56,6,12,18,-5,6,5,1,0,1,7,5,0,75,8.0,109,735,13:08,60,55,52.2,23,38,11,13,,"60, 136",196,"' placed on IR with knee injury', ' placed on IR with dislocated left shoulder'"
+465,Colin,Wilson,C,2018-19,29,COL,NHL,65,12,15,27,-6,8,7,5,0,2,13,2,0,104,11.5,171,882,13:34,20,32,38.5,31,55,16,10,,"3, 9, 42, 5, 4",63,"' placed on IR with leg injury', ' placed on IR with concussion', ' placed on IR with knee injury', ' placed on IR with upper body injury', ' placed on IR with concussion'"
+466,Dion,Phaneuf,D,2018-19,33,LAK,NHL,67,1,5,6,-21,53,1,0,0,0,5,0,0,80,1.3,197,1005,15:00,0,0,,79,128,6,30,,"7, 9",16,"' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+467,Zach,Hyman,LW,2018-19,26,TOR,NHL,71,21,20,41,16,65,20,0,1,4,20,0,0,144,14.6,241,1227,17:17,112,126,47.1,39,102,30,28,,6,6,' placed on IR with arm injury'
+468,Zach,Hyman,LW,2019-20,27,TOR,NHL,51,21,16,37,13,23,17,3,1,1,13,3,0,106,19.8,189,974,19:06,70,90,43.8,23,52,32,16,,142,142,' placed on IR with hip injury'
+469,Zach,Hyman,LW,2021-22,29,EDM,NHL,76,27,27,54,-9,36,21,5,1,4,19,5,3,213,12.7,353,1479,19:28,41,44,48.2,31,74,29,33,,"35, 167",202,"' placed on IR with upper body injury', ' placed on IR with surgery on right hip'"
+470,Justin,Falk,D,2009-10,21,MIN,NHL,3,0,0,0,-2,0,0,0,0,0,0,0,0,1,0.0,2,23,7:33,0,0,,4,4,0,1,,19,19,' placed on IR with lower body injury'
+471,Justin,Falk,D,2014-15,26,TOT,NHL,18,1,1,2,-9,14,1,0,0,0,1,0,0,18,5.6,,195,10:49,0,0,,19,12,1,7,,8,8,' placed on IR with upper body injury'
+472,Justin,Falk,D,2015-16,27,CBJ,NHL,24,0,4,4,2,17,0,0,0,0,4,0,0,16,0.0,44,341,14:14,0,0,,38,37,3,9,,"24, 13",37,"' placed on IR with lower body injury', ' placed on IR with lower body injury'"
+473,Tyler,Ennis,C,2016-17,27,BUF,NHL,51,5,8,13,-10,12,5,0,0,1,5,3,0,89,5.6,145,655,12:50,3,13,18.8,23,45,19,17,,"7, 7",14,"' placed on IR with upper body injury', ' placed on IR with facial injury'"
+474,Tyler,Ennis,C,2017-18,28,MIN,NHL,73,8,14,22,-1,12,6,2,0,3,13,1,0,115,7.0,202,874,11:58,3,9,25.0,33,51,30,11,,49,49,' placed on IR with lower body injury'
+475,Tyler,Ennis,C,2018-19,29,TOR,NHL,51,12,6,18,-6,2,10,2,0,1,3,3,0,81,14.8,123,507,9:56,1,0,100.0,14,49,19,21,Byng-49,"16, 13",29,"' placed on IR with lower body injury', ' placed on IR with wrist injury'"
+476,Yannick,Weber,D,2016-17,28,NSH,NHL,73,1,7,8,1,25,1,0,0,1,7,0,0,72,1.4,152,870,11:55,0,0,,53,72,9,27,,3,3,' placed on IR with lower body injury'
+477,Yannick,Weber,D,2017-18,29,NSH,NHL,47,2,3,5,2,16,2,0,0,0,3,0,0,40,5.0,82,567,12:03,0,0,,35,47,4,13,,13,13,' placed on IR with lower body injury'
+478,Yannick,Weber,D,2018-19,30,NSH,NHL,62,2,6,8,7,18,2,0,0,0,6,0,0,67,3.0,122,739,11:55,0,0,,32,64,7,13,,"210, 3",213,"' placed on IR recovering from surgery on knee (out for season)', ' placed on IR with concussion'"
+479,Yannick,Weber,D,2019-20,31,NSH,NHL,41,1,2,3,-1,14,1,0,0,1,2,0,0,45,2.2,94,574,14:01,0,0,,38,37,11,11,,201,201,' placed on IR with bilateral core surgery (out for season)'
+480,Jason,Dickinson,C,2016-17,21,DAL,NHL,10,2,0,2,-3,0,2,0,0,0,0,0,0,9,22.2,19,118,11:47,4,9,30.8,4,8,3,0,,173,173,' placed on IR with torn ACL in left knee (out for season)'
+481,Jason,Dickinson,C,2018-19,23,DAL,NHL,67,6,16,22,9,23,6,0,0,2,16,0,0,94,6.4,153,896,13:22,201,268,42.9,50,106,30,26,,16,16,' placed on IR with upper body injury'
+482,Jason,Dickinson,C,2020-21,25,DAL,NHL,51,7,8,15,-2,18,7,0,0,2,7,1,0,66,10.6,126,826,16:12,137,159,46.3,49,78,28,17,,"21, 31",52,"' placed on IR with upper body injury', ' placed on IR with oblique injury'"
+483,Jordan,Eberle,RW,2010-11,20,EDM,NHL,69,18,25,43,-12,22,12,4,2,5,18,7,0,158,11.4,286,1220,17:41,11,15,42.3,17,32,56,41,Calder-15,196,196,' placed on IR with concussion (out for season)'
+484,Jordan,Eberle,RW,2011-12,21,EDM,NHL,78,34,42,76,4,10,24,10,0,4,32,10,0,180,18.9,314,1373,17:36,12,15,44.4,24,45,40,47,"AS-20,AS-7,Byng-2",23,23,' placed on IR with broken thumb'
+485,Jordan,Eberle,RW,2018-19,28,NYI,NHL,78,19,18,37,-6,17,12,7,0,5,13,5,0,160,11.9,255,1289,16:32,9,11,45.0,35,36,34,40,,6,6,' placed on IR with lower body injury'
+486,Jordan,Eberle,RW,2020-21,30,NYI,NHL,55,16,17,33,9,16,15,1,0,2,13,4,0,128,12.5,203,922,16:45,3,4,42.9,18,30,15,15,,15,15,' placed on IR with lower body injury'
+487,Zemgus,Girgensons,C,2013-14,20,BUF,NHL,70,8,14,22,-6,14,7,0,1,1,13,0,1,115,7.0,191,1072,15:19,100,140,41.7,43,161,25,15,,2,2,' placed on IR with strained neck'
+488,Zemgus,Girgensons,C,2017-18,24,BUF,NHL,71,7,8,15,-12,26,5,0,2,0,8,0,0,113,6.2,168,973,13:43,23,40,36.5,32,134,18,12,,8,8,' placed on IR with upper body injury'
+489,Zemgus,Girgensons,C,2018-19,25,BUF,NHL,72,5,13,18,-11,17,5,0,0,0,13,0,0,78,6.4,132,980,13:37,28,41,40.6,29,144,21,11,,"11, 44",55,"' placed on IR with upper body injury', ' placed on IR with concussion'"
+490,Zemgus,Girgensons,C,2019-20,26,BUF,NHL,69,12,7,19,-1,10,11,0,1,1,7,0,0,85,14.1,144,952,13:48,30,43,41.1,20,110,13,11,,22,22,' placed on IR with leg injury'
+491,Zemgus,Girgensons,C,2021-22,28,BUF,NHL,56,10,8,18,-7,27,7,3,0,1,7,1,0,92,10.9,145,828,14:47,143,144,49.8,25,81,24,10,,"8, 15",23,"' placed on IR with ankle injury', ' placed on IR with upper body injury'"
+492,Zemgus,Girgensons,C,2023-24,30,BUF,NHL,59,8,5,13,1,21,8,0,0,3,5,0,0,72,11.1,132,700,11:52,88,91,49.2,35,140,7,4,,"37, 3, 8",48,"' placed on IR with lower body injury', ' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+493,Thomas,Chabot,D,2016-17,20,OTT,NHL,1,0,0,0,-2,0,0,0,0,0,0,0,0,1,0.0,2,7,7:09,0,0,,0,1,0,1,,19,19,' placed on IR with upper body injury'
+494,Thomas,Chabot,D,2018-19,22,OTT,NHL,70,14,41,55,-12,32,12,1,1,2,26,15,0,185,7.6,377,1700,24:17,0,0,,112,71,31,72,"AS-14,Norris-18","27, 122",149,"' placed on IR with fractured foot', ' placed on IR with shoulder injury'"
+495,Thomas,Chabot,D,2023-24,27,OTT,NHL,45,8,20,28,-5,20,7,1,0,0,14,6,0,102,7.8,234,1056,23:28,0,0,,81,36,21,34,,47,47,' placed on IR recovering from surgery on back'
+496,Valtteri,Filppula,C,2007-08,23,DET,NHL,78,19,17,36,16,28,16,3,0,3,12,5,0,122,15.6,184,1323,16:58,314,307,50.6,26,35,31,32,Selke-40,55,55,' placed on IR with left knee injury'
+497,Valtteri,Filppula,C,2018-19,34,NYI,NHL,72,17,14,31,19,16,16,0,1,4,14,0,0,78,21.8,121,1028,14:16,398,413,49.1,34,12,36,27,,"42, 16",58,"' placed on IR with upper body injury', ' placed on IR with lower body injury'"
+498,Andrew,Shaw,C,2011-12,20,CHI,NHL,37,12,11,23,-1,50,12,0,0,2,7,4,0,74,16.2,130,563,15:12,41,47,46.6,21,82,16,5,Calder-12,122,122,' placed on IR with broken jaw (out for season)'
+499,Andrew,Shaw,C,2014-15,23,CHI,NHL,79,15,11,26,-8,67,10,5,0,2,10,1,0,146,10.3,230,1181,14:57,357,355,50.1,33,127,17,16,,"59, 19",78,"' placed on IR with back injury', ' placed on IR with back injury'"
+500,Nick,Schmaltz,C,2017-18,21,CHI,NHL,78,21,31,52,1,18,17,4,0,2,20,9,2,118,17.8,218,1422,18:14,321,480,40.1,39,13,86,31,,45,45,' placed on IR with knee injury'
+501,Justin,Braun,D,2014-15,27,SJS,NHL,70,1,22,23,8,48,1,0,0,0,20,2,0,94,1.1,211,1472,21:02,0,0,,130,79,19,36,,17,17,' placed on IR with right foot injury'
+502,Justin,Braun,D,2018-19,31,SJS,NHL,78,2,14,16,-14,35,2,0,0,0,13,1,0,105,1.9,223,1584,20:18,0,0,,120,121,34,51,,"35, 20",55,"' placed on IR with lower body injury', ' placed on IR with upper body injury'"
+503,Justin,Braun,D,2022-23,35,PHI,NHL,51,0,2,2,-1,19,0,0,0,0,2,0,0,42,0.0,100,764,14:59,0,0,,49,47,10,10,,41,41,' placed on IR with fractured finger (surgery)'
+504,Josh,Leivo,LW,2015-16,22,TOR,NHL,12,5,0,5,2,6,4,1,0,1,0,0,0,20,25.0,38,148,12:19,1,1,50.0,3,7,4,4,,106,106,' placed on IR with fractured left ankle (CBC)'
+505,Josh,Leivo,LW,2016-17,23,TOR,NHL,13,2,8,10,2,4,1,1,0,0,6,2,0,27,7.4,47,163,12:34,1,1,50.0,4,5,11,2,,9,9,' placed on IR with left elbow injury'
+506,Matt,Dumba,D,2014-15,20,MIN,NHL,58,8,8,16,13,23,6,2,0,2,4,4,0,86,9.3,188,871,15:01,0,0,,51,42,9,28,,"17, 147",164,"' placed on IR with sprained right knee', ' placed on IR with ruptured spleen (out for season)'"
+507,Matt,Dumba,D,2018-19,24,MIN,NHL,32,12,10,22,-5,21,6,6,0,1,4,6,0,93,12.9,200,748,23:23,0,0,,43,60,10,17,,7,7,' placed on IR with upper body injury'
+508,Matt,Dumba,D,2023-24,29,TOT,NHL,71,4,7,11,-18,84,4,0,0,0,7,0,0,75,5.3,183,1410,19:51,0,1,0.0,103,189,9,43,,40,40,' placed on IR with upper body injury'
+509,Andrew,MacDonald,D,2014-15,28,PHI,NHL,58,2,10,12,-5,41,1,1,0,0,6,4,0,62,3.2,152,1161,20:01,0,0,,86,35,12,25,,34,34,' placed on IR with sprained knee'
+510,Andrew,MacDonald,D,2018-19,32,PHI,NHL,47,0,9,9,-5,18,0,0,0,0,7,0,2,41,0.0,103,771,16:24,0,0,,95,30,3,27,,"11, 125",136,"' placed on IR with mid-body injury', ' placed on IR with lower body injury (out for season)'"
+511,Nikolaj,Ehlers,LW,2015-16,19,WPG,NHL,72,15,23,38,3,21,11,4,0,0,16,7,0,167,9.0,304,1159,16:06,0,2,0.0,25,29,20,37,,24,24,' placed on IR with lower body injury'
+512,Nikolaj,Ehlers,LW,2021-22,25,WPG,NHL,62,28,27,55,18,20,24,4,0,2,22,5,0,245,11.4,450,1120,18:04,2,1,66.7,27,32,41,44,Byng-57,30,30,' placed on IR with lower body injury'
+513,Jean-Gabriel,Pageau,C,2013-14,21,OTT,NHL,28,2,0,2,-5,12,2,0,0,0,0,0,0,31,6.5,58,287,10:15,118,128,48.0,12,41,8,11,,"7, 65",72,"' placed on IR with lower body injury', ' placed on IR with foot injury (out for season)'"
+514,Jean-Gabriel,Pageau,C,2014-15,22,OTT,NHL,50,10,9,19,4,9,8,0,2,2,9,0,0,97,10.3,147,709,14:11,335,344,49.3,20,158,19,13,,"33, 9",42,"' placed on IR with shoulder injury', ' placed on IR with lower body injury'"
+515,William,Carrier,LW,2016-17,22,BUF,NHL,41,5,3,8,-1,21,5,0,0,1,3,0,0,50,10.0,72,369,9:00,1,1,50.0,10,112,8,10,,14,14,' placed on IR with lower body injury'
+516,William,Carrier,LW,2018-19,24,VEG,NHL,54,8,1,9,-4,29,8,0,0,1,1,0,0,85,9.4,134,537,9:57,0,0,,13,277,31,10,,4,4,' placed on IR with upper body injury'
+517,Miikka,Salomaki,RW,2017-18,24,NSH,NHL,58,2,6,8,-8,34,2,0,0,0,6,0,0,51,3.9,108,596,10:17,5,7,41.7,35,114,14,8,,8,8,' placed on IR with upper body injury'
+518,Miikka,Salomaki,RW,2018-19,25,NSH,NHL,37,3,4,7,5,8,3,0,0,0,4,0,0,51,5.9,73,387,10:27,2,5,28.6,20,72,6,5,,108,108,' placed on IR with knee injury'
+519,Miikka,Salomaki,RW,2019-20,26,NSH,NHL,5,1,0,1,2,4,1,0,0,1,0,0,0,2,50.0,5,61,12:09,0,0,,3,9,1,3,,27,27,' placed on IR with left leg injury'
+520,Alexander,Steen,C,2014-15,30,STL,NHL,74,24,40,64,8,33,16,8,0,5,24,16,0,223,10.8,413,1479,19:59,222,210,51.4,37,32,39,31,Selke-30,32,32,' placed on IR with lower body injury'
+521,Alexander,Steen,C,2017-18,33,STL,NHL,76,15,31,46,-11,20,10,4,1,2,21,10,0,168,8.9,303,1421,18:42,24,35,40.7,58,53,34,19,,"25, 9",34,"' placed on IR with shoulder injury', ' placed on IR with mouth injury'"
+522,Alexander,Steen,C,2018-19,34,STL,NHL,65,10,17,27,2,14,7,2,1,0,13,3,1,114,8.8,186,1030,15:50,11,18,37.9,50,55,34,16,,"6, 20",26,"' placed on IR with lower body injury', ' placed on IR with fractured orbital bone'"
+523,Alexander,Steen,C,2019-20,35,STL,NHL,55,7,10,17,7,12,7,0,0,0,9,1,0,71,9.9,115,772,14:02,8,7,53.3,47,26,16,12,,13,13,' placed on injured/non-roster list with hip injury'
+524,Reilly,Smith,RW,2018-19,27,VEG,NHL,74,19,34,53,13,14,14,4,1,1,21,10,3,178,10.7,301,1352,18:16,5,2,71.4,33,39,67,54,,29,29,' placed on IR with concussion'
+525,Reilly,Smith,RW,2019-20,28,VEG,NHL,71,27,27,54,17,20,22,3,2,6,23,2,2,169,16.0,266,1272,17:55,3,9,25.0,30,55,58,41,,"4, 151",155,"' placed on IR with upper body injury', ' placed on IR with right leg injury'"
+526,Nick,Bjugstad,C,2012-13,20,FLA,NHL,11,1,0,1,-8,2,1,0,0,0,0,0,0,17,5.9,23,167,15:13,53,79,40.2,2,17,3,2,,139,139,' placed on IR with back injury (out for season)'
+527,Nick,Bjugstad,C,2013-14,21,FLA,NHL,76,16,22,38,-14,16,15,0,1,4,18,3,1,185,8.6,301,1233,16:13,549,574,48.9,23,117,37,28,Calder-13,"33, 15",48,"' placed on IR with back/groin injury', ' placed on IR with shoulder injury'"
+528,Nick,Bjugstad,C,2014-15,22,FLA,NHL,72,24,19,43,-7,38,17,7,0,3,14,5,0,207,11.6,325,1194,16:35,486,508,48.9,29,148,23,28,,184,184,' placed on IR with upper body injury (out for season)'
+529,Nick,Bjugstad,C,2016-17,24,FLA,NHL,54,7,7,14,-19,22,6,1,0,1,5,2,0,91,7.7,154,710,13:09,186,205,47.6,9,72,21,17,,51,51,' placed on IR with surgery on left hand'
+530,Nick,Bjugstad,C,2018-19,26,TOT,NHL,64,14,12,26,6,30,12,2,0,2,8,4,0,154,9.1,,968,15:07,262,268,49.4,27,126,37,39,,"8, 34, 45",87,"' placed on IR with abdominal injury', ' placed on IR with hand injury', ' placed on IR with shoulder injury'"
+531,Jack,Eichel,C,2015-16,19,BUF,NHL,81,24,32,56,-16,22,16,8,0,5,19,13,0,238,10.1,434,1549,19:07,402,578,41.0,25,43,43,49,"AR-1,Calder-4",13,13,' placed on IR with shoulder injury (CBC) / concussion (CBS S T)'
+532,Jack,Eichel,C,2016-17,20,BUF,NHL,61,24,33,57,-13,22,14,10,0,4,19,14,0,249,9.6,428,1215,19:55,310,486,38.9,35,26,38,46,,65,65,' placed on IR with dislocated shoulder'
+533,Jack,Eichel,C,2017-18,21,BUF,NHL,67,25,39,64,-25,32,22,3,0,4,20,17,2,246,10.2,434,1350,20:09,347,489,41.5,35,52,38,61,,9,9,' placed on IR with lower body injury'
+534,Jack,Eichel,C,2020-21,24,BUF,NHL,21,2,16,18,-9,6,1,1,0,1,8,8,0,61,3.3,107,430,20:30,195,197,49.7,15,20,4,11,,10,10,' placed on IR with upper body injury'
+535,Scott,Wilson,C,2016-17,24,PIT,NHL,78,8,18,26,0,32,8,0,0,1,18,0,0,127,6.3,214,854,10:57,3,0,100.0,31,167,20,11,,31,31,' placed on IR with foot / leg injury'
+536,Robert,Thomas,C,2018-19,19,STL,NHL,70,9,24,33,-2,14,6,3,0,0,20,4,0,80,11.3,126,915,13:04,97,123,44.1,22,13,36,30,,4,4,' placed on IR with upper body injury'
+537,Robert,Thomas,C,2022-23,23,STL,NHL,73,18,47,65,-8,22,12,5,1,2,30,17,0,106,17.0,175,1412,19:21,646,575,52.9,29,15,67,40,,23,23,' placed on IR with lower body injury'
+538,Tyler,Bozak,C,2012-13,26,TOR,NHL,46,12,16,28,-1,6,7,4,1,3,11,5,0,61,19.7,115,934,20:19,559,504,52.6,23,65,37,37,"Byng-34,Selke-43",12,12,' placed on IR with concussion'
+539,Tyler,Bozak,C,2017-18,31,TOR,NHL,81,11,32,43,6,28,8,3,0,2,22,10,0,154,7.1,252,1267,15:39,627,542,53.6,28,43,37,42,,"21, 11",32,"' placed on IR with shoulder injury', ' placed on IR with upper body injury'"
+540,Tyler,Bozak,C,2018-19,32,STL,NHL,72,13,25,38,-3,20,11,2,0,3,19,6,0,141,9.2,223,1177,16:21,451,379,54.3,33,52,30,19,,12,12,' placed on IR with lower body injury'
+541,Tyler,Bozak,C,2019-20,33,STL,NHL,67,13,16,29,0,10,10,2,1,2,14,2,0,109,11.9,158,1026,15:19,363,297,55.0,33,32,29,20,,13,13,' placed on IR with lower body injury'
+542,Tyler,Bozak,C,2020-21,34,STL,NHL,31,5,12,17,-3,10,2,1,2,0,8,3,1,35,14.3,56,462,14:55,217,165,56.8,20,17,12,10,,154,154,' placed on IR with surgery on back (out for season)'
+543,Brad,Richardson,C,2015-16,35,DET,NHL,68,10,18,28,4,8,6,4,0,1,8,10,0,164,6.1,307,1006,14:48,124,126,49.6,12,16,15,22,Byng-22,37,37,' placed on IR with foot injury'
+544,Colin,White,D,2005-06,28,NJD,NHL,73,3,14,17,-2,91,2,1,0,1,8,6,0,60,5.0,,1591,21:48,,,,,,,,,12,12,' placed on IR with broken jaw'
+545,Colin,White,D,2007-08,30,NJD,NHL,57,2,8,10,-5,26,2,0,0,1,8,0,0,27,7.4,77,1121,19:40,0,0,,73,106,20,24,,"14, 2, 13",29,"' placed on IR with broken nose', ' placed on IR', ' placed on IR with post concussion syndrome'"
+546,Michael,Rasmussen,C,2018-19,19,DET,NHL,62,8,10,18,-8,29,4,4,0,0,10,0,0,74,10.8,131,749,12:05,23,41,35.9,28,84,12,29,,"23, 16",39,"' placed on IR with lower body injury', ' placed on IR with upper body injury'"
+547,Ryan,Kesler,C,2013-14,29,VAN,NHL,77,25,18,43,-15,81,15,9,1,5,11,7,0,239,10.5,406,1680,21:49,740,666,52.6,68,133,47,28,,4,4,' placed on IR with sprained right wrist'
+548,Ryan,Kesler,C,2016-17,32,ANA,NHL,82,22,36,58,8,83,14,8,0,2,24,12,0,186,11.8,352,1747,21:18,1029,764,57.4,75,146,22,39,"AS-8,Selke-2",21,21,' placed on IR with lower body injury'
+549,Ryan,Kesler,C,2018-19,34,ANA,NHL,60,5,3,8,-19,44,4,1,0,1,1,2,0,86,5.8,149,990,16:30,582,463,55.7,56,93,18,26,,"6, 13",19,"' placed on IR with lower body injury', ' placed on IR with upper body injury'"
+550,Alexander,Petrovic,D,2014-15,22,FLA,NHL,33,0,3,3,-4,34,0,0,0,0,3,0,0,29,0.0,60,537,16:16,0,0,,34,76,4,12,,49,49,' placed on IR with knee injury'
+551,Alexander,Petrovic,D,2015-16,23,FLA,NHL,66,2,15,17,17,90,2,0,0,0,14,0,1,53,3.8,115,1119,16:57,0,0,,76,157,9,24,,8,8,' placed on IR with upper body injury'
+552,Alexander,Petrovic,D,2018-19,26,TOT,NHL,35,0,2,2,-15,26,0,0,0,0,2,0,0,47,0.0,,578,16:32,0,0,,53,116,9,28,,23,23,' placed on IR with fractured rib(s)'
+553,MacKenzie,Weegar,D,2018-19,25,FLA,NHL,64,4,11,15,-3,64,4,0,0,2,10,1,0,79,5.1,156,1086,16:58,1,0,100.0,103,127,34,59,,139,139,' placed on IR with hip injury'
+554,Zac,Rinaldo,C,2014-15,24,PHI,NHL,58,1,5,6,-9,102,1,0,0,0,5,0,0,45,2.2,76,517,8:55,1,2,33.3,20,216,9,9,,22,22,' placed on IR with knee injury'
+555,Zac,Rinaldo,C,2018-19,28,NSH,NHL,23,1,2,3,1,20,1,0,0,1,2,0,0,11,9.1,24,164,7:07,1,4,20.0,8,47,4,2,,"37, 4, 144",185,"' placed on IR with knee injury', ' placed on IR with upper body injury', ' placed on IR with upper body injury'"
+556,Eric,Fehr,RW,2014-15,29,WSH,NHL,75,19,14,33,8,20,17,1,1,4,14,0,0,142,13.4,245,1114,14:51,449,414,52.0,47,84,48,21,Selke-38,"85, 33",118,"' placed on IR with knee injury (CBC SN)', ' placed on IR with high ankle sprain'"
+557,Eric,Fehr,RW,2017-18,32,TOT,NHL,18,3,1,4,6,2,3,0,0,0,1,0,0,27,11.1,,212,11:47,66,73,47.5,14,24,6,4,,"44, 56",100,"' placed on IR with surgery on right knee', ' placed on IR with fractured foot'"
+558,Eric,Fehr,RW,2018-19,33,MIN,NHL,72,7,8,15,-8,30,7,0,0,0,7,0,1,67,10.4,129,795,11:03,364,345,51.3,48,40,32,12,,14,14,' placed on IR with lower body injury'
+559,Zach,Sanford,LW,2019-20,25,STL,NHL,58,16,14,30,13,28,15,1,0,3,14,0,0,90,17.8,159,797,13:44,1,8,11.1,32,109,18,19,,10,10,' placed on IR with head injury'
+560,Miles,Wood,LW,2018-19,23,NJD,NHL,63,10,14,24,-10,91,9,1,0,1,12,2,0,159,6.3,253,863,13:42,0,2,0.0,27,97,19,33,,3,3,' placed on IR with lower body injury'
+561,Miles,Wood,LW,2019-20,24,NJD,NHL,68,11,12,23,-19,57,11,0,0,1,12,0,0,141,7.8,221,900,13:14,0,1,0.0,26,102,15,22,,"15, 71",86,"' placed on IR with fractured hand', ' placed on IR with lower body injury'"
+562,Marc-Edouard,Vlasic,D,2018-19,31,SJS,NHL,72,3,22,25,-6,10,3,0,0,0,21,1,0,100,3.0,236,1515,21:03,0,0,,114,23,24,51,Byng-12,"49, 20",69,"' placed on IR with concussion', ' placed on IR with knee injury'"
+563,Marc-Edouard,Vlasic,D,2020-21,33,SJS,NHL,51,1,5,6,-7,8,1,0,0,0,5,0,0,37,2.7,87,893,17:31,0,0,,64,40,10,15,,95,95,' placed on IR with upper body injury (out for season)'
+564,Marc-Edouard,Vlasic,D,2022-23,35,SJS,NHL,78,1,17,18,-14,16,1,0,0,0,17,0,0,67,1.5,179,1363,17:28,0,0,,116,45,34,37,Byng-32,118,118,' placed on IR with back injury'
+565,Tyler,Pitlick,C,2017-18,26,DAL,NHL,80,14,13,27,9,34,14,0,0,2,12,0,1,129,10.9,244,1094,13:41,13,34,27.7,57,122,25,28,,4,4,' placed on IR with fractured right foot'
+566,Tyler,Pitlick,C,2021-22,30,TOT,NHL,39,1,4,5,-11,6,1,0,0,0,4,0,0,36,2.8,77,427,10:56,4,6,40.0,26,70,14,9,,"22, 155",177,"' placed on IR with concussion', ' placed on IR with lower back injury (surgery) (out for season)'"
+567,Tyler,Pitlick,C,2022-23,31,STL,NHL,61,7,9,16,-1,14,7,0,0,0,9,0,0,54,13.0,96,615,10:05,2,2,50.0,29,103,19,6,,84,84,' placed on IR with groin injury'
+568,David,Perron,LW,2008-09,20,STL,NHL,81,15,35,50,13,50,11,4,0,3,24,11,0,161,9.3,296,1177,14:32,1,5,16.7,18,78,31,24,,29,29,' placed on IR with lower body injury'
+569,David,Perron,LW,2009-10,21,STL,NHL,82,20,27,47,-10,60,14,5,1,2,18,8,1,166,12.0,275,1325,16:09,8,13,38.1,12,78,35,26,,19,19,' placed on IR with rib injury'
+570,David,Perron,LW,2018-19,30,STL,NHL,57,23,23,46,3,46,16,7,0,1,16,7,0,112,20.5,204,974,17:06,15,18,45.5,13,52,41,17,,31,31,' placed on IR with upper body injury'
+571,David,Perron,LW,2019-20,31,STL,NHL,71,25,35,60,2,52,16,9,0,9,17,18,0,166,15.1,324,1300,18:19,3,5,37.5,19,67,39,35,AS-7,2,2,' placed on IR with lower body injury'
+572,Jamie,McGinn,LW,2011-12,23,TOT,NHL,78,20,17,37,-3,37,14,6,0,2,15,2,0,159,12.6,,1049,13:27,6,1,85.7,37,159,29,25,,16,16,' placed on IR with upper body injury'
+573,Nick,Holden,D,2015-16,28,COL,NHL,82,6,16,22,-1,24,6,0,0,0,15,1,0,98,6.1,200,1794,21:53,0,0,,118,217,21,26,,88,88,' placed on IR with shoulder injury'
+574,Nick,Holden,D,2017-18,30,TOT,NHL,73,4,13,17,-5,14,4,0,0,0,10,3,0,80,5.0,,1387,19:00,0,0,,83,136,26,39,,"58, 79",137,"' placed on injured/non-roster list with shoulder injury', ' placed on IR with knee injury'"
+575,Mikko,Koivu,C,2015-16,32,MIN,NHL,82,17,39,56,6,40,6,10,1,2,28,10,1,141,12.1,277,1634,19:56,988,771,56.2,57,38,37,45,Selke-21,25,25,' placed on IR with upper body injury'
+576,Mikko,Koivu,C,2017-18,34,MIN,NHL,82,14,31,45,9,46,11,3,0,2,19,11,1,170,8.2,284,1516,18:29,809,766,51.4,53,51,44,23,Selke-5,10,10,' placed on IR with facial injury'
+577,Mikko,Koivu,C,2018-19,35,MIN,NHL,48,8,21,29,-2,22,6,2,0,0,10,10,1,89,9.0,154,878,18:18,488,406,54.6,32,13,35,10,,"9, 69, 19, 139",236,"' placed on IR with upper body injury', ' placed on IR recovering from surgery on right hand to repair laceration (out indefinitely) (date approximate)', ' placed on IR with lower body injury', ' placed on IR with Achiles injury'"
+578,Ryan,Carpenter,C,2017-18,27,TOT,NHL,52,9,6,15,1,11,8,0,1,2,6,0,0,85,10.6,,655,12:36,200,198,50.3,17,76,17,17,,30,30,' placed on IR with fractured jaw'
+579,Ryan,Carpenter,C,2018-19,28,VEG,NHL,68,5,13,18,-6,8,4,0,1,0,12,0,1,102,4.9,175,858,12:37,161,145,52.6,17,126,30,17,,30,30,' placed on IR with lower body injury'
+580,Evgeni,Malkin,C,2016-17,30,PIT,NHL,62,33,39,72,18,77,22,11,0,6,27,12,0,191,17.3,313,1154,18:37,365,481,43.1,25,40,52,54,AS-6,7,7,' placed on IR with fractured hand'
+581,Evgeni,Malkin,C,2017-18,31,PIT,NHL,78,42,56,98,16,87,28,14,0,7,32,24,0,239,17.6,379,1481,18:59,460,592,43.7,32,48,75,73,"AS-4,Hart-7",14,14,' placed on IR with lower body injury'
+582,Evgeni,Malkin,C,2018-19,32,PIT,NHL,68,21,51,72,-25,89,12,9,0,5,34,17,0,187,11.2,323,1279,18:48,381,452,45.7,33,54,64,84,,"21, 20",41,"' placed on IR with upper body injury', ' placed on IR with lower body injury'"
+583,Evgeni,Malkin,C,2020-21,34,PIT,NHL,33,8,20,28,-4,24,4,4,0,0,15,5,0,72,11.1,126,585,17:44,152,206,42.5,12,18,26,34,,4,4,' placed on IR with upper body injury'
+584,Evgeni,Malkin,C,2022-23,36,PIT,NHL,82,27,56,83,-12,82,16,11,0,3,31,25,0,240,11.3,417,1524,18:35,422,434,49.3,33,53,82,105,,38,38,' placed on IR with lower body injury'
+585,Ian,Cole,D,2020-21,31,TOT,NHL,54,1,7,8,21,32,1,0,0,1,7,0,0,30,3.3,,857,15:53,0,0,,94,38,10,24,,10,10,' placed on IR with upper body injury'
+586,Colton,Sceviour,C,2021-22,32,EDM,NHL,35,2,3,5,-6,26,2,0,0,0,2,0,1,38,5.3,60,332,9:28,29,33,46.8,20,41,9,10,,8,8,' placed on IR with neck injury'
+587,Olli,Maatta,D,2021-22,27,LAK,NHL,66,1,7,8,17,10,1,0,0,0,7,0,0,61,1.6,139,1207,18:17,0,0,,94,67,10,37,,112,112,' placed on IR with neck injury (out for season)'
+588,Olli,Maatta,D,2022-23,28,DET,NHL,78,6,17,23,-9,14,6,0,0,0,17,0,0,62,9.7,137,1459,18:42,0,0,,128,78,23,38,,"31, 23",54,"' placed on IR with strained adductor', ' placed on IR with ankle injury'"
+589,Tyler,Bertuzzi,LW,2018-19,23,DET,NHL,73,21,26,47,11,36,18,3,0,4,23,3,0,131,16.0,249,1206,16:31,10,20,33.3,39,76,34,43,,"78, 78",156,"' placed on IR with lower body injury', ' placed on IR with fractured ankle'"
+590,Tyler,Bertuzzi,LW,2023-24,28,TOR,NHL,74,19,20,39,4,45,14,5,0,2,19,1,0,148,12.8,287,1182,15:58,4,9,30.8,42,89,40,41,,22,22,' placed on IR with left shoulder injury'
+591,David,Pastrnak,RW,2021-22,25,BOS,NHL,72,40,37,77,13,20,25,15,0,9,26,11,0,312,12.8,560,1340,18:36,7,14,33.3,14,63,36,77,AS-5,43,43,' placed on IR with fractured thumb'
+592,Jake,Virtanen,RW,2020-21,24,VAN,NHL,38,5,0,5,-4,41,4,1,0,1,0,0,0,50,10.0,98,466,12:15,9,4,69.2,12,83,15,11,,39,39,' placed on IR with lower body injury'
+593,Ryan,Murray,D,2016-17,23,CBJ,NHL,60,2,9,11,3,24,2,0,0,0,7,1,1,52,3.8,110,1100,18:20,0,0,,96,23,8,18,,6,6,' placed on IR with concussion'
+594,Ryan,Murray,D,2017-18,24,CBJ,NHL,44,1,11,12,4,8,1,0,0,0,11,0,0,34,2.9,86,811,18:26,0,0,,75,31,11,18,,11,11,' placed on IR with upper body injury'
+595,Ryan,Murray,D,2018-19,25,CBJ,NHL,56,1,28,29,20,10,1,0,0,0,27,1,0,71,1.4,141,1201,21:26,0,0,,93,27,22,30,,"7, 142",149,"' placed on IR with lower body injury', ' placed on IR with shoulder injury'"
+596,Ryan,Murray,D,2019-20,26,CBJ,NHL,27,2,7,9,-9,4,2,0,0,0,5,2,0,32,6.3,64,539,19:57,0,0,,50,12,6,15,,183,183,' placed on IR with right shoulder injury (out for season)'
+597,Ryan,Murray,D,2021-22,28,COL,NHL,37,0,4,4,-3,2,0,0,0,0,3,0,1,26,0.0,45,521,14:05,0,0,,41,32,4,8,,79,79,' placed on IR with upper body injury (out for season)'
+598,Ryan,Murray,D,2022-23,29,EDM,NHL,13,0,3,3,-4,4,0,0,0,0,3,0,0,8,0.0,17,171,13:07,0,0,,12,11,0,7,,55,55,' placed on IR with lower body injury'
+599,Jesse,Puljujarvi,RW,2016-17,18,EDM,NHL,28,1,7,8,5,10,0,1,0,0,7,0,0,41,2.4,69,315,11:15,0,1,0.0,10,11,12,10,,17,17,' placed on IR with lower body injury'
+600,Jujhar,Khaira,LW,2018-19,24,EDM,NHL,60,3,15,18,-12,43,2,0,1,0,14,0,1,64,4.7,106,754,12:34,55,71,43.7,33,123,22,26,,"41, 3",44,"' placed on IR with sprained MCL in knee', ' placed on IR with concussion'"
+601,Jujhar,Khaira,LW,2019-20,25,EDM,NHL,64,6,4,10,-19,38,6,0,0,1,4,0,0,69,8.7,119,802,12:32,34,32,51.5,30,136,15,36,,"13, 20",33,"' placed on IR with upper body injury', ' placed on IR with concussion'"
+602,Jujhar,Khaira,LW,2021-22,27,CHI,NHL,27,3,0,3,-4,13,3,0,0,0,0,0,0,32,9.4,51,367,13:36,53,48,52.5,14,88,2,2,,115,115,' placed on IR with eye injury (out for season)'
+603,Andrej,Sekera,D,2010-11,24,BUF,NHL,76,3,26,29,11,34,3,0,0,0,20,6,0,88,3.4,228,1603,21:06,0,0,,85,61,38,51,,7,7,' placed on IR with upper body injury'
+604,Andrej,Sekera,D,2018-19,32,EDM,NHL,24,0,4,4,3,6,0,0,0,0,3,1,0,28,0.0,67,396,16:29,0,0,,21,17,6,13,,40,40,' placed on IR with lower body injury'
+605,Andrej,Sekera,D,2019-20,33,DAL,NHL,57,2,6,8,9,14,1,0,1,0,6,0,0,63,3.2,128,1026,18:00,0,0,,75,34,8,50,,9,9,' placed on IR with upper body injury'
+606,Andrej,Sekera,D,2020-21,34,DAL,NHL,46,3,2,5,12,4,3,0,0,0,2,0,0,33,9.1,76,719,15:38,0,0,,62,47,8,20,,"4, 3",7,"' placed on IR with lower body injury', ' placed on IR with upper body injury'"
+607,Craig,Smith,C,2019-20,30,NSH,NHL,69,18,13,31,18,34,14,4,0,2,10,3,0,184,9.8,280,926,13:25,14,15,48.3,19,60,26,26,,12,12,' placed on IR with sprained left ankle'
+608,Craig,Smith,C,2021-22,32,BOS,NHL,74,16,20,36,2,28,16,0,0,1,16,4,0,187,8.6,318,1067,14:25,4,8,33.3,28,95,21,30,,9,9,' placed on IR with upper body injury'
+609,Brett,Howden,C,2018-19,20,NYR,NHL,66,6,17,23,-16,14,6,0,0,1,15,2,0,74,8.1,126,986,14:56,353,376,48.4,47,64,28,37,,"3, 16, 146",165,"' placed on IR with concussion', ' placed on IR with ankle injury', ' placed on IR with lower body injury'"
+610,Brett,Howden,C,2021-22,23,VEG,NHL,47,9,11,20,9,12,9,0,0,2,9,0,2,39,23.1,69,501,10:39,140,151,48.1,36,62,13,14,,258,258,' placed on IR with various injuries (out for season)'
+611,Brett,Howden,C,2022-23,24,VEG,NHL,54,6,7,13,5,55,6,0,0,0,7,0,0,53,11.3,108,705,13:04,117,110,51.5,34,107,24,7,,"264, 7",271,"' placed on IR with ankle injury (out for season)', ' placed on IR with upper body injury / concussion'"
+612,Jonny,Brodzinski,C,2021-22,28,NYR,NHL,22,1,1,2,1,10,1,0,0,0,1,0,0,34,2.9,52,239,10:51,49,48,50.5,8,8,5,4,,29,29,' placed on IR with lower body injury'
+613,Kyle,Okposo,RW,2018-19,30,BUF,NHL,78,14,15,29,-9,41,7,7,0,2,11,4,0,147,9.5,232,1075,13:47,63,71,47.0,27,87,17,27,,"2, 17",19,"' placed on IR with concussion', ' placed on IR with upper body injury'"
+614,Kyle,Okposo,RW,2019-20,31,BUF,NHL,52,9,10,19,-3,28,8,1,0,2,10,0,0,82,11.0,133,668,12:51,38,33,53.5,15,55,15,13,Byng-39,19,19,' placed on IR with upper body injury'
+615,Kyle,Okposo,RW,2021-22,33,BUF,NHL,74,21,24,45,-15,43,11,8,2,1,18,6,0,174,12.1,304,1241,16:47,92,93,49.7,19,59,24,34,,48,48,' placed on IR with upper body injury'
+616,Kyle,Okposo,RW,2023-24,35,TOT,NHL,65,12,10,22,1,34,9,2,1,0,8,2,0,112,10.7,191,875,13:27,131,143,47.8,35,73,19,11,,"27, 26",53,"' placed on IR with hand injury', ' placed on IR with recovering from surgery on knee'"
+617,Christian,Dvorak,C,2016-17,20,ARI,NHL,78,15,18,33,7,22,13,2,0,1,15,3,0,88,17.0,164,1218,15:37,471,535,46.8,56,72,14,15,,18,18,' placed on IR with lower body injury'
+618,Christian,Dvorak,C,2018-19,22,ARI,NHL,20,2,5,7,-2,2,1,1,0,1,5,0,0,25,8.0,43,288,14:23,125,101,55.3,7,16,12,14,,"30, 147",177,"' placed on IR with fractured left hand', ' placed on IR with knee injury'"
+619,Christian,Dvorak,C,2019-20,23,ARI,NHL,70,18,20,38,6,12,12,6,0,2,16,4,0,134,13.4,221,1169,16:42,523,426,55.1,36,39,20,23,,295,295,' placed on IR with torn ACL in right knee (out for season)'
+620,Christian,Dvorak,C,2021-22,25,MTL,NHL,56,11,22,33,-19,24,10,1,0,1,18,4,0,87,12.6,144,973,17:22,548,419,56.7,52,32,16,32,,278,278,' placed on IR recovering from surgery on right knee (out for season)'
+621,Saku,Maenalanen,RW,2022-23,28,WPG,NHL,64,4,6,10,0,16,4,0,0,0,6,0,0,61,6.6,109,661,10:20,3,5,37.5,31,113,23,16,,32,32,' placed on IR with upper body injury'

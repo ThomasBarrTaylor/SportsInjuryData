@@ -9,10 +9,8 @@ trigger:
 pool: Self-Hosted-Pool
 
 steps:
-- script: jupyter nbconvert --to notebook --execute Data_Collector.ipynb
+- script: jupyter --execute Data_Collector.ipynb
   displayName: 'Run the data collector'
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+- script: jupyter nbconvert --to notebook --execute Machine_Algorithms.ipynb
+  displayName: 'Run the machine learning'
